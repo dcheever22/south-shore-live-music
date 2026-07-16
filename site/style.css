@@ -178,7 +178,7 @@ select:focus-visible {
    tint just the map imagery (not markers/popups/controls) into a muted,
    aged-parchment tone that fits the corkboard theme instead. */
 #map .leaflet-tile-pane {
-  filter: grayscale(0.5) sepia(0.6) saturate(1.2) brightness(0.75) contrast(1.15) hue-rotate(-6deg);
+  filter: sepia(0.35) hue-rotate(-8deg) saturate(1.15);
 }
 
 .map-caption {

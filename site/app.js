@@ -17,8 +17,8 @@ const map = L.map("map", {
 // Can't zoom out past seeing all of Massachusetts.
 map.setMinZoom(map.getBoundsZoom(MASSACHUSETTS_BOUNDS));
 
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png", {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
   maxZoom: 18,
 }).addTo(map);
 const markerLayer = L.layerGroup().addTo(map);
