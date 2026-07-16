@@ -2,6 +2,7 @@ const eventsEl = document.getElementById("events");
 const emptyStateEl = document.getElementById("empty-state");
 const venueFilterEl = document.getElementById("venue-filter");
 const townFilterEl = document.getElementById("town-filter");
+const lastUpdatedEl = document.getElementById("last-updated");
 
 let allEvents = [];
 
@@ -36,6 +37,18 @@ function todayIso() {
     month: "2-digit",
     day: "2-digit",
   }).format(new Date());
+}
+
+function formatLastUpdated(iso) {
+  if (!iso) return "";
+  const formatted = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York",
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(new Date(iso));
+  return `Last updated ${formatted} ET`;
 }
 
 function formatTime(hhmm) {
@@ -257,9 +270,10 @@ function render() {
 fetch(`events.json?t=${Date.now()}`, { cache: "no-store" })
   .then((res) => res.json())
   .then((data) => {
-    allEvents = data;
-    populateFilter(venueFilterEl, data.map((e) => e.venue).filter(Boolean));
-    populateFilter(townFilterEl, data.map((e) => e.town).filter(Boolean));
+    allEvents = data.events;
+    lastUpdatedEl.textContent = formatLastUpdated(data.generated_at);
+    populateFilter(venueFilterEl, allEvents.map((e) => e.venue).filter(Boolean));
+    populateFilter(townFilterEl, allEvents.map((e) => e.town).filter(Boolean));
     render();
   })
   .catch((err) => {

@@ -8,7 +8,7 @@ The GitHub Actions workflow runs this on a schedule.
 """
 
 import json
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from geocode import geocode_events
@@ -22,7 +22,9 @@ KEEP_PAST_DAYS = 3  # drop events older than this so the file doesn't grow forev
 
 def load_existing():
     if OUTPUT_FILE.exists():
-        return {e["id"]: e for e in json.loads(OUTPUT_FILE.read_text())}
+        data = json.loads(OUTPUT_FILE.read_text())
+        events = data["events"] if isinstance(data, dict) else data  # older bare-array format
+        return {e["id"]: e for e in events}
     return {}
 
 
@@ -54,8 +56,13 @@ def main():
         key=lambda e: e["date"] or "9999-99-99",
     )
 
+    output = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "events": events,
+    }
+
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_FILE.write_text(json.dumps(events, indent=2))
+    OUTPUT_FILE.write_text(json.dumps(output, indent=2))
     print(f"Wrote {len(events)} events to {OUTPUT_FILE}")
 
 

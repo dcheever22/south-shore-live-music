@@ -60,18 +60,20 @@ body {
   margin: 0 0 0.65rem;
   font-family: var(--font-display);
   font-weight: 400;
-  font-size: clamp(2.1rem, 6vw, 3.1rem);
+  font-size: clamp(1.4rem, 7vw, 3.1rem);
   letter-spacing: 0.01em;
   color: var(--ink);
   text-shadow: 0 2px 0 var(--shadow);
+  white-space: nowrap;
 }
 
 .subtitle {
   margin: 0 auto;
   max-width: 34rem;
   color: var(--ink-dim);
-  font-size: 0.98rem;
+  font-size: clamp(0.68rem, 3.4vw, 0.98rem);
   line-height: 1.5;
+  white-space: nowrap;
 }
 
 main {
@@ -351,6 +353,15 @@ select:focus-visible {
   font-size: 0.72rem;
   padding: 1.75rem 1.5rem;
   border-top: 1px solid var(--board-line);
+}
+
+.page-footer p {
+  margin: 0 0 0.5rem;
+}
+
+.page-footer p:last-child {
+  margin-bottom: 0;
+  opacity: 0.75;
 }
 
 /* ---------- map popup (Leaflet) ---------- */
