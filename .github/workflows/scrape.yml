@@ -2,12 +2,12 @@ name: Scrape South Shore Live Music
 
 on:
   schedule:
-    # Every 15 minutes, 10am-10pm ET, and nothing outside that window — no
+    # Every 15 minutes, 9am-11pm ET, and nothing outside that window — no
     # one's checking for live music at 5am. GitHub Actions cron is always UTC
-    # with no daylight-saving awareness, so these hours (14-23,0,1 UTC) match
-    # 10am-10pm Eastern during EDT (summer); they'll read as 9am-9pm once
+    # with no daylight-saving awareness, so these hours (13-23,0-3 UTC) match
+    # 9am-11pm Eastern during EDT (summer); they'll read as 8am-10pm once
     # EST (winter) kicks in, until shifted back manually.
-    - cron: "*/15 14-23,0,1 * * *"
+    - cron: "*/15 13-23,0-3 * * *"
   workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab
 
 permissions:
