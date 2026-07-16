@@ -341,9 +341,10 @@ select:focus-visible {
 .empty-state {
   color: var(--ink-dim);
   text-align: center;
-  margin-top: 3rem;
+  margin: 0 0 1.75rem;
   font-family: var(--font-mono);
-  font-size: 0.9rem;
+  font-size: clamp(0.78rem, 3.5vw, 0.9rem);
+  white-space: nowrap;
 }
 
 .page-footer {
