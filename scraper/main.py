@@ -31,6 +31,12 @@ def load_existing():
 def main():
     existing = load_existing()
 
+    # Captured right before the actual Facebook check, not after — geocoding
+    # and photo lookups that follow can take several minutes, and "last
+    # updated" should mean "last time we checked for new data", not "how
+    # long the whole pipeline run happened to take."
+    checked_at = datetime.now(timezone.utc).isoformat()
+
     raw_posts = scrape()
     parsed = parse_sue_posts(raw_posts)
     geocode_events(parsed)
@@ -57,7 +63,7 @@ def main():
     )
 
     output = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "last_checked_at": checked_at,
         "events": events,
     }
 

@@ -271,7 +271,7 @@ fetch(`events.json?t=${Date.now()}`, { cache: "no-store" })
   .then((res) => res.json())
   .then((data) => {
     allEvents = data.events;
-    lastUpdatedEl.textContent = formatLastUpdated(data.generated_at);
+    lastUpdatedEl.textContent = formatLastUpdated(data.last_checked_at);
     populateFilter(venueFilterEl, allEvents.map((e) => e.venue).filter(Boolean));
     populateFilter(townFilterEl, allEvents.map((e) => e.town).filter(Boolean));
     render();

@@ -1,5 +1,4 @@
 {
-  "generated_at": "2026-07-16T02:59:28.498153+00:00",
   "events": [
     {
       "band": "The Up Lates",
@@ -547,5 +546,6 @@
       "photo_source": "venue",
       "link": "https://www.google.com/maps/search/Pillory%20Pub%20Plymouth%20MA"
     }
-  ]
+  ],
+  "last_checked_at": "2026-07-16T02:59:28.498153+00:00"
 }
