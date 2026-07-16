@@ -181,6 +181,17 @@ select:focus-visible {
   filter: sepia(0.35) hue-rotate(-8deg) saturate(1.15);
 }
 
+/* Leaflet's default attribution control is a light box that stands out
+   against the dark map — blend it in instead. */
+#map .leaflet-control-attribution {
+  background: rgba(0, 0, 0, 0.75);
+  color: var(--ink-dim);
+}
+
+#map .leaflet-control-attribution a {
+  color: var(--brass);
+}
+
 .map-caption {
   margin: 0 0 2rem;
   color: var(--ink-dim);
