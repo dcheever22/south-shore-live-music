@@ -23,6 +23,17 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png"
 }).addTo(map);
 const markerLayer = L.layerGroup().addTo(map);
 
+// Collapse the (required) attribution text down to a small tappable "i" icon
+// instead of a persistent strip — one tap/click reveals it, another hides it
+// again. Works the same on mobile (tap) and desktop (click).
+const attributionEl = map.attributionControl.getContainer();
+attributionEl.innerHTML = `<span class="attribution-icon">ⓘ</span><span class="attribution-text">${attributionEl.innerHTML}</span>`;
+attributionEl.classList.add("attribution-collapsed");
+attributionEl.addEventListener("click", (e) => {
+  if (e.target.tagName === "A") return; // let attribution links themselves work normally
+  attributionEl.classList.toggle("attribution-collapsed");
+});
+
 function todayIso() {
   // Shows are all Eastern Time (South Shore MA), so "today" must always be
   // the Eastern calendar date — not UTC (flips a day early every evening)

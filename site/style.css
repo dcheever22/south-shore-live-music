@@ -181,15 +181,33 @@ select:focus-visible {
   filter: sepia(0.35) hue-rotate(-8deg) saturate(1.15);
 }
 
-/* Leaflet's default attribution control is a light box that stands out
-   against the dark map — blend it in instead. */
+/* Leaflet's default attribution control is a light, persistently-visible
+   text strip — collapse it to a small tappable icon instead (required
+   attribution is still one tap away, just not sitting there by default).
+   Toggled via a click handler in app.js, works the same on tap (mobile)
+   and click (desktop) since it doesn't rely on hover. */
 #map .leaflet-control-attribution {
   background: rgba(0, 0, 0, 0.75);
   color: var(--ink-dim);
+  font-size: 0.62rem;
+  cursor: pointer;
+  padding: 1px 5px;
 }
 
 #map .leaflet-control-attribution a {
   color: var(--brass);
+}
+
+#map .leaflet-control-attribution .attribution-icon {
+  opacity: 0.55;
+}
+
+#map .leaflet-control-attribution .attribution-text {
+  margin-left: 0.4em;
+}
+
+#map .leaflet-control-attribution.attribution-collapsed .attribution-text {
+  display: none;
 }
 
 .map-caption {
