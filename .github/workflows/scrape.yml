@@ -1,0 +1,43 @@
+name: Scrape South Shore Live Music
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Restore Facebook session
+        working-directory: scraper
+        env:
+          FB_SESSION_B64: ${{ secrets.FB_SESSION }}
+        run: echo "$FB_SESSION_B64" | base64 --decode > session.json
+
+      - name: Run scraper
+        working-directory: scraper
+        run: python main.py
+
+      - name: Commit updated events
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/events.json site/photos scraper/geocode_cache.json scraper/photo_cache.json scraper/venue_info_cache.json
+          git diff --staged --quiet || git commit -m "Update events.json"
+          git push

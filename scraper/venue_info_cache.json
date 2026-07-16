@@ -1,0 +1,132 @@
+{
+  "21+ soundcheck studios|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/21%2B%20SoundCheck%20Studios%20Pembroke%20MA",
+    "photo": "photos/8fd3117558e4.jpg",
+    "website": "https://soundcheck-studios.com"
+  },
+  "apponagansette park|dartmouth": {
+    "maps_url": "https://www.google.com/maps/search/Apponagansett%20Beach%20Dartmouth%20MA",
+    "photo": "photos/c6473ce76f8d.jpg",
+    "website": "https://town.dartmouth.ma.us"
+  },
+  "baron hugo gazebo at milton town hall|": {
+    "maps_url": "https://www.google.com/maps/search/Baron%20Hugo%20Gazebo%20at%20Milton%20Town%20Hall%20%20MA",
+    "photo": null,
+    "website": "https://townofmilton.org"
+  },
+  "cabby shack|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Cabby%20Shack%20Plymouth%20MA",
+    "photo": "photos/1f9a71e9aae0.jpg",
+    "website": "https://cabbyshack.com"
+  },
+  "cisco brewers|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Cisco%20Kitchen%20%26%20Bar%20New%20Bedford%20MA",
+    "photo": "photos/3ef161b24e7a.jpg",
+    "website": "https://ciscokitchenbar.com"
+  },
+  "demarco park|avon": {
+    "maps_url": "https://www.google.com/maps/search/DeMarco%20Park%20Avon%20MA",
+    "photo": "photos/4c2647ab781c.jpg",
+    "website": null
+  },
+  "hanover crossing|": {
+    "maps_url": "https://www.google.com/maps/search/Hanover%20Crossing%20%20MA",
+    "photo": "photos/4f3a0320359f.jpg",
+    "website": "https://thehanovercrossing.com"
+  },
+  "himalaya restaurant|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/The%20Himalaya%20Restaurant%20and%20Bar%20Plymouth%20MA",
+    "photo": "photos/5c09245df2fd.jpg",
+    "website": "https://thehimalayaplymouth.com"
+  },
+  "laura's center for the arts|hanover": {
+    "maps_url": "https://www.google.com/maps/search/Laura%27s%20Center%20for%20the%20Arts%20Hanover%20MA",
+    "photo": "photos/153962cabf40.jpg",
+    "website": "https://ssymca.org"
+  },
+  "levitate backyard|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Levitate%20Backyard%20Marshfield%20MA",
+    "photo": "photos/a6c50a8ccf97.jpg",
+    "website": "https://levitatebackyard.com"
+  },
+  "liv creative cuisine|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Liv%20Creative%20Cuisine%20Marshfield%20MA",
+    "photo": "photos/a7455328eff8.jpg",
+    "website": "https://livcreativecuisine.com"
+  },
+  "pier 52|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Pier%2052%20Fall%20River%20MA",
+    "photo": "photos/408601ff0a7d.jpg",
+    "website": "https://pier52ferry.com"
+  },
+  "pillory pub|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Pillory%20Pub%20Plymouth%20MA",
+    "photo": "photos/21ffd6950b0d.jpg",
+    "website": null
+  },
+  "plymouth waterfront|": {
+    "maps_url": "https://www.google.com/maps/search/Plymouth%20Waterfront%20Visitor%20Center%20%20MA",
+    "photo": "photos/0b5dc1bbb861.jpg",
+    "website": "https://seeplymouth.com"
+  },
+  "red rose irish pub|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Red%20Rose%20Irish%20Pub%20Weymouth%20MA",
+    "photo": "photos/9079fa5a38ab.jpg",
+    "website": null
+  },
+  "roht marine|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Roht%20Marine%20Marshfield%20MA",
+    "photo": "photos/0fcc8b830385.jpg",
+    "website": "https://rohtmarine.com"
+  },
+  "speedwell tavern|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Speedwell%20Tavern%20Plymouth%20MA",
+    "photo": "photos/b9b07ce0c36f.jpg",
+    "website": "https://speedwellplymouth.com"
+  },
+  "star drive in|taunton": {
+    "maps_url": "https://www.google.com/maps/search/Star%20Drive%20In%20Taunton%20MA",
+    "photo": "photos/40490d2720f9.png",
+    "website": "https://thestardrivein.com"
+  },
+  "stoneforge tavern|raynham": {
+    "maps_url": "https://www.google.com/maps/search/Stoneforge%20Tavern%20Raynham%20MA",
+    "photo": "photos/55c7854803db.jpg",
+    "website": "https://stoneforgerestaurants.com"
+  },
+  "the drift|hull": {
+    "maps_url": "https://www.google.com/maps/search/The%20Drift%20Hull%20MA",
+    "photo": "photos/095900076a73.jpg",
+    "website": "https://drifthull.com"
+  },
+  "the jetty|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/The%20Jetty%20Marshfield%20MA",
+    "photo": "photos/cb5e673e522c.png",
+    "website": "https://thejetty-marshfield.com"
+  },
+  "the voyage|humarock": {
+    "maps_url": "https://www.google.com/maps/search/The%20Voyage%20Humarock%20MA",
+    "photo": "photos/095e4cfab2e9.jpg",
+    "website": "https://thevoyagehumarock.com"
+  },
+  "tinker\u2019s son|norwell": {
+    "maps_url": "https://www.google.com/maps/search/Tinker%E2%80%99s%20Son%20Norwell%20MA",
+    "photo": "photos/054105b14a03.jpg",
+    "website": "https://thetinkersson.com"
+  },
+  "tipsy seagull|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Tipsy%20Seagull%20Fall%20River%20MA",
+    "photo": "photos/6332489d06b9.jpg",
+    "website": "https://thetipsyseagull.com"
+  },
+  "tipsy toboggan|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Tipsy%20Toboggan%20Fall%20River%20MA",
+    "photo": "photos/a4e94a139671.jpg",
+    "website": "https://thetipsytoboggan.com"
+  },
+  "tufts library|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Tufts%20Library%20Weymouth%20MA",
+    "photo": "photos/7d3ffc78fc85.jpg",
+    "website": "https://weymouth.ma.us"
+  }
+}
