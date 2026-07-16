@@ -283,8 +283,15 @@ fetch(`events.json?t=${Date.now()}`, { cache: "no-store" })
   .then((data) => {
     allEvents = data.events;
     lastUpdatedEl.textContent = formatLastUpdated(data.last_checked_at);
-    populateFilter(venueFilterEl, allEvents.map((e) => e.venue).filter(Boolean));
-    populateFilter(townFilterEl, allEvents.map((e) => e.town).filter(Boolean));
+
+    // Filter options should only ever offer towns/venues that actually have
+    // something upcoming — events.json keeps a few days of past data around
+    // (see KEEP_PAST_DAYS in main.py), so without this a town from
+    // yesterday with nothing on today's list would still show as a choice.
+    const today = todayIso();
+    const upcomingForFilters = allEvents.filter((e) => !e.date || e.date >= today);
+    populateFilter(venueFilterEl, upcomingForFilters.map((e) => e.venue).filter(Boolean));
+    populateFilter(townFilterEl, upcomingForFilters.map((e) => e.town).filter(Boolean));
     render();
   })
   .catch((err) => {
