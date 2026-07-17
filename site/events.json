@@ -729,9 +729,9 @@
       "source_post_id": "10243784179885915",
       "raw_text": "* Paul Horton, 5:30-8:30\nSurfside Smokehouse, Plymouth",
       "scraped_at": "2026-07-17T00:53:36.657488+00:00",
-      "lat": 41.9426657,
-      "lon": -70.7618592,
-      "geocode_precision": "town",
+      "lat": 41.955785,
+      "lon": -70.660842,
+      "geocode_precision": "venue",
       "photo": "photos/5f11c6507e7c.webp",
       "photo_source": "artist",
       "link": "https://surfsidesmokehouse.com"

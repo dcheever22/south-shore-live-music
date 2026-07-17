@@ -343,10 +343,10 @@
     "precision": "venue"
   },
   "surfside smokehouse, plymouth": {
-    "display_name": "Plymouth",
-    "lat": 41.9426657,
-    "lon": -70.7618592,
-    "precision": "town"
+    "display_name": "14 Union Street, Plymouth, MA 02360",
+    "lat": 41.955785,
+    "lon": -70.660842,
+    "precision": "venue"
   },
   "the cave at red lion, cohasset": {
     "display_name": "Cohasset",
