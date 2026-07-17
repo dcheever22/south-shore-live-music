@@ -6,6 +6,21 @@ const lastUpdatedEl = document.getElementById("last-updated");
 
 let allEvents = [];
 
+// Defensive belt-and-suspenders: event.link/post_url are always either
+// prefixed "https://" by our own scraper code or come straight from
+// Facebook's structured API fields, never raw free text, so there's no
+// realistic path to a javascript: URI today — but cheap insurance against
+// that changing later, since these get set directly as an <a> href.
+function safeUrl(url) {
+  if (!url) return null;
+  try {
+    const parsed = new URL(url, window.location.href);
+    return ["http:", "https:"].includes(parsed.protocol) ? url : null;
+  } catch {
+    return null;
+  }
+}
+
 const SOUTH_SHORE_CENTER = [42.05, -70.85];
 const MASSACHUSETTS_BOUNDS = L.latLngBounds([41.1, -73.6], [42.9, -69.8]);
 
@@ -134,7 +149,7 @@ function hashString(str) {
 function buildEventCard(event, index) {
   const card = document.createElement("a");
   card.className = "event-card";
-  card.href = event.link || event.post_url;
+  card.href = safeUrl(event.link) || safeUrl(event.post_url) || "#";
   card.target = "_blank";
   card.rel = "noopener noreferrer";
 
@@ -203,7 +218,7 @@ function buildPopupContent(venue, town, events) {
     showLine.className = "popup-show";
 
     const link = document.createElement("a");
-    link.href = event.link || event.post_url;
+    link.href = safeUrl(event.link) || safeUrl(event.post_url) || "#";
     link.target = "_blank";
     link.rel = "noopener noreferrer";
     const parts = [event.band || "Untitled show"];
