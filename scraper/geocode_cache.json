@@ -1,8 +1,51 @@
 {
+  "$10, c note, hull": {
+    "display_name": "C Note Music Club, 159, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2678215,
+    "lon": -70.8526223,
+    "precision": "venue"
+  },
+  "$5, pete\u2019s grille, quincy": {
+    "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2435805,
+    "lon": -70.9760563,
+    "precision": "venue"
+  },
   "21+ soundcheck studios, pembroke": {
     "display_name": "150, Corporate Park Drive, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.1012694,
     "lon": -70.7720353,
+    "precision": "venue"
+  },
+  "21+, soundcheck studios, pembroke": {
+    "display_name": "150, Corporate Park Drive, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.1012694,
+    "lon": -70.7720353,
+    "precision": "venue"
+  },
+  "4 north st, plymouth": {
+    "display_name": "4, North Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9574619,
+    "lon": -70.6651344,
+    "precision": "venue"
+  },
+  "550 tavern, halifax": {
+    "display_name": "550, Monponsett Street, Camp Ousamequin, Halifax, Plymouth County, Massachusetts, 02350, United States",
+    "lat": 42.0093449,
+    "lon": -70.8434718,
+    "precision": "venue"
+  },
+  "abington ale house, none": null,
+  "alba on 53, hanover": {
+    "display_name": "Alba on 53, 2053, Washington Street, Hanover, Plymouth County, Massachusetts, 02061, United States",
+    "lat": 42.1558124,
+    "lon": -70.8482236,
+    "precision": "venue"
+  },
+  "alibi tavern, whitman": {
+    "display_name": "546, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
+    "lat": 42.0797443,
+    "lon": -70.9374948,
     "precision": "venue"
   },
   "apponagansette park, dartmouth": {
@@ -12,6 +55,18 @@
     "precision": "venue"
   },
   "baron hugo gazebo at milton town hall, none": null,
+  "barrett\u2019s, bridgewater": {
+    "display_name": "Barrett\u2019s Alehouse - West Bridgewater, 674, West Center Street, Cochesett, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
+    "lat": 42.0113304,
+    "lon": -71.0488419,
+    "precision": "venue"
+  },
+  "bay pointe waterfront, quincy": {
+    "display_name": "Bay Pointe Waterfront Restaurant, 64, Washington Court, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.250199,
+    "lon": -70.9753809,
+    "precision": "venue"
+  },
   "bbc, plymouth": {
     "display_name": "British Beer Company, 6, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9567382,
@@ -36,6 +91,12 @@
     "lon": -70.8616737,
     "precision": "venue"
   },
+  "break rock brewing, quincy": {
+    "display_name": "Break Rock Brewing, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
+    "lat": 42.2995468,
+    "lon": -71.0310203,
+    "precision": "venue"
+  },
   "brewster bar, plymouth": {
     "display_name": "Main Street, Rocky Nook, Kingston, Plymouth County, Massachusetts, 02364, United States",
     "lat": 41.9824473,
@@ -43,6 +104,12 @@
     "precision": "venue"
   },
   "bridgewater citizens club, none": null,
+  "buzzards bay brewing, westport": {
+    "display_name": "Buzzard's Bay Brewery, 98, Horseneck Road, South Westport, Westport, Bristol County, Massachusetts, 02791, United States",
+    "lat": 41.5677879,
+    "lon": -71.0500952,
+    "precision": "venue"
+  },
   "buzzards bay gazebo, none": null,
   "cabby shack, plymouth": {
     "display_name": "Cabbyshack, 30, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
@@ -55,6 +122,12 @@
     "lat": 41.7015252,
     "lon": -71.1683318,
     "precision": "venue"
+  },
+  "captain\u2019s hideaway, cohasset": {
+    "display_name": "Cohasset",
+    "lat": 42.2410158,
+    "lon": -70.8035571,
+    "precision": "town"
   },
   "cisco brewers, new bedford": {
     "display_name": "Cisco Brewers Kitchen & Bar, 1482, East Rodney French Boulevard, New Bedford, Bristol County, Massachusetts, 02744, United States",
@@ -69,10 +142,34 @@
     "lon": -71.1507699,
     "precision": "venue"
   },
+  "coops, quincy": {
+    "display_name": "520, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.247582,
+    "lon": -70.980285,
+    "precision": "venue"
+  },
   "cork wine & tapas, new bedford": {
     "display_name": "Cork Wine and Tapas, 90, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.6349037,
     "lon": -70.9219229,
+    "precision": "venue"
+  },
+  "cornerstones, carver": {
+    "display_name": "96, North Main Street, North Carver, Carver, Plymouth County, Massachusetts, 02330, United States",
+    "lat": 41.9214118,
+    "lon": -70.8046631,
+    "precision": "venue"
+  },
+  "crue brew, raynham": {
+    "display_name": "95, Ryan Drive, Raynham, Bristol County, Massachusetts, 02742, United States",
+    "lat": 41.9777809,
+    "lon": -71.0732263,
+    "precision": "venue"
+  },
+  "daddy\u2019s beach club, hull": {
+    "display_name": "Daddy's Beach Bar, 280, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2741353,
+    "lon": -70.8608583,
     "precision": "venue"
   },
   "deep pond farm, e. taunton": {
@@ -85,6 +182,12 @@
     "display_name": "John J DeMarco Park, Avon, Norfolk County, Massachusetts, United States",
     "lat": 42.1342568,
     "lon": -71.0366065,
+    "precision": "venue"
+  },
+  "doctor's island, hull": {
+    "display_name": "Black Rock Island, Hull, Plymouth County, Massachusetts, United States",
+    "lat": 42.269327,
+    "lon": -70.8240694,
     "precision": "venue"
   },
   "e. bridgewater, none": {
@@ -136,10 +239,22 @@
     "lon": -70.6656372,
     "precision": "venue"
   },
+  "j&g hillside grill, stoughton": {
+    "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
+    "lat": 42.1061845,
+    "lon": -71.0762816,
+    "precision": "venue"
+  },
   "j&g hillside pub, stoughton": {
     "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
     "lat": 42.1061845,
     "lon": -71.0762816,
+    "precision": "venue"
+  },
+  "j&r\u2019s indian head, hanson": {
+    "display_name": "278, Main Street, Bryantville, Hanson, Plymouth County, Massachusetts, 02350, United States",
+    "lat": 42.0428835,
+    "lon": -70.8524432,
     "precision": "venue"
   },
   "jetty, marshfield": {
@@ -152,6 +267,12 @@
     "display_name": "The Jockey Club, 115, New State Highway, Raynham Center, Raynham, Bristol County, Massachusetts, 02767, United States",
     "lat": 41.9044928,
     "lon": -71.06072,
+    "precision": "venue"
+  },
+  "jo\u2019s nautical, hull": {
+    "display_name": "Jo's Nautical Bar, 125, Main Street, Pemberton, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.3042954,
+    "lon": -70.916203,
     "precision": "venue"
   },
   "knuckleheads, new bedford": {
@@ -202,11 +323,41 @@
     "lon": -71.0659049,
     "precision": "venue"
   },
+  "mamma mia\u2019s, marshfield": {
+    "display_name": "93, Careswell Street, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.0819333,
+    "lon": -70.6525928,
+    "precision": "venue"
+  },
+  "marshfield town green, none": {
+    "display_name": "Marshfield Boat Launch Facility, Town Pier Road, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, United States",
+    "lat": 42.0833808,
+    "lon": -70.6460132,
+    "precision": "venue"
+  },
+  "martini's, whitman": {
+    "display_name": "552, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
+    "lat": 42.0799647,
+    "lon": -70.9374175,
+    "precision": "venue"
+  },
   "martinis, whitman": {
     "display_name": "552, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
     "lat": 42.0799647,
     "lon": -70.9374175,
     "precision": "venue"
+  },
+  "mattapoisett, none": {
+    "display_name": "Mattapoisett, Plymouth County, Massachusetts, 02739, United States",
+    "lat": 41.6580466,
+    "lon": -70.8135195,
+    "precision": "venue"
+  },
+  "mayflower beer garden, pinehills, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
   },
   "mcswiggans, weymouth": {
     "display_name": "450, Washington Street, Weymouth, Norfolk County, Massachusetts, 02188, United States",
@@ -218,6 +369,12 @@
     "display_name": "1, Proprietors Drive, Marshfield, Plymouth County, Massachusetts, 02050, United States",
     "lat": 42.1031756,
     "lon": -70.7410165,
+    "precision": "venue"
+  },
+  "next page, weymouth": {
+    "display_name": "The Next Page, Broad Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.217659,
+    "lon": -70.9372324,
     "precision": "venue"
   },
   "off the hook, quincy": {
@@ -238,10 +395,22 @@
     "lon": -71.1683318,
     "precision": "venue"
   },
+  "pilgrim sands on long beach, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "pillory pub, plymouth": {
     "display_name": "Pillory Pub, 72, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9587447,
     "lon": -70.6629329,
+    "precision": "venue"
+  },
+  "players, rockland": {
+    "display_name": "86, Veterans of Foreign Wars Drive, Hatherly, Rockland, Plymouth County, Massachusetts, 02370, United States",
+    "lat": 42.1472079,
+    "lon": -70.9185821,
     "precision": "venue"
   },
   "plymouth library, none": {
@@ -264,6 +433,7 @@
     "precision": "town"
   },
   "randolph amvets post 51, none": null,
+  "randolph amvets, none": null,
   "red hand brewing, lakeville": {
     "display_name": "348, Bedford Street, Sampsons Corner, Lakeville, Plymouth County, Massachusetts, 02347, United States",
     "lat": 41.8399796,
@@ -288,6 +458,25 @@
     "lon": -70.7431044,
     "precision": "venue"
   },
+  "rose alley alehouse, new bedford": {
+    "display_name": "94, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.6350396,
+    "lon": -70.921958,
+    "precision": "venue"
+  },
+  "ruth gordon amphitheater, hingham shipyard": {
+    "display_name": "Hingham Shipyard",
+    "lat": 42.2530707,
+    "lon": -70.9196581,
+    "precision": "town"
+  },
+  "sail house tavern, fairhaven": {
+    "display_name": "109, Middle Street, Fairhaven, Bristol County, Massachusetts, 02719, United States",
+    "lat": 41.6417531,
+    "lon": -70.9068591,
+    "precision": "venue"
+  },
+  "sandy\u2019s on plymouth beach, none": null,
   "scarlet oak tavern, hingham": {
     "display_name": "Scarlet Oak Tavern, 1217, Main Street, Liberty Plain, Hingham, Plymouth County, Massachusetts, 02043, United States",
     "lat": 42.1758258,
@@ -300,10 +489,23 @@
     "lon": -70.7243059,
     "precision": "venue"
   },
+  "scituate vfw, none": null,
+  "shipwreck\u2019d, hull": {
+    "display_name": "Pemberton Point Ferry Terminal, 173, Main Street, Pemberton, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.3034576,
+    "lon": -70.9199367,
+    "precision": "venue"
+  },
   "shovel town brewery, easton": {
     "display_name": "Shovel Town Brewery, Elm Street, North Easton, Easton, Bristol County, Massachusetts, 02356, United States",
     "lat": 42.0714776,
     "lon": -71.1032367,
+    "precision": "venue"
+  },
+  "sip 1620 wine bar, plymouth": {
+    "display_name": "1620 Winery Wine Bar, 170, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9624276,
+    "lon": -70.6692569,
     "precision": "venue"
   },
   "soundcheck, pembroke": {
@@ -330,10 +532,22 @@
     "lon": -71.0931485,
     "precision": "town"
   },
+  "stellwagen beer, marshfield": {
+    "display_name": "100, Enterprise Drive, Standish, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.103653,
+    "lon": -70.7480924,
+    "precision": "venue"
+  },
   "stoneforge grill, easton": {
     "display_name": "Stoneforge Grill, 10, Roosevelt Circle, Morse Corner, North Easton, Easton, Bristol County, Massachusetts, 02357, United States",
     "lat": 42.051231,
     "lon": -71.085052,
+    "precision": "venue"
+  },
+  "stoneforge publick house, raynham": {
+    "display_name": "90, Paramount Drive, Raynham, Bristol County, Massachusetts, 02767, United States",
+    "lat": 41.9035363,
+    "lon": -71.035245,
     "precision": "venue"
   },
   "stoneforge tavern, raynham": {
@@ -348,6 +562,12 @@
     "lon": -70.660842,
     "precision": "venue"
   },
+  "tavern on the wharf, plymouth": {
+    "display_name": "Tavern on the Wharf, 6, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9618207,
+    "lon": -70.667218,
+    "precision": "venue"
+  },
   "the cave at red lion, cohasset": {
     "display_name": "Cohasset",
     "lat": 42.2410158,
@@ -360,10 +580,22 @@
     "lon": -70.9415701,
     "precision": "venue"
   },
+  "the cove, fall river": {
+    "display_name": "The Cove Restaurant & Marina, 392, Davol Street, Fall River Station, Fall River, Bristol County, Massachusetts, 02720, United States",
+    "lat": 41.7093714,
+    "lon": -71.1591633,
+    "precision": "venue"
+  },
   "the drift, hull": {
     "display_name": "48, George Washington Boulevard, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2701079,
     "lon": -70.8578862,
+    "precision": "venue"
+  },
+  "the galley, scituate": {
+    "display_name": "93;95;99, Front Street, Second Cliff, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.1948374,
+    "lon": -70.7253794,
     "precision": "venue"
   },
   "the jetty, marshfield": {
@@ -372,10 +604,28 @@
     "lon": -70.6444384,
     "precision": "venue"
   },
+  "the parrot, hull": {
+    "display_name": "The Parrot, 1, Hull Shore Drive, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2735367,
+    "lon": -70.8601111,
+    "precision": "venue"
+  },
+  "the snug, hingham": {
+    "display_name": "116, North Street, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2425833,
+    "lon": -70.8889052,
+    "precision": "venue"
+  },
   "the voyage, humarock": {
     "display_name": "The Voyage, 14, Marshfield Avenue, Humarock, Scituate, Plymouth County, Massachusetts, 02047, United States",
     "lat": 42.1382843,
     "lon": -70.6911511,
+    "precision": "venue"
+  },
+  "three v sandbar, plymouth": {
+    "display_name": "Loring Boulevard, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.9782997,
+    "lon": -70.689469,
     "precision": "venue"
   },
   "tinker\u2019s son, norwell": {
@@ -396,11 +646,23 @@
     "lon": -71.1675439,
     "precision": "venue"
   },
+  "tipsy tuna, hull": {
+    "display_name": "276, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2739299,
+    "lon": -70.8607113,
+    "precision": "venue"
+  },
   "tosca, hingham": {
     "display_name": "Hingham",
     "lat": 42.2417669,
     "lon": -70.8897676,
     "precision": "town"
+  },
+  "towne tap & tavern, e. bridgewater": {
+    "display_name": "175, North Bedford Street, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
+    "lat": 42.0382156,
+    "lon": -70.9571353,
+    "precision": "venue"
   },
   "towne tavern treehouse, pembroke": {
     "display_name": "242, Mattakeesett Street, Oldham Village, Pembroke, Plymouth County, Massachusetts, 02359, United States",
@@ -412,6 +674,36 @@
     "display_name": "Tufts Library, 46, Broad Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2157114,
     "lon": -70.9652587,
+    "precision": "venue"
+  },
+  "untold brewing, scituate": {
+    "display_name": "6, Old Country Way, Greenbush, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.1808626,
+    "lon": -70.7472132,
+    "precision": "venue"
+  },
+  "washington no7, norwood": {
+    "display_name": "Washington Heights, Norwood, Norfolk County, Massachusetts, United States",
+    "lat": 42.2001076,
+    "lon": -71.1935323,
+    "precision": "venue"
+  },
+  "weymouth town hall, none": {
+    "display_name": "Weymouth Town Hall, 75, Middle Street, Weymouth Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
+    "lat": 42.2219685,
+    "lon": -70.9391359,
+    "precision": "venue"
+  },
+  "wollaston gardens, quincy": {
+    "display_name": "Wollaston Gardens, Chapman Street, Wollaston Park, Wollaston, North Quincy, Quincy, Norfolk County, Massachusetts, 02170, United States",
+    "lat": 42.2671928,
+    "lon": -71.0162351,
+    "precision": "venue"
+  },
+  "wolves den, pembroke": {
+    "display_name": "340, Oak Street, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.1052134,
+    "lon": -70.7693719,
     "precision": "venue"
   }
 }
