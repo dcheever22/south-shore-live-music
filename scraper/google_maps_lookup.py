@@ -5,11 +5,10 @@ is volunteer-maintained and spotty for small local bars, while Google's is
 much more complete.
 
 This is explicitly against Google's Terms of Service, same category of risk
-as the Facebook scraping elsewhere in this project. Google's bot defenses
-are generally tougher, especially from datacenter IPs like GitHub Actions
-runners, so this can start failing or get blocked at any time. That's fine —
-every call here is wrapped so a failure just falls through to the existing
-town-center fallback in geocode.py rather than breaking the pipeline.
+as the Facebook scraping elsewhere in this project, and can start failing or
+get blocked at any time. That's fine — every call here is wrapped so a
+failure just falls through to the existing town-center fallback in
+geocode.py rather than breaking the pipeline.
 
 We only scrape an ADDRESS here, not coordinates — the address then goes
 through Nominatim's normal structured geocoding (geocode.py), which is

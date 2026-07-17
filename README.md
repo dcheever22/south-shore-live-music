@@ -4,7 +4,7 @@ Auto-updated map and listing of live music on Massachusetts's South Shore, sourc
 
 ## How it works
 
-- `scraper/scrape.py` logs into Facebook (via a **throwaway account**) and intercepts Facebook's own internal GraphQL responses while loading and scrolling both the group and her page. Reading rendered HTML didn't work — see "Why GraphQL interception" below — but the underlying data Facebook fetches to build the page is plain, unobfuscated JSON.
+- `scraper/scrape.py` logs into Facebook (via a **throwaway account**) and reads the group and her page while scrolling through recent posts.
 - It only keeps posts by her that contain the phrase "local live music" — she posts plenty of other things, and posts the same roundup to both places (usually identical), so we scope tightly to that one post and use whichever copy is newest.
 - `scraper/parse_sue.py` is purpose-built for her specific format: one block per show (act, time, venue, town), separated by blank lines, with "NEXT WEEK" markers that shift the reference date forward. This is far more reliable than trying to parse arbitrary member posts, which is why the scraper is scoped to just her.
 - `scraper/geocode.py` looks up a precise pin for each venue via OpenStreetMap's free Nominatim geocoder, falling back to the town's center if the specific place can't be found. Results are cached to `scraper/geocode_cache.json` (committed to the repo) so a venue is only ever looked up once.
@@ -13,14 +13,6 @@ Auto-updated map and listing of live music on Massachusetts's South Shore, sourc
 - `site/` is a plain static site (no build step, uses Leaflet + free OpenStreetMap tiles for the map) that reads `events.json` and renders both a map and a list. Host it free via GitHub Pages.
 
 **Important:** scraping Facebook is against its Terms of Service. Using a throwaway account (not your personal one) limits the blast radius if Facebook restricts or bans it — you rejoin with a new throwaway account and re-run the login step. Facebook can also change its site at any time in ways that break this; if `events.json` stops updating, check the Actions tab for failures first.
-
-### Why GraphQL interception, not just reading the page
-
-Two things ruled out simpler approaches:
-- `mbasic.facebook.com` / `m.facebook.com` ("lite" HTML versions, easy to parse) now hard-redirect to the full site for this account.
-- The full site's rendered post text is obfuscated in the DOM (scrambled into individual characters) as an anti-scraping measure.
-
-Facebook's GraphQL responses that the page fetches to render the feed are not obfuscated, so `scrape.py` reads those directly instead of the rendered HTML.
 
 ## One-time setup
 
@@ -55,4 +47,4 @@ Facebook's GraphQL responses that the page fetches to render the feed are not ob
 - **Session expires**: the scheduled run will start failing (visible in the Actions tab). Re-run `python login.py` locally and update the `FB_SESSION` secret with the new `session.json`.
 - **Sue changes her post format**: re-check the block structure in `scraper/parse_sue.py` against a fresh real post (see the comments at the top of that file for the expected shape).
 - **A venue's pin is missing or wrong**: check `scraper/geocode_cache.json` — delete that venue's entry to force a fresh lookup on the next run. Some very informal venue descriptions (e.g. "Plymouth Waterfront") aren't real OpenStreetMap places and will never resolve to an exact pin; the list still shows them, just without a marker.
-- **Scraper breaks after a Facebook markup change**: capture a fresh GraphQL response (open the page in a real browser signed into the throwaway account, watch the Network tab for `graphql` requests) and re-check the structure `extract_stories` in `scraper/scrape.py` expects.
+- **Scraper breaks after a Facebook change**: check `scraper/scrape.py` for what it expects to find and adjust as needed.

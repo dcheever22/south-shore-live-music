@@ -1,16 +1,8 @@
 """
 Pulls Sue Petersen's current weekly "LOCAL LIVE MUSIC" roundup post from
-both the group and her personal page, by intercepting Facebook's internal
-GraphQL responses while each feed loads and scrolls.
-
-Why not just read the rendered page? Two dealbreakers ruled it out:
-  - mbasic.facebook.com / m.facebook.com ("lite" HTML versions) now hard-redirect
-    to the full www.facebook.com site for this account.
-  - The full site's rendered post text is obfuscated in the DOM (scrambled
-    into individual characters) as an anti-scraping measure.
-The GraphQL responses the page fetches to render the feed are NOT obfuscated
-and contain clean post text, author, timestamp, and permalink — so we read
-those directly instead of the rendered HTML.
+both the group and her personal page, by reading the feed data Facebook
+sends the page as it loads and scrolls (more reliable here than parsing the
+rendered page directly).
 
 Requires session.json (see login.py). Run directly to sanity-check output:
     python scrape.py

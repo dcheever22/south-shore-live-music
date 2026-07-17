@@ -3,14 +3,10 @@ Best-effort photo + link lookup for event cards: an artist photo when one can
 be found (else a photo of the venue instead), and a link to the venue's own
 page (its website, or its Google Maps listing) instead of Sue's Facebook post.
 
-Two different free sources, because Google's plain Search/Images product
-blocks automated traffic almost immediately — tested live, it redirects
-straight to a CAPTCHA wall ("/sorry/") on the very first request. Google Maps
-and Bing did not show that behavior in testing:
+Two different free sources:
   - Artist photos: Bing Image Search (no key required).
   - Venue photo/website/maps link: all pulled from one visit to the venue's
-    own Google Maps listing, since Maps has been reliable throughout this
-    project.
+    own Google Maps listing.
 
 There's no automatic way to confirm a Bing image search result is actually a
 photo of this specific small local band rather than an unrelated same-named
