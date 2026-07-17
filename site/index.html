@@ -24,7 +24,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rye&family=IBM+Plex+Mono:wght@500;600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="style.css?v=10">
+<link rel="stylesheet" href="style.css?v=11">
 </head>
 <body>
 
@@ -62,6 +62,18 @@
   <div id="events" class="events"></div>
 </main>
 
+<div id="link-modal-overlay" class="link-modal-overlay" hidden>
+  <div class="link-modal" role="dialog" aria-modal="true" aria-labelledby="link-modal-title">
+    <p id="link-modal-title" class="link-modal-title">Leaving the board</p>
+    <p class="link-modal-body">Head over to <span id="link-modal-label"></span>?</p>
+    <p id="link-modal-url" class="link-modal-url"></p>
+    <div class="link-modal-actions">
+      <button type="button" id="link-modal-cancel" class="link-modal-btn link-modal-btn-secondary">Stay here</button>
+      <a id="link-modal-confirm" class="link-modal-btn link-modal-btn-primary" target="_blank" rel="noopener noreferrer">Take me there</a>
+    </div>
+  </div>
+</div>
+
 <footer class="page-footer">
   <p>Event details are automatically pulled from Facebook, so there may be occasional inaccuracies. Tap an event to verify details on the venue's official page.</p>
   <p id="last-updated" class="last-updated"></p>
@@ -69,6 +81,6 @@
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="app.js?v=16"></script>
+<script src="app.js?v=17"></script>
 </body>
 </html>

@@ -431,3 +431,93 @@ select:focus-visible {
 .map-popup .popup-show a {
   color: inherit;
 }
+
+/* ---------- link confirmation modal ---------- */
+
+.link-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem;
+  z-index: 1000;
+  animation: fade-in 0.15s ease;
+}
+
+.link-modal-overlay[hidden] {
+  display: none;
+}
+
+.link-modal {
+  background: var(--card);
+  border: 1px solid var(--board-line);
+  border-radius: 6px;
+  box-shadow: 0 12px 32px var(--shadow);
+  max-width: 360px;
+  width: 100%;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.link-modal-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--ink);
+  margin: 0 0 0.6rem;
+}
+
+.link-modal-body {
+  color: var(--ink);
+  font-size: 0.95rem;
+  margin: 0 0 0.5rem;
+}
+
+.link-modal-body span {
+  font-weight: 600;
+  color: var(--brass);
+}
+
+.link-modal-url {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--ink-dim);
+  word-break: break-all;
+  margin: 0 0 1.25rem;
+}
+
+.link-modal-actions {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.link-modal-btn {
+  flex: 1;
+  padding: 0.6rem 0.8rem;
+  border-radius: 4px;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1px solid var(--board-line);
+  cursor: pointer;
+  text-align: center;
+}
+
+.link-modal-btn-secondary {
+  background: transparent;
+  color: var(--ink-dim);
+}
+
+.link-modal-btn-primary {
+  background: var(--brass);
+  color: var(--board);
+  border-color: var(--brass);
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

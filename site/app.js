@@ -4,6 +4,32 @@ const venueFilterEl = document.getElementById("venue-filter");
 const townFilterEl = document.getElementById("town-filter");
 const lastUpdatedEl = document.getElementById("last-updated");
 
+const linkModalOverlay = document.getElementById("link-modal-overlay");
+const linkModalLabel = document.getElementById("link-modal-label");
+const linkModalUrl = document.getElementById("link-modal-url");
+const linkModalCancel = document.getElementById("link-modal-cancel");
+const linkModalConfirm = document.getElementById("link-modal-confirm");
+
+function showLinkModal(url, label) {
+  linkModalLabel.textContent = label || "this site";
+  linkModalUrl.textContent = url;
+  linkModalConfirm.href = url;
+  linkModalOverlay.hidden = false;
+}
+
+function hideLinkModal() {
+  linkModalOverlay.hidden = true;
+}
+
+linkModalCancel.addEventListener("click", hideLinkModal);
+linkModalConfirm.addEventListener("click", hideLinkModal);
+linkModalOverlay.addEventListener("click", (e) => {
+  if (e.target === linkModalOverlay) hideLinkModal();
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && !linkModalOverlay.hidden) hideLinkModal();
+});
+
 let allEvents = [];
 
 // Defensive belt-and-suspenders: event.link/post_url are always either
@@ -169,9 +195,12 @@ function hashString(str) {
 function buildEventCard(event, index) {
   const card = document.createElement("a");
   card.className = "event-card";
-  card.href = safeUrl(event.link) || safeUrl(event.post_url) || "#";
-  card.target = "_blank";
-  card.rel = "noopener noreferrer";
+  const url = safeUrl(event.link) || safeUrl(event.post_url);
+  card.href = url || "#";
+  card.addEventListener("click", (e) => {
+    e.preventDefault();
+    if (url) showLinkModal(url, event.venue || event.band || "this site");
+  });
 
   // A small per-show tilt (stable across re-renders, since it's derived from
   // the event's own id) so cards read as hand-pinned rather than a grid, plus
@@ -238,9 +267,12 @@ function buildPopupContent(venue, town, events) {
     showLine.className = "popup-show";
 
     const link = document.createElement("a");
-    link.href = safeUrl(event.link) || safeUrl(event.post_url) || "#";
-    link.target = "_blank";
-    link.rel = "noopener noreferrer";
+    const url = safeUrl(event.link) || safeUrl(event.post_url);
+    link.href = url || "#";
+    link.addEventListener("click", (e) => {
+      e.preventDefault();
+      if (url) showLinkModal(url, event.venue || event.band || "this site");
+    });
     const parts = [event.band || "Untitled show"];
     if (event.time) parts.push(formatTimeRange(event.time, event.time_end));
     link.textContent = `${formatDateHeading(event.date)}: ${parts.join(", ")}`;
