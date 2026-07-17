@@ -396,9 +396,15 @@ select:focus-visible {
   margin: 0 0 0.5rem;
 }
 
-.page-footer p:last-child {
-  margin-bottom: 0;
+.last-updated {
   opacity: 0.75;
+}
+
+.page-footer p.fine-print {
+  margin-bottom: 0;
+  font-size: 0.58rem;
+  line-height: 1.5;
+  opacity: 0.4;
 }
 
 /* ---------- map popup (Leaflet) ---------- */
