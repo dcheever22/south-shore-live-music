@@ -32,6 +32,26 @@ const map = L.map("map", {
 // Can't zoom out past seeing all of Massachusetts.
 map.setMinZoom(map.getBoundsZoom(MASSACHUSETTS_BOUNDS));
 
+// A one-finger touch drag on the map would otherwise capture the page's own
+// scroll gesture, making it look like the page is stuck on the map with
+// nothing scrollable below it. Disable one-finger dragging so it scrolls the
+// page normally like everywhere else, and only pan the map with two fingers
+// (pinch-zoom, a separate Leaflet handler, is unaffected either way) —
+// the same convention embedded maps like Google Maps use.
+map.dragging.disable();
+const mapContainer = document.getElementById("map");
+mapContainer.addEventListener(
+  "touchstart",
+  (e) => {
+    if (e.touches.length >= 2) {
+      map.dragging.enable();
+    } else {
+      map.dragging.disable();
+    }
+  },
+  { passive: true }
+);
+
 L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png", {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
   maxZoom: 18,

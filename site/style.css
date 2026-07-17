@@ -172,6 +172,9 @@ select:focus-visible {
   height: 320px;
   width: 100%;
   border-radius: 2px;
+  /* Let a one-finger vertical drag scroll the page natively; app.js only
+     re-enables Leaflet's own dragging once a second finger joins. */
+  touch-action: pan-y;
 }
 
 /* Default OSM tiles are bright and saturated, reads as a nav/routing app —
