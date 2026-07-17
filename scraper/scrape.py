@@ -1,5 +1,5 @@
 """
-Pulls Sue Petersen's current weekly "LOCAL LIVE MUSIC" roundup post from
+Pulls Sue P.'s current weekly "LOCAL LIVE MUSIC" roundup post from
 both the group and her personal page, by reading the feed data Facebook
 sends the page as it loads and scrolls (more reliable here than parsing the
 rendered page directly).
@@ -22,7 +22,7 @@ SCROLL_ROUNDS = 15          # how many times to scroll per run (more = further b
 SCROLL_PAUSE_SECONDS = 2.5  # let each scroll's requests come back before scrolling again
 
 # Random-member posts turned out to be too free-form to parse reliably. Sue
-# Petersen posts a consistently-structured daily roundup of the whole area's
+# P. posts a consistently-structured daily roundup of the whole area's
 # live music, which parse_sue.py can parse with far higher accuracy — so we
 # scope the scraper down to just her instead of every post in the group. She
 # posts the same roundup to both the group and her own page (not always

@@ -1,6 +1,6 @@
 # South Shore Live Music
 
-Auto-updated map and listing of live music on Massachusetts's South Shore, sourced from Sue Petersen's weekly "LOCAL LIVE MUSIC" roundup post (she posts it to both the [South Shore Live Music](https://www.facebook.com/groups/2495687603787814/) Facebook group and her [personal page](https://www.facebook.com/sue.petersen3)).
+Auto-updated map and listing of live music on Massachusetts's South Shore, sourced from Sue P.'s weekly "LOCAL LIVE MUSIC" roundup post (she posts it to both the [South Shore Live Music](https://www.facebook.com/groups/2495687603787814/) Facebook group and her [personal page](https://www.facebook.com/sue.petersen3)).
 
 ## How it works
 

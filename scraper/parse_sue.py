@@ -1,5 +1,5 @@
 """
-Parser for Sue Petersen's recurring "LOCAL LIVE MUSIC" roundup post.
+Parser for Sue P.'s recurring "LOCAL LIVE MUSIC" roundup post.
 
 Her posts list dozens of shows in one post, one per blank-line-separated
 block, usually shaped like:
