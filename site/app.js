@@ -22,6 +22,7 @@ L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png"
   maxZoom: 18,
 }).addTo(map);
 const markerLayer = L.layerGroup().addTo(map);
+let hasFitToMarkersOnce = false; // only auto-fit on first load, not every filter change
 
 // Collapse the (required) attribution text down to a small tappable "i" icon
 // instead of a persistent strip — one tap/click reveals it, another hides it
@@ -227,12 +228,23 @@ function updateMap(events) {
     byLocation.get(key).push(event);
   }
 
+  const points = [];
   for (const [key, group] of byLocation) {
     const [lat, lon] = key.split(",").map(Number);
+    points.push([lat, lon]);
     const isApproximate = group[0].geocode_precision === "town";
     const marker = L.marker([lat, lon], { opacity: isApproximate ? 0.55 : 1 });
     marker.bindPopup(buildPopupContent(group[0].venue, group[0].town, group));
     marker.addTo(markerLayer);
+  }
+
+  // Fit the map to show every pin on first load, rather than a fixed
+  // center/zoom that might cut some off or sit zoomed in tighter than
+  // needed — but only once, so picking a filter afterward doesn't yank
+  // the view back out to the full set.
+  if (!hasFitToMarkersOnce && points.length > 0) {
+    map.fitBounds(L.latLngBounds(points), { padding: [24, 24] });
+    hasFitToMarkersOnce = true;
   }
 }
 
