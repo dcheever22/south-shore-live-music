@@ -12,10 +12,48 @@
     "precision": "venue"
   },
   "baron hugo gazebo at milton town hall, none": null,
+  "bbc, plymouth": {
+    "display_name": "British Beer Company, 6, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9567382,
+    "lon": -70.6641849,
+    "precision": "venue"
+  },
+  "berkley beer, taunton": {
+    "display_name": "10, Ingell Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.8952239,
+    "lon": -71.0820209,
+    "precision": "venue"
+  },
+  "black hat brew works, bridgewater": {
+    "display_name": "25, Scotland Boulevard, Scotland, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
+    "lat": 41.9744815,
+    "lon": -71.0060901,
+    "precision": "venue"
+  },
+  "boathouse bistro, hull": {
+    "display_name": "Nantasket Beach Resort, 45, Hull Shore Drive, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2747567,
+    "lon": -70.8616737,
+    "precision": "venue"
+  },
+  "brewster bar, plymouth": {
+    "display_name": "Main Street, Rocky Nook, Kingston, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.9824473,
+    "lon": -70.6963163,
+    "precision": "venue"
+  },
+  "bridgewater citizens club, none": null,
+  "buzzards bay gazebo, none": null,
   "cabby shack, plymouth": {
     "display_name": "Cabbyshack, 30, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9622449,
     "lon": -70.6673634,
+    "precision": "venue"
+  },
+  "canned heat, fall river": {
+    "display_name": "52, Ferry Street, Fall River, Bristol County, Massachusetts, 02724, United States",
+    "lat": 41.7015252,
+    "lon": -71.1683318,
     "precision": "venue"
   },
   "cisco brewers, new bedford": {
@@ -24,10 +62,59 @@
     "lon": -70.9055543,
     "precision": "venue"
   },
+  "cohasset farmers market, none": null,
+  "comfort zone, somerset": {
+    "display_name": "1525, Riverside Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
+    "lat": 41.7349919,
+    "lon": -71.1507699,
+    "precision": "venue"
+  },
+  "cork wine & tapas, new bedford": {
+    "display_name": "Cork Wine and Tapas, 90, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.6349037,
+    "lon": -70.9219229,
+    "precision": "venue"
+  },
+  "deep pond farm, e. taunton": {
+    "display_name": "123, Dolan Circle, East Taunton, Taunton, Bristol County, Massachusetts, 02718, United States",
+    "lat": 41.8820583,
+    "lon": -71.0144593,
+    "precision": "venue"
+  },
   "demarco park, avon": {
     "display_name": "John J DeMarco Park, Avon, Norfolk County, Massachusetts, United States",
     "lat": 42.1342568,
     "lon": -71.0366065,
+    "precision": "venue"
+  },
+  "e. bridgewater, none": {
+    "display_name": "East Bridgewater, Plymouth County, Massachusetts, United States",
+    "lat": 42.0332957,
+    "lon": -70.9588099,
+    "precision": "venue"
+  },
+  "east bay grill, plymouth": {
+    "display_name": "East Bay Grill, 173, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9632411,
+    "lon": -70.6683647,
+    "precision": "venue"
+  },
+  "evviva trattoria, hanover": {
+    "display_name": "Evviva Trattoria, Hanover Mall Drive, Hanover Crossing, Hanover, Plymouth County, Massachusetts, 02061, United States",
+    "lat": 42.1454532,
+    "lon": -70.841589,
+    "precision": "venue"
+  },
+  "glen cove hotel, onset": {
+    "display_name": "167, Onset Avenue, Onset, Wareham, Plymouth County, Massachusetts, 02538, United States",
+    "lat": 41.7424064,
+    "lon": -70.6551253,
+    "precision": "venue"
+  },
+  "granite links, quincy": {
+    "display_name": "100, Quarry Hills Drive, Quincy, Norfolk County, Massachusetts, 02269, United States",
+    "lat": 42.2442539,
+    "lon": -71.0488256,
     "precision": "venue"
   },
   "hanover crossing, none": {
@@ -36,10 +123,41 @@
     "lon": -70.8419102,
     "precision": "venue"
   },
+  "harper lane brewery, middleboro": {
+    "display_name": "16, Wareham Street, Middleborough, Plymouth County, Massachusetts, 02346, United States",
+    "lat": 41.8916213,
+    "lon": -70.9075788,
+    "precision": "venue"
+  },
+  "hilltop athletic club, none": null,
   "himalaya restaurant, plymouth": {
     "display_name": "Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9573647,
     "lon": -70.6656372,
+    "precision": "venue"
+  },
+  "j&g hillside pub, stoughton": {
+    "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
+    "lat": 42.1061845,
+    "lon": -71.0762816,
+    "precision": "venue"
+  },
+  "jetty, marshfield": {
+    "display_name": "278, Ocean Street, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, 02047, United States",
+    "lat": 42.0914262,
+    "lon": -70.6444384,
+    "precision": "venue"
+  },
+  "jockey club, raynham": {
+    "display_name": "The Jockey Club, 115, New State Highway, Raynham Center, Raynham, Bristol County, Massachusetts, 02767, United States",
+    "lat": 41.9044928,
+    "lon": -71.06072,
+    "precision": "venue"
+  },
+  "knuckleheads, new bedford": {
+    "display_name": "Knuckle Heads, 85, MacArthur Drive, South Terminal, New Bedford, Bristol County, Massachusetts, 02744, United States",
+    "lat": 41.6266323,
+    "lon": -70.9209007,
     "precision": "venue"
   },
   "laura's center for the arts, hanover": {
@@ -60,6 +178,60 @@
     "lon": -70.7055941,
     "precision": "town"
   },
+  "lorenzo\u2019s, middleboro": {
+    "display_name": "500, West Grove Street, Middleborough, Plymouth County, Massachusetts, 02349, United States",
+    "lat": 41.8988577,
+    "lon": -70.9532981,
+    "precision": "venue"
+  },
+  "luci\u2019s pizza, abington": {
+    "display_name": "460, Bedford Street, Abington, Plymouth County, Massachusetts, 02351, United States",
+    "lat": 42.1166576,
+    "lon": -70.9496782,
+    "precision": "venue"
+  },
+  "lucky goat brewing, wareham": {
+    "display_name": "379, Main Street, Wareham Center, Wareham, Plymouth County, Massachusetts, 02571, United States",
+    "lat": 41.761882,
+    "lon": -70.719552,
+    "precision": "venue"
+  },
+  "madre osteria, milton": {
+    "display_name": "Madre Osteria Bar & Resturant, 88, Wharf Street, Milton Village, Milton, Norfolk County, Massachusetts, 02126, United States",
+    "lat": 42.2701338,
+    "lon": -71.0659049,
+    "precision": "venue"
+  },
+  "martinis, whitman": {
+    "display_name": "552, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
+    "lat": 42.0799647,
+    "lon": -70.9374175,
+    "precision": "venue"
+  },
+  "mcswiggans, weymouth": {
+    "display_name": "450, Washington Street, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.208486,
+    "lon": -70.95767,
+    "precision": "venue"
+  },
+  "mia regazza, marshfield": {
+    "display_name": "1, Proprietors Drive, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.1031756,
+    "lon": -70.7410165,
+    "precision": "venue"
+  },
+  "off the hook, quincy": {
+    "display_name": "Louis Restaurant, 1269, Sea Street, Houghs Neck, Quincy, Norfolk County, Massachusetts, 02191, United States",
+    "lat": 42.2713105,
+    "lon": -70.9513587,
+    "precision": "venue"
+  },
+  "olde hitching post, hanson": {
+    "display_name": "The Olde Hitching Post, 48, Spring Street, Coxs Corner, Hanson, Plymouth County, Massachusetts, 02341, United States",
+    "lat": 42.0757777,
+    "lon": -70.8835617,
+    "precision": "venue"
+  },
   "pier 52, fall river": {
     "display_name": "52, Ferry Street, Fall River, Bristol County, Massachusetts, 02724, United States",
     "lat": 41.7015252,
@@ -72,7 +244,38 @@
     "lon": -70.6629329,
     "precision": "venue"
   },
+  "plymouth library, none": {
+    "display_name": "Bristol-Plymouth Regional Technical School Library, 207, Hart Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.8793058,
+    "lon": -71.056659,
+    "precision": "venue"
+  },
   "plymouth waterfront, none": null,
+  "pour farm, new bedford": {
+    "display_name": "780, Purchase Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.634998,
+    "lon": -70.9258436,
+    "precision": "venue"
+  },
+  "profile tavern, east freetown": {
+    "display_name": "East Freetown",
+    "lat": 41.7752444,
+    "lon": -70.9580382,
+    "precision": "town"
+  },
+  "randolph amvets post 51, none": null,
+  "red hand brewing, lakeville": {
+    "display_name": "348, Bedford Street, Sampsons Corner, Lakeville, Plymouth County, Massachusetts, 02347, United States",
+    "lat": 41.8399796,
+    "lon": -70.9451127,
+    "precision": "venue"
+  },
+  "red rose irish bar, weymouth": {
+    "display_name": "Red Rose Cafe, 800, Broad Street, Lincoln Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
+    "lat": 42.2161613,
+    "lon": -70.9263394,
+    "precision": "venue"
+  },
   "red rose irish pub, weymouth": {
     "display_name": "Red Rose Cafe, 800, Broad Street, Lincoln Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
     "lat": 42.2161613,
@@ -91,10 +294,34 @@
     "lon": -70.8857637,
     "precision": "venue"
   },
+  "scituate harbor, none": {
+    "display_name": "Scituate Harbor Yacht Club, Jericho Road, Sand Hills, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.202899,
+    "lon": -70.7243059,
+    "precision": "venue"
+  },
+  "shovel town brewery, easton": {
+    "display_name": "Shovel Town Brewery, Elm Street, North Easton, Easton, Bristol County, Massachusetts, 02356, United States",
+    "lat": 42.0714776,
+    "lon": -71.1032367,
+    "precision": "venue"
+  },
+  "soundcheck, pembroke": {
+    "display_name": "150, Corporate Park Drive, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.1012694,
+    "lon": -70.7720353,
+    "precision": "venue"
+  },
   "speedwell tavern, plymouth": {
     "display_name": "Speedwell Tavern, 47, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9566824,
     "lon": -70.6644439,
+    "precision": "venue"
+  },
+  "spire center, plymouth": {
+    "display_name": "Spire Center for the Performing Arts, 25-1/2, Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9579478,
+    "lon": -70.666248,
     "precision": "venue"
   },
   "star drive in, taunton": {
@@ -103,10 +330,34 @@
     "lon": -71.0931485,
     "precision": "town"
   },
+  "stoneforge grill, easton": {
+    "display_name": "Stoneforge Grill, 10, Roosevelt Circle, Morse Corner, North Easton, Easton, Bristol County, Massachusetts, 02357, United States",
+    "lat": 42.051231,
+    "lon": -71.085052,
+    "precision": "venue"
+  },
   "stoneforge tavern, raynham": {
     "display_name": "90, Paramount Drive, Raynham, Bristol County, Massachusetts, 02767, United States",
     "lat": 41.9035363,
     "lon": -71.035245,
+    "precision": "venue"
+  },
+  "surfside smokehouse, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
+  "the cave at red lion, cohasset": {
+    "display_name": "Cohasset",
+    "lat": 42.2410158,
+    "lon": -70.8035571,
+    "precision": "town"
+  },
+  "the cellar, abington": {
+    "display_name": "221, North Avenue, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
+    "lat": 42.1278126,
+    "lon": -70.9415701,
     "precision": "venue"
   },
   "the drift, hull": {
@@ -143,6 +394,18 @@
     "display_name": "Tipsy Toboggan Fireside Pub, 75, Ferry Street, Fall River, Bristol County, Massachusetts, 02721, United States",
     "lat": 41.7001706,
     "lon": -71.1675439,
+    "precision": "venue"
+  },
+  "tosca, hingham": {
+    "display_name": "Hingham",
+    "lat": 42.2417669,
+    "lon": -70.8897676,
+    "precision": "town"
+  },
+  "towne tavern treehouse, pembroke": {
+    "display_name": "242, Mattakeesett Street, Oldham Village, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.0611013,
+    "lon": -70.8269838,
     "precision": "venue"
   },
   "tufts library, weymouth": {
