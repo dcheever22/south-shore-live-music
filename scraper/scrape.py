@@ -38,7 +38,13 @@ SCROLL_PAUSE_SECONDS = 2.5  # let each scroll's requests come back before scroll
 # posts plenty of unrelated things, so author alone isn't a strong enough
 # filter — we also require this specific roundup's signature phrase.
 TARGET_AUTHOR = "Sue Petersen"
-ROUNDUP_SIGNATURE = "local live music"
+# Her header wording drifts week to week — confirmed in practice: one week
+# it's "My list for LOCAL LIVE MUSIC Weds 7/15", another it's "My LOCAL MUSIC
+# list for Thurs 7/16" (word order flipped, "live" dropped entirely). An
+# exact-phrase match broke on that second version and silently kept showing
+# stale data. Requiring both words present anywhere, not an exact phrase,
+# survives that kind of natural rewording.
+ROUNDUP_SIGNATURE_WORDS = ("local", "music")
 
 
 def extract_stories(payload, out):
@@ -91,10 +97,8 @@ def handle_response(response, collected):
 
 
 def is_roundup_post(post):
-    return (
-        post.get("author") == TARGET_AUTHOR
-        and ROUNDUP_SIGNATURE in (post.get("raw_text") or "").lower()
-    )
+    text = (post.get("raw_text") or "").lower()
+    return post.get("author") == TARGET_AUTHOR and all(word in text for word in ROUNDUP_SIGNATURE_WORDS)
 
 
 def load_feed(page, url):
