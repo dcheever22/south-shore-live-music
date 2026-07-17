@@ -294,7 +294,7 @@ fetch(`events.json?t=${Date.now()}`, { cache: "no-store" })
   .then((res) => res.json())
   .then((data) => {
     allEvents = data.events;
-    lastUpdatedEl.textContent = formatLastUpdated(data.last_checked_at);
+    lastUpdatedEl.textContent = formatLastUpdated(data.last_updated_at);
 
     // Filter options should only ever offer towns/venues that actually have
     // something upcoming — events.json keeps a few days of past data around

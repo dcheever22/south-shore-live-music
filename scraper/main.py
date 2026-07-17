@@ -20,22 +20,26 @@ OUTPUT_FILE = Path(__file__).parent.parent / "site" / "events.json"
 KEEP_PAST_DAYS = 3  # drop events older than this so the file doesn't grow forever
 
 
-def load_existing():
+def load_output():
     if OUTPUT_FILE.exists():
         data = json.loads(OUTPUT_FILE.read_text())
-        events = data["events"] if isinstance(data, dict) else data  # older bare-array format
-        return {e["id"]: e for e in events}
-    return {}
+        if isinstance(data, dict):
+            return data.get("last_updated_at"), data["events"]
+        return None, data  # older bare-array format
+    return None, []
+
+
+def _comparable(events):
+    # Keyed by id (order-independent) and stripped of scraped_at, which is
+    # stamped fresh on every scrape regardless of whether the underlying
+    # post content actually changed — otherwise every run would look like a
+    # change even when nothing is.
+    return {e["id"]: {k: v for k, v in e.items() if k != "scraped_at"} for e in events}
 
 
 def main():
-    existing = load_existing()
-
-    # Captured right before the actual Facebook check, not after — geocoding
-    # and photo lookups that follow can take several minutes, and "last
-    # updated" should mean "last time we checked for new data", not "how
-    # long the whole pipeline run happened to take."
-    checked_at = datetime.now(timezone.utc).isoformat()
+    previous_updated_at, previous_events = load_output()
+    existing = {e["id"]: e for e in previous_events}
 
     raw_posts = scrape()
     parsed = parse_sue_posts(raw_posts)
@@ -62,8 +66,17 @@ def main():
         key=lambda e: e["date"] or "9999-99-99",
     )
 
+    # "Last updated" means last time the actual show data changed, not last
+    # time we happened to check — so only bump it (and only write/commit at
+    # all) when something meaningful is actually different. Otherwise every
+    # run would touch the file (scraped_at always differs) and trigger a
+    # deploy even on a quiet check that found nothing new.
+    if _comparable(events) == _comparable(previous_events):
+        print("No changes since last run — leaving events.json untouched.")
+        return
+
     output = {
-        "last_checked_at": checked_at,
+        "last_updated_at": datetime.now(timezone.utc).isoformat(),
         "events": events,
     }
 
