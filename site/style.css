@@ -217,8 +217,9 @@ select:focus-visible {
   margin: 0 0 2rem;
   color: var(--ink-dim);
   font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: clamp(0.6rem, 2.7vw, 0.72rem);
   line-height: 1.5;
+  white-space: nowrap;
 }
 
 /* ---------- date section dividers ---------- */
