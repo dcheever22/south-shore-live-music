@@ -322,6 +322,12 @@
     "lon": -70.9546158,
     "precision": "venue"
   },
+  "hibernian tavern, scituate": {
+    "display_name": "109;111;113, Front Street, Second Cliff, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.1952077,
+    "lon": -70.725272,
+    "precision": "venue"
+  },
   "hilltop athletic club, none": null,
   "himalaya restaurant, plymouth": {
     "display_name": "Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
@@ -329,6 +335,7 @@
     "lon": -70.6656372,
     "precision": "venue"
   },
+  "j&g hillside grill": null,
   "j&g hillside grill, stoughton": {
     "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
     "lat": 42.1061845,

@@ -289,6 +289,11 @@
     "photo": "photos/5f056b8fae0e.jpg",
     "website": "https://golfheritagehill.com"
   },
+  "hibernian tavern|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Hibernian%20Tavern%20Scituate%20MA",
+    "photo": "photos/4f1df7a9aeaa.jpg",
+    "website": "https://hiberniantavern.com"
+  },
   "hilltop athletic club|": {
     "maps_url": "https://www.google.com/maps/search/Hilltop%20Athletic%20Club%20%20MA",
     "photo": "photos/358ab1f333e1.jpg",
@@ -298,6 +303,11 @@
     "maps_url": "https://www.google.com/maps/search/The%20Himalaya%20Restaurant%20and%20Bar%20Plymouth%20MA",
     "photo": "photos/5c09245df2fd.jpg",
     "website": "https://thehimalayaplymouth.com"
+  },
+  "j&g hillside grill|": {
+    "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Grill%20%20MA",
+    "photo": "photos/ec9924746093.jpg",
+    "website": "https://jghillsidegrill.com"
   },
   "j&g hillside grill|stoughton": {
     "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Grill%20Stoughton%20MA",
