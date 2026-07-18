@@ -1,15 +1,28 @@
 name: Deploy to GitHub Pages
 
-# Runs on every push to main that touches site/ — separate from the scraper's
-# own schedule, so a manual edit (or the scraper's own commit) deploys right
-# away without waiting on the scrape schedule. No build step, no per-deploy
-# cost — GitHub Pages just serves these files directly, unlike Netlify's
-# build-minute-metered free tier.
+# Two triggers, for two different sources of change:
+#   - push: catches a manual edit pushed with a real user's own credentials
+#     (e.g. mine).
+#   - workflow_run: catches the scraper's own automated commits. A plain
+#     "push" trigger does NOT fire for those — GitHub doesn't cascade
+#     workflow runs from a push made with the default GITHUB_TOKEN, to
+#     prevent runaway automation loops. Without this, Pages would only ever
+#     redeploy from a human pushing by hand, never from the scheduled
+#     scraper committing new data, which is exactly what happened here:
+#     the scraper kept committing successfully for a full day while Pages
+#     silently never redeployed any of it.
+#
+# No build step, no per-deploy cost either way — GitHub Pages just serves
+# these files directly, unlike Netlify's build-minute-metered free tier, so
+# an occasional redeploy that finds nothing new to show is harmless.
 on:
   push:
     branches: [main]
     paths:
       - "site/**"
+  workflow_run:
+    workflows: ["Scrape South Shore Live Music"]
+    types: [completed]
   workflow_dispatch: {}
 
 permissions:
@@ -23,6 +36,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
