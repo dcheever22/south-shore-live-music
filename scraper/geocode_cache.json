@@ -516,6 +516,12 @@
     "lon": -70.8835617,
     "precision": "venue"
   },
+  "patio at fuel america, weymouth": {
+    "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.2174129,
+    "lon": -70.9655487,
+    "precision": "venue"
+  },
   "pete's grill, quincy": {
     "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2435805,
@@ -712,6 +718,12 @@
     "lat": 41.9019257,
     "lon": -71.0931485,
     "precision": "town"
+  },
+  "starland sports, hanover": {
+    "display_name": "637, Washington Street, Hanover, Plymouth County, Massachusetts, 02339, United States",
+    "lat": 42.1239098,
+    "lon": -70.8255939,
+    "precision": "venue"
   },
   "station street, hingham": {
     "display_name": "Station Street, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",

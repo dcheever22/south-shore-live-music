@@ -459,6 +459,11 @@
     "photo": "photos/4ec67ed76bc2.jpg",
     "website": "https://oldehp.com"
   },
+  "patio at fuel america|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Patio%20at%20Fuel%20America%20Weymouth%20MA",
+    "photo": "photos/f23dcc191136.jpg",
+    "website": "https://fuelamericaweymouth.com"
+  },
   "pete's grill|quincy": {
     "maps_url": "https://www.google.com/maps/search/Pete%27s%20Grill%20Quincy%20MA",
     "photo": "photos/490aff05e82a.jpg",
@@ -638,6 +643,11 @@
     "maps_url": "https://www.google.com/maps/search/Star%20Drive%20In%20Taunton%20MA",
     "photo": "photos/40490d2720f9.png",
     "website": "https://thestardrivein.com"
+  },
+  "starland sports|hanover": {
+    "maps_url": "https://www.google.com/maps/search/Starland%20Sports%20Hanover%20MA",
+    "photo": "photos/06175d7c4288.png",
+    "website": "https://starlandsports.com"
   },
   "station street|hingham": {
     "maps_url": "https://www.google.com/maps/search/Station%20Street%20Hingham%20MA",
