@@ -434,6 +434,11 @@
     "photo": "photos/1da42307b7d3.jpg",
     "website": "https://miaregazzamarshfield.com"
   },
+  "middle ground grill|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Middle%20Ground%20Grill%20Weymouth%20MA",
+    "photo": "photos/3167d309b7a5.jpg",
+    "website": "https://middlegroundgrill.com"
+  },
   "next page|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Next%20Page%20Weymouth%20MA",
     "photo": "photos/5af9b1641e71.jpg",
@@ -613,6 +618,11 @@
     "maps_url": "https://www.google.com/maps/search/Spire%20Center%20Plymouth%20MA",
     "photo": "photos/10d24a93d1ee.jpg",
     "website": "https://spirecenter.org"
+  },
+  "sports emporium|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Sports%20Emporium%20Weymouth%20MA",
+    "photo": "photos/bd82731ba1bb.jpg",
+    "website": "https://sportsemporium.me"
   },
   "st. james irish pub|fall river": {
     "maps_url": "https://www.google.com/maps/search/St.%20James%20Irish%20Pub%20Fall%20River%20MA",

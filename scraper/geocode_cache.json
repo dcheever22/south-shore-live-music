@@ -486,6 +486,12 @@
     "lon": -70.7410165,
     "precision": "venue"
   },
+  "middle ground grill, weymouth": {
+    "display_name": "Buck's Bar and Grill, 416, Middle Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
+    "lat": 42.2098546,
+    "lon": -70.9433121,
+    "precision": "venue"
+  },
   "next page, weymouth": {
     "display_name": "The Next Page, Broad Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.217659,
@@ -681,6 +687,12 @@
     "display_name": "Spire Center for the Performing Arts, 25-1/2, Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9579478,
     "lon": -70.666248,
+    "precision": "venue"
+  },
+  "sports emporium, weymouth": {
+    "display_name": "230, Bridge Street, Weymouth, Norfolk County, Massachusetts, 02191, United States",
+    "lat": 42.242988,
+    "lon": -70.9560084,
     "precision": "venue"
   },
   "st. james irish pub, fall river": {
