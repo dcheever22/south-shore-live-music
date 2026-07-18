@@ -106,7 +106,11 @@ def load_feed(page, url):
         time.sleep(SCROLL_PAUSE_SECONDS)
 
 
-def scrape():
+MAX_ATTEMPTS = 3
+RETRY_DELAY_SECONDS = 45  # give Facebook's feed a moment before trying again
+
+
+def _scrape_once():
     collected = []
 
     with sync_playwright() as p:
@@ -129,6 +133,26 @@ def scrape():
     # case both the group and her page have a match, the newest is the live one.
     latest = max(matches, key=lambda p: p.get("post_time") or 0)
     return [latest]
+
+
+def scrape():
+    """Retries a few times before giving up empty-handed. In practice, a
+    pass finding zero matching posts even when one demonstrably exists (a
+    manual re-check right after succeeds) has been the actual recurring
+    failure mode, not a bug in the matching logic itself — this makes a
+    scheduled run self-heal from that instead of silently serving stale
+    data until someone happens to notice and re-runs it by hand."""
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        result = _scrape_once()
+        if result:
+            return result
+        if attempt < MAX_ATTEMPTS:
+            print(
+                f"Attempt {attempt}/{MAX_ATTEMPTS} found no matching post, retrying in {RETRY_DELAY_SECONDS}s...",
+                file=sys.stderr,
+            )
+            time.sleep(RETRY_DELAY_SECONDS)
+    return []
 
 
 if __name__ == "__main__":

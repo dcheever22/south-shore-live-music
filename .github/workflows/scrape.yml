@@ -13,6 +13,13 @@ on:
 permissions:
   contents: write
 
+# The scraper now retries in-run when it finds nothing, which can push a run
+# past the usual ~2 min and into the next scheduled slot. Without this, two
+# overlapping runs could both try to git push at once and fight each other.
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
