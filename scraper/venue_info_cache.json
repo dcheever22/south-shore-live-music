@@ -159,6 +159,11 @@
     "photo": "photos/9d8ded0030a6.jpg",
     "website": "https://cruebrewbrewery.com"
   },
+  "crue brew|taunton": {
+    "maps_url": "https://www.google.com/maps/search/Crue%20Brew%20Taunton%20MA",
+    "photo": "photos/5a6b5ff5cfc3.jpg",
+    "website": "https://cruebrewbrewery.com"
+  },
   "daddy\u2019s beach club|hull": {
     "maps_url": "https://www.google.com/maps/search/Daddy%E2%80%99s%20Beach%20Club%20Hull%20MA",
     "photo": "photos/5c906d3ca448.jpg",
@@ -167,6 +172,11 @@
   "deep pond farm|e. taunton": {
     "maps_url": "https://www.google.com/maps/search/Deep%20Pond%20Farm%20E.%20Taunton%20MA",
     "photo": "photos/4dabc941b2ec.jpg",
+    "website": "https://deeppondfarm.com"
+  },
+  "deep pond farm|taunton": {
+    "maps_url": "https://www.google.com/maps/search/Deep%20Pond%20Farm%20Taunton%20MA",
+    "photo": "photos/e1c28bd05dc5.jpg",
     "website": "https://deeppondfarm.com"
   },
   "demarco park|avon": {
@@ -213,6 +223,11 @@
     "maps_url": "https://www.google.com/maps/search/Harper%20Lane%20Brewery%20Middleboro%20MA",
     "photo": "photos/17126264d272.jpg",
     "website": "https://harperlanebrewery.com"
+  },
+  "heritage hill golf|lakeville": {
+    "maps_url": "https://www.google.com/maps/search/Heritage%20Hill%20Golf%20Lakeville%20MA",
+    "photo": "photos/5f056b8fae0e.jpg",
+    "website": "https://golfheritagehill.com"
   },
   "hilltop athletic club|": {
     "maps_url": "https://www.google.com/maps/search/Hilltop%20Athletic%20Club%20%20MA",
@@ -299,6 +314,11 @@
     "photo": "photos/afa083576db4.jpg",
     "website": "https://mammamias.net"
   },
+  "marshfield fairgrounds|": {
+    "maps_url": "https://www.google.com/maps/search/Marshfield%20Fair%20%20MA",
+    "photo": "photos/5222185a2ccd.jpg",
+    "website": "https://marshfieldfair.org"
+  },
   "marshfield town green|": {
     "maps_url": "https://www.google.com/maps/search/Marshfield%20Town%20Green%20%20MA",
     "photo": "photos/626f0e97128b.jpg",
@@ -322,6 +342,11 @@
   "mayflower beer garden, pinehills|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Mayflower%20Beer%20Garden%2C%20Pinehills%20Plymouth%20MA",
     "photo": "photos/c8de0350221e.jpg",
+    "website": "https://pinehills.com"
+  },
+  "mayflower beer garden|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Mayflower%20Beer%20Garden%20Plymouth%20MA",
+    "photo": "photos/a63991c098a7.jpg",
     "website": "https://pinehills.com"
   },
   "mcswiggans|weymouth": {
@@ -419,6 +444,11 @@
     "photo": "photos/0fcc8b830385.jpg",
     "website": "https://rohtmarine.com"
   },
+  "rose alley ale house|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Rose%20Alley%20Ale%20House%20New%20Bedford%20MA",
+    "photo": "photos/f57c7bfa490c.jpg",
+    "website": "https://drinkrosealley.com"
+  },
   "rose alley alehouse|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Rose%20Alley%20Alehouse%20New%20Bedford%20MA",
     "photo": "photos/4c7472671d87.jpg",
@@ -459,6 +489,11 @@
     "photo": "photos/baab3a45f821.jpg",
     "website": "https://shoveltownbrewery.com"
   },
+  "shovel town brewery|so. easton": {
+    "maps_url": "https://www.google.com/maps/search/Shovel%20Town%20Brewery%20So.%20Easton%20MA",
+    "photo": "photos/f5e28182435e.jpg",
+    "website": "https://shoveltownbrewery.com"
+  },
   "sip 1620 wine bar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Sip%201620%20Wine%20Bar%20Plymouth%20MA",
     "photo": "photos/0ebca61e839f.jpg",
@@ -484,10 +519,20 @@
     "photo": "photos/40490d2720f9.png",
     "website": "https://thestardrivein.com"
   },
+  "station street|hingham": {
+    "maps_url": "https://www.google.com/maps/search/Station%20Street%20Hingham%20MA",
+    "photo": null,
+    "website": null
+  },
   "stellwagen beer|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Stellwagen%20Beer%20Marshfield%20MA",
     "photo": "photos/c3c9141e2cd3.png",
     "website": "https://stellwagenbeer.com"
+  },
+  "stevie g's|cohasset": {
+    "maps_url": "https://www.google.com/maps/search/Stevie%20G%27s%20Cohasset%20MA",
+    "photo": "photos/173a4d192def.jpg",
+    "website": "https://steviegsrestaurant.com"
   },
   "stoneforge grill|easton": {
     "maps_url": "https://www.google.com/maps/search/Stoneforge%20Grill%20Easton%20MA",
@@ -564,6 +609,11 @@
     "photo": "photos/df36e01ed983.jpg",
     "website": "https://threevrestaurant.com"
   },
+  "threev sandbar|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/ThreeV%20Sandbar%20Plymouth%20MA",
+    "photo": "photos/46b3d12f0f40.jpg",
+    "website": "https://threevrestaurant.com"
+  },
   "tinker\u2019s son|norwell": {
     "maps_url": "https://www.google.com/maps/search/Tinker%E2%80%99s%20Son%20Norwell%20MA",
     "photo": "photos/054105b14a03.jpg",
@@ -603,6 +653,11 @@
     "maps_url": "https://www.google.com/maps/search/Tufts%20Library%20Weymouth%20MA",
     "photo": "photos/7d3ffc78fc85.jpg",
     "website": "https://weymouth.ma.us"
+  },
+  "untold brewing|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Untold%20Brewing%20Plymouth%20MA",
+    "photo": "photos/0099f744eeb5.jpg",
+    "website": "https://untoldbrewing.com"
   },
   "untold brewing|scituate": {
     "maps_url": "https://www.google.com/maps/search/Untold%20Brewing%20Scituate%20MA",
