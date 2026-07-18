@@ -166,6 +166,12 @@
     "lon": -71.0732263,
     "precision": "venue"
   },
+  "crue brew, taunton": {
+    "display_name": "95, Ryan Drive, Raynham, Bristol County, Massachusetts, 02742, United States",
+    "lat": 41.9777809,
+    "lon": -71.0732263,
+    "precision": "venue"
+  },
   "daddy\u2019s beach club, hull": {
     "display_name": "Daddy's Beach Bar, 280, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2741353,
@@ -173,6 +179,12 @@
     "precision": "venue"
   },
   "deep pond farm, e. taunton": {
+    "display_name": "123, Dolan Circle, East Taunton, Taunton, Bristol County, Massachusetts, 02718, United States",
+    "lat": 41.8820583,
+    "lon": -71.0144593,
+    "precision": "venue"
+  },
+  "deep pond farm, taunton": {
     "display_name": "123, Dolan Circle, East Taunton, Taunton, Bristol County, Massachusetts, 02718, United States",
     "lat": 41.8820583,
     "lon": -71.0144593,
@@ -230,6 +242,12 @@
     "display_name": "16, Wareham Street, Middleborough, Plymouth County, Massachusetts, 02346, United States",
     "lat": 41.8916213,
     "lon": -70.9075788,
+    "precision": "venue"
+  },
+  "heritage hill golf, lakeville": {
+    "display_name": "The Back Nine Club, 17, Heritage Hill Drive, Lakeville, Plymouth County, Massachusetts, 02347, United States",
+    "lat": 41.8396009,
+    "lon": -70.9546158,
     "precision": "venue"
   },
   "hilltop athletic club, none": null,
@@ -329,6 +347,7 @@
     "lon": -70.6525928,
     "precision": "venue"
   },
+  "marshfield fairgrounds, none": null,
   "marshfield town green, none": {
     "display_name": "Marshfield Boat Launch Facility, Town Pier Road, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, United States",
     "lat": 42.0833808,
@@ -354,6 +373,12 @@
     "precision": "venue"
   },
   "mayflower beer garden, pinehills, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
+  "mayflower beer garden, plymouth": {
     "display_name": "Plymouth",
     "lat": 41.9426657,
     "lon": -70.7618592,
@@ -458,6 +483,12 @@
     "lon": -70.7431044,
     "precision": "venue"
   },
+  "rose alley ale house, new bedford": {
+    "display_name": "Rose Alley Ale House, Rose Alley, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.6350392,
+    "lon": -70.9219201,
+    "precision": "venue"
+  },
   "rose alley alehouse, new bedford": {
     "display_name": "94, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.6350396,
@@ -502,6 +533,12 @@
     "lon": -71.1032367,
     "precision": "venue"
   },
+  "shovel town brewery, so. easton": {
+    "display_name": "50, Oliver Street, North Easton, Easton, Bristol County, Massachusetts, 02356, United States",
+    "lat": 42.0710969,
+    "lon": -71.103086,
+    "precision": "venue"
+  },
   "sip 1620 wine bar, plymouth": {
     "display_name": "1620 Winery Wine Bar, 170, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9624276,
@@ -532,10 +569,22 @@
     "lon": -71.0931485,
     "precision": "town"
   },
+  "station street, hingham": {
+    "display_name": "Station Street, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2431616,
+    "lon": -70.8860374,
+    "precision": "venue"
+  },
   "stellwagen beer, marshfield": {
     "display_name": "100, Enterprise Drive, Standish, Marshfield, Plymouth County, Massachusetts, 02050, United States",
     "lat": 42.103653,
     "lon": -70.7480924,
+    "precision": "venue"
+  },
+  "stevie g's, cohasset": {
+    "display_name": "380, Chief Justice Cushing Highway, Cohasset, Norfolk County, Massachusetts, 02025, United States",
+    "lat": 42.2347215,
+    "lon": -70.822265,
     "precision": "venue"
   },
   "stoneforge grill, easton": {
@@ -628,6 +677,12 @@
     "lon": -70.689469,
     "precision": "venue"
   },
+  "threev sandbar, plymouth": {
+    "display_name": "Loring Boulevard, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.9782997,
+    "lon": -70.689469,
+    "precision": "venue"
+  },
   "tinker\u2019s son, norwell": {
     "display_name": "The Tinker's Son, Main Street, Kings Landing, Norwell, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.1616079,
@@ -674,6 +729,12 @@
     "display_name": "Tufts Library, 46, Broad Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2157114,
     "lon": -70.9652587,
+    "precision": "venue"
+  },
+  "untold brewing, plymouth": {
+    "display_name": "Loring Boulevard, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.9782997,
+    "lon": -70.689469,
     "precision": "venue"
   },
   "untold brewing, scituate": {
