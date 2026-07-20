@@ -133,6 +133,12 @@
     "lon": -71.0310203,
     "precision": "venue"
   },
+  "brew fish bar, marion": {
+    "display_name": "Brew Fish Bar & Eatery, 208, Spring Street, Marion, Plymouth County, Massachusetts, 02738, United States",
+    "lat": 41.7170084,
+    "lon": -70.7724499,
+    "precision": "venue"
+  },
   "brewster bar, plymouth": {
     "display_name": "Main Street, Rocky Nook, Kingston, Plymouth County, Massachusetts, 02364, United States",
     "lat": 41.9824473,
@@ -504,6 +510,12 @@
     "lat": 42.2098546,
     "lon": -70.9433121,
     "precision": "venue"
+  },
+  "mirbeau garden bar, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
   },
   "next page, weymouth": {
     "display_name": "The Next Page, Broad Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02188, United States",

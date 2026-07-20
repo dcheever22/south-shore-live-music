@@ -119,6 +119,11 @@
     "photo": "photos/07d702839957.png",
     "website": "https://breakrockbrewing.com"
   },
+  "brew fish bar|marion": {
+    "maps_url": "https://www.google.com/maps/search/Brew%20Fish%20Bar%20Marion%20MA",
+    "photo": "photos/208ff4cba75f.jpg",
+    "website": "https://brewfish.net"
+  },
   "brewster bar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Brewster%20Bar%20Plymouth%20MA",
     "photo": "photos/4d90d7c21663.jpg",
@@ -453,6 +458,11 @@
     "maps_url": "https://www.google.com/maps/search/Middle%20Ground%20Grill%20Weymouth%20MA",
     "photo": "photos/3167d309b7a5.jpg",
     "website": "https://middlegroundgrill.com"
+  },
+  "mirbeau garden bar|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Mirbeau%20Garden%20Bar%20Plymouth%20MA",
+    "photo": "photos/24a4479fd950.jpg",
+    "website": "https://plymouth.mirbeau.com"
   },
   "next page|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Next%20Page%20Weymouth%20MA",
