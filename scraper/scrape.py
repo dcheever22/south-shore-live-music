@@ -9,6 +9,7 @@ Requires session.json (see login.py). Run directly to sanity-check output:
 """
 
 import json
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -41,10 +42,12 @@ ROUNDUP_SIGNATURE_WORDS = ("local", "music")
 
 def extract_stories(payload, out):
     """
-    Recursively pull group-feed story objects out of one parsed GraphQL
-    response. Facebook's GraphQL schema is undocumented and can change
-    without notice — if this starts returning nothing, capture a fresh
-    response (see README) and re-check this structure.
+    Recursively pull story objects out of one parsed JSON payload, whether
+    it came from a GraphQL response or an inline <script> blob in the page
+    HTML — both use the same underlying object shape. Facebook's schema is
+    undocumented and can change without notice — if this starts returning
+    nothing, capture a fresh payload (see README) and re-check this
+    structure.
     """
     if isinstance(payload, dict):
         message = payload.get("message")
@@ -70,6 +73,26 @@ def extract_stories(payload, out):
             extract_stories(item, out)
 
 
+SCRIPT_JSON_RE = re.compile(r'<script type="application/json"[^>]*>(.*?)</script>', re.DOTALL)
+
+
+def extract_inline_json(page, collected):
+    """A post pinned to the top of a profile (or opened via its own
+    permalink URL) is rendered straight into the initial HTML document as
+    inline JSON, not fetched as a separate GraphQL call the way normal feed
+    scrolling is — so handle_response() never sees it. Facebook ships that
+    JSON in <script type="application/json"> blobs for fast first paint;
+    parsing those the same way as a GraphQL response catches the pinned
+    post that would otherwise be invisible to this scraper."""
+    html = page.content()
+    for blob in SCRIPT_JSON_RE.findall(html):
+        try:
+            payload = json.loads(blob)
+        except json.JSONDecodeError:
+            continue
+        extract_stories(payload, collected)
+
+
 def handle_response(response, collected):
     if "graphql" not in response.url.lower():
         return
@@ -93,7 +116,7 @@ def is_roundup_post(post):
     return post.get("author") == TARGET_AUTHOR and all(word in text for word in ROUNDUP_SIGNATURE_WORDS)
 
 
-def load_feed(page, url):
+def load_feed(page, url, collected):
     page.goto(url, wait_until="load")
 
     if "login" in page.url or "checkpoint" in page.url:
@@ -101,6 +124,8 @@ def load_feed(page, url):
         sys.exit(1)
 
     time.sleep(4)
+    # Catches a pinned post before any scrolling happens (see extract_inline_json).
+    extract_inline_json(page, collected)
     for _ in range(SCROLL_ROUNDS):
         page.mouse.wheel(0, 4000)
         time.sleep(SCROLL_PAUSE_SECONDS)
@@ -120,7 +145,7 @@ def _scrape_once():
         page.on("response", lambda r: handle_response(r, collected))
 
         for url in (GROUP_URL, PROFILE_URL):
-            load_feed(page, url)
+            load_feed(page, url, collected)
 
         browser.close()
 
