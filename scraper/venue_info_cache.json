@@ -14,6 +14,11 @@
     "photo": "photos/8fd3117558e4.jpg",
     "website": "https://soundcheck-studios.com"
   },
+  "21+, c-note|hull": {
+    "maps_url": "https://www.google.com/maps/search/21%2B%2C%20C-Note%20Hull%20MA",
+    "photo": "photos/410a5938a7ac.jpg",
+    "website": "https://cnotehull.com"
+  },
   "21+, soundcheck studios|pembroke": {
     "maps_url": "https://www.google.com/maps/search/21%2B%2C%20SoundCheck%20Studios%20Pembroke%20MA",
     "photo": "photos/b1d95f95732c.jpg",
@@ -44,15 +49,30 @@
     "photo": "photos/62493d729e90.png",
     "website": null
   },
+  "amvets post|randolph": {
+    "maps_url": "https://www.google.com/maps/search/Amvets%20Post%20Randolph%20MA",
+    "photo": "photos/c76be8ab1aea.jpg",
+    "website": "https://randolphamvetspost51.org"
+  },
   "apponagansette park|dartmouth": {
     "maps_url": "https://www.google.com/maps/search/Apponagansett%20Beach%20Dartmouth%20MA",
     "photo": "photos/c6473ce76f8d.jpg",
     "website": "https://town.dartmouth.ma.us"
   },
+  "atlantic caf\u00e9|taunton": {
+    "maps_url": "https://www.google.com/maps/search/Atlantic%20Caf%C3%A9%20Taunton%20MA",
+    "photo": "photos/68b6a642dc4e.jpg",
+    "website": null
+  },
   "baron hugo gazebo at milton town hall|": {
     "maps_url": "https://www.google.com/maps/search/Baron%20Hugo%20Gazebo%20at%20Milton%20Town%20Hall%20%20MA",
     "photo": null,
     "website": "https://townofmilton.org"
+  },
+  "barrett\u2019s alehouse|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20Bridgewater%20MA",
+    "photo": null,
+    "website": null
   },
   "barrett\u2019s|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20Bridgewater%20MA",
@@ -64,10 +84,20 @@
     "photo": "photos/3ab2698817ea.jpg",
     "website": "https://baypointewaterfrontrestaurant.com"
   },
+  "bayside lounge|fairhaven": {
+    "maps_url": "https://www.google.com/maps/search/Bayside%20Lounge%20Fairhaven%20MA",
+    "photo": "photos/628d112aef00.jpg",
+    "website": "https://baysidefairhaven.com"
+  },
   "bbc|plymouth": {
     "maps_url": "https://www.google.com/maps/search/BBC%20Plymouth%20MA",
     "photo": "photos/88d31d0231e2.jpg",
     "website": null
+  },
+  "berkely beer|taunton": {
+    "maps_url": "https://www.google.com/maps/search/Berkely%20Beer%20Taunton%20MA",
+    "photo": "photos/ea212e5abdfe.jpg",
+    "website": "https://berkleybeer.com"
   },
   "berkley beer|taunton": {
     "maps_url": "https://www.google.com/maps/search/Berkley%20Beer%20Taunton%20MA",
@@ -139,6 +169,11 @@
     "photo": "photos/35256322d760.jpg",
     "website": "https://comfortzonesomerset.com"
   },
+  "coop's bar & grille|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Coop%27s%20Bar%20%26%20Grille%20Quincy%20MA",
+    "photo": "photos/4e162e9971cd.jpg",
+    "website": "https://coopsbarandgrille.com"
+  },
   "coops|quincy": {
     "maps_url": "https://www.google.com/maps/search/Coops%20Quincy%20MA",
     "photo": "photos/5715430a2a16.jpg",
@@ -154,6 +189,11 @@
     "photo": "photos/d4f5fc208dd2.jpg",
     "website": "https://cornerstonescarver.com"
   },
+  "crossroads|braintree": {
+    "maps_url": "https://www.google.com/maps/search/Crossroads%20Braintree%20MA",
+    "photo": null,
+    "website": null
+  },
   "crue brew|raynham": {
     "maps_url": "https://www.google.com/maps/search/Crue%20Brew%20Raynham%20MA",
     "photo": "photos/9d8ded0030a6.jpg",
@@ -163,6 +203,11 @@
     "maps_url": "https://www.google.com/maps/search/Crue%20Brew%20Taunton%20MA",
     "photo": "photos/5a6b5ff5cfc3.jpg",
     "website": "https://cruebrewbrewery.com"
+  },
+  "daddy's|hull": {
+    "maps_url": "https://www.google.com/maps/search/Daddy%27s%20Hull%20MA",
+    "photo": "photos/40a09b4e9ef2.jpg",
+    "website": "https://daddysbeachclub.com"
   },
   "daddy\u2019s beach club|hull": {
     "maps_url": "https://www.google.com/maps/search/Daddy%E2%80%99s%20Beach%20Club%20Hull%20MA",
@@ -204,10 +249,25 @@
     "photo": "photos/e120dbed20a8.jpg",
     "website": "https://evvivatrattoria.com"
   },
+  "gillis family tavern|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Gillis%20Family%20Tavern%20Plymouth%20MA",
+    "photo": "photos/97178f9fa4a6.jpg",
+    "website": "https://gillistavern.com"
+  },
   "glen cove hotel|onset": {
     "maps_url": "https://www.google.com/maps/search/Glen%20Cove%20Hotel%20Onset%20MA",
     "photo": "photos/f1d2e660487e.jpg",
     "website": "https://glencoveonsetbeach.com"
+  },
+  "glen cove|onset": {
+    "maps_url": "https://www.google.com/maps/search/Glen%20Cove%20Onset%20MA",
+    "photo": "photos/510bb0435cbf.jpg",
+    "website": "https://glencoveonsetbeach.com"
+  },
+  "goat city pub|w. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Goat%20City%20Pub%20W.%20Bridgewater%20MA",
+    "photo": "photos/262ed1f430f0.jpg",
+    "website": "https://goatcitypub.com"
   },
   "granite links|quincy": {
     "maps_url": "https://www.google.com/maps/search/Granite%20Links%20Quincy%20MA",
@@ -229,6 +289,11 @@
     "photo": "photos/5f056b8fae0e.jpg",
     "website": "https://golfheritagehill.com"
   },
+  "hibernian tavern|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Hibernian%20Tavern%20Scituate%20MA",
+    "photo": "photos/4f1df7a9aeaa.jpg",
+    "website": "https://hiberniantavern.com"
+  },
   "hilltop athletic club|": {
     "maps_url": "https://www.google.com/maps/search/Hilltop%20Athletic%20Club%20%20MA",
     "photo": "photos/358ab1f333e1.jpg",
@@ -238,6 +303,11 @@
     "maps_url": "https://www.google.com/maps/search/The%20Himalaya%20Restaurant%20and%20Bar%20Plymouth%20MA",
     "photo": "photos/5c09245df2fd.jpg",
     "website": "https://thehimalayaplymouth.com"
+  },
+  "j&g hillside grill|": {
+    "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Grill%20%20MA",
+    "photo": "photos/ec9924746093.jpg",
+    "website": "https://jghillsidegrill.com"
   },
   "j&g hillside grill|stoughton": {
     "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Grill%20Stoughton%20MA",
@@ -249,9 +319,19 @@
     "photo": "photos/3db1a61eaaad.jpg",
     "website": "https://jghillsidegrill.com"
   },
+  "j&rs indian head|hanson": {
+    "maps_url": "https://www.google.com/maps/search/J%26Rs%20Indian%20Head%20Hanson%20MA",
+    "photo": "photos/1c1ecbea47ea.jpg",
+    "website": null
+  },
   "j&r\u2019s indian head|hanson": {
     "maps_url": "https://www.google.com/maps/search/J%26R%E2%80%99s%20Indian%20Head%20Hanson%20MA",
     "photo": "photos/e36b0cd0c16c.jpg",
+    "website": null
+  },
+  "jackson square tavern|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Jackson%20Square%20Tavern%20Weymouth%20MA",
+    "photo": "photos/cb5028ea243c.jpg",
     "website": null
   },
   "jetty|marshfield": {
@@ -309,6 +389,11 @@
     "photo": "photos/81e87fdf039d.jpg",
     "website": "https://madreosteria.com"
   },
+  "mamma mia's|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Mamma%20Mia%27s%20Marshfield%20MA",
+    "photo": "photos/5c2ec9f6477b.jpg",
+    "website": "https://mammamias.net"
+  },
   "mamma mia\u2019s|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Mamma%20Mia%E2%80%99s%20Marshfield%20MA",
     "photo": "photos/afa083576db4.jpg",
@@ -328,6 +413,11 @@
     "maps_url": "https://www.google.com/maps/search/Martini%27s%20Whitman%20MA",
     "photo": "photos/90168c52d9e5.jpg",
     "website": "https://martinispatiowhitman.com"
+  },
+  "martinis|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Martinis%20Plymouth%20MA",
+    "photo": "photos/1dead894dd28.jpg",
+    "website": "https://martinisbarandgrill.com"
   },
   "martinis|whitman": {
     "maps_url": "https://www.google.com/maps/search/Martinis%20Whitman%20MA",
@@ -359,10 +449,20 @@
     "photo": "photos/1da42307b7d3.jpg",
     "website": "https://miaregazzamarshfield.com"
   },
+  "middle ground grill|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Middle%20Ground%20Grill%20Weymouth%20MA",
+    "photo": "photos/3167d309b7a5.jpg",
+    "website": "https://middlegroundgrill.com"
+  },
   "next page|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Next%20Page%20Weymouth%20MA",
     "photo": "photos/5af9b1641e71.jpg",
     "website": "https://thenextpagecafe.com"
+  },
+  "ocho cafe|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Ocho%20Cafe%20Weymouth%20MA",
+    "photo": "photos/3d6695f19511.jpg",
+    "website": "https://ochocafe.com"
   },
   "off the hook|quincy": {
     "maps_url": "https://www.google.com/maps/search/Off%20the%20Hook%20Quincy%20MA",
@@ -373,6 +473,16 @@
     "maps_url": "https://www.google.com/maps/search/Olde%20Hitching%20Post%20Hanson%20MA",
     "photo": "photos/4ec67ed76bc2.jpg",
     "website": "https://oldehp.com"
+  },
+  "patio at fuel america|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Patio%20at%20Fuel%20America%20Weymouth%20MA",
+    "photo": "photos/f23dcc191136.jpg",
+    "website": "https://fuelamericaweymouth.com"
+  },
+  "pete's grill|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Pete%27s%20Grill%20Quincy%20MA",
+    "photo": "photos/490aff05e82a.jpg",
+    "website": null
   },
   "pier 52|fall river": {
     "maps_url": "https://www.google.com/maps/search/Pier%2052%20Fall%20River%20MA",
@@ -403,6 +513,11 @@
     "maps_url": "https://www.google.com/maps/search/Plymouth%20Waterfront%20Visitor%20Center%20%20MA",
     "photo": "photos/0b5dc1bbb861.jpg",
     "website": "https://seeplymouth.com"
+  },
+  "ponderosa sportsman club|acushnet": {
+    "maps_url": "https://www.google.com/maps/search/Ponderosa%20Sportsman%20Club%20Acushnet%20MA",
+    "photo": "photos/a4c21bdb5e16.jpg",
+    "website": null
   },
   "pour farm|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Pour%20Farm%20New%20Bedford%20MA",
@@ -459,6 +574,11 @@
     "photo": "photos/19adf087aa52.jpg",
     "website": "https://discoverquincy.com"
   },
+  "ryan's sports pub|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Ryan%27s%20Sports%20Pub%20New%20Bedford%20MA",
+    "photo": "photos/15c91b071dfb.png",
+    "website": "https://ryanspubnb.com"
+  },
   "sail house tavern|fairhaven": {
     "maps_url": "https://www.google.com/maps/search/Sail%20House%20Tavern%20Fairhaven%20MA",
     "photo": "photos/37164827da33.jpg",
@@ -499,6 +619,16 @@
     "photo": "photos/0ebca61e839f.jpg",
     "website": "https://sip1620.com"
   },
+  "sip at 1620 wine bar|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Sip%20at%201620%20Wine%20Bar%20Plymouth%20MA",
+    "photo": "photos/209673e06b12.jpg",
+    "website": "https://sip1620.com"
+  },
+  "soundcheck studios|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/SoundCheck%20Studios%20Pembroke%20MA",
+    "photo": "photos/87d0859d40b5.jpg",
+    "website": "https://soundcheck-studios.com"
+  },
   "soundcheck|pembroke": {
     "maps_url": "https://www.google.com/maps/search/SoundCheck%20Pembroke%20MA",
     "photo": "photos/8ef0dbcb9ffd.jpg",
@@ -514,10 +644,25 @@
     "photo": "photos/10d24a93d1ee.jpg",
     "website": "https://spirecenter.org"
   },
+  "sports emporium|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Sports%20Emporium%20Weymouth%20MA",
+    "photo": "photos/bd82731ba1bb.jpg",
+    "website": "https://sportsemporium.me"
+  },
+  "st. james irish pub|fall river": {
+    "maps_url": "https://www.google.com/maps/search/St.%20James%20Irish%20Pub%20Fall%20River%20MA",
+    "photo": "photos/fdae53e0982d.jpg",
+    "website": "https://stjamesirishpub.com"
+  },
   "star drive in|taunton": {
     "maps_url": "https://www.google.com/maps/search/Star%20Drive%20In%20Taunton%20MA",
     "photo": "photos/40490d2720f9.png",
     "website": "https://thestardrivein.com"
+  },
+  "starland sports|hanover": {
+    "maps_url": "https://www.google.com/maps/search/Starland%20Sports%20Hanover%20MA",
+    "photo": "photos/06175d7c4288.png",
+    "website": "https://starlandsports.com"
   },
   "station street|hingham": {
     "maps_url": "https://www.google.com/maps/search/Station%20Street%20Hingham%20MA",
@@ -569,6 +714,11 @@
     "photo": "photos/c93874c35816.jpg",
     "website": null
   },
+  "the chantey|quincy": {
+    "maps_url": "https://www.google.com/maps/search/The%20Chantey%20Quincy%20MA",
+    "photo": "photos/47c3a75ae94c.jpg",
+    "website": "https://thechanteyatmarinabay.com"
+  },
   "the cove|fall river": {
     "maps_url": "https://www.google.com/maps/search/The%20Cove%20Fall%20River%20MA",
     "photo": "photos/7932eee467ed.jpg",
@@ -589,6 +739,11 @@
     "photo": "photos/cb5e673e522c.png",
     "website": "https://thejetty-marshfield.com"
   },
+  "the mallard|somerset": {
+    "maps_url": "https://www.google.com/maps/search/The%20Mallard%20Somerset%20MA",
+    "photo": "photos/a56438f8e4a8.jpg",
+    "website": "https://themallardsomerset.square.site"
+  },
   "the parrot|hull": {
     "maps_url": "https://www.google.com/maps/search/The%20Parrot%20Hull%20MA",
     "photo": "photos/512c26e80f5b.jpg",
@@ -607,6 +762,11 @@
   "three v sandbar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Three%20V%20Sandbar%20Plymouth%20MA",
     "photo": "photos/df36e01ed983.jpg",
+    "website": "https://threevrestaurant.com"
+  },
+  "three v|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Three%20V%20Plymouth%20MA",
+    "photo": "photos/db82362c9405.png",
     "website": "https://threevrestaurant.com"
   },
   "threev sandbar|plymouth": {
