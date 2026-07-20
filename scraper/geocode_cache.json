@@ -280,6 +280,12 @@
     "lon": -70.841589,
     "precision": "venue"
   },
+  "gellar\u2019s snackbar, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "gillis family tavern, plymouth": {
     "display_name": "Plymouth",
     "lat": 41.9426657,
