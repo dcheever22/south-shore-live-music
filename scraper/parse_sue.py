@@ -89,11 +89,38 @@ def clean_act_name(line):
     return None if act_part.strip("? ") == "" else act_part
 
 
+# South Shore MA towns seen in Sue's posts. Used to recover a town when a
+# venue line has no comma at all (e.g. "Scituate VFW Post 3169") — without
+# this, those events get town=None: no map pin (geocoding a bare venue name
+# has no Massachusetts town to fall back to) and they're invisible to the
+# town filter, which drops events with no town.
+KNOWN_TOWNS = [
+    "Acushnet", "Abington", "Braintree", "Bridgewater", "Buzzards Bay",
+    "Carver", "Cohasset", "E. Bridgewater", "Fairhaven", "Fall River",
+    "Halifax", "Hanover", "Hanson", "Hingham", "Hull", "Humarock",
+    "Lakeville", "Marion", "Marshfield", "Milton", "New Bedford", "Norwell",
+    "Onset", "Pembroke", "Plymouth", "Quincy", "Randolph", "Raynham",
+    "Rockland", "Scituate", "So. Easton", "Somerset", "Taunton",
+    "W. Bridgewater", "Westport", "Weymouth",
+]
+# Longest first, so "W. Bridgewater" wins over the more generic "Bridgewater"
+# when a venue string happens to contain both.
+_KNOWN_TOWNS_BY_LENGTH = sorted(KNOWN_TOWNS, key=len, reverse=True)
+
+
+def infer_town(venue):
+    for town in _KNOWN_TOWNS_BY_LENGTH:
+        if re.search(rf"\b{re.escape(town)}\b", venue, re.IGNORECASE):
+            return town
+    return None
+
+
 def split_venue_line(line):
     if "," in line:
         venue, town = line.rsplit(",", 1)
         return venue.strip(), town.strip()
-    return line.strip(), None
+    venue = line.strip()
+    return venue, infer_town(venue)
 
 
 def header_reference_date(header_block, post_dt):
