@@ -152,6 +152,12 @@
     "precision": "venue"
   },
   "bridgewater citizens club, none": null,
+  "bridgewater music alley, bridgewater": {
+    "display_name": "50, Central Square, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
+    "lat": 41.9887302,
+    "lon": -70.9768101,
+    "precision": "venue"
+  },
   "bridgewater music alley, none": null,
   "british beer, plymouth": {
     "display_name": "British Beer Company, 6, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
@@ -703,6 +709,12 @@
     "precision": "venue"
   },
   "scituate vfw, none": null,
+  "scituate vfw, scituate": {
+    "display_name": "V.F.W. Satuit Post 3169, 736, Chief Justice Cushing Highway, Manson Corner, North Scituate, Scituate, Plymouth County, Massachusetts, 02060, United States",
+    "lat": 42.2046361,
+    "lon": -70.7771788,
+    "precision": "venue"
+  },
   "shipwreck\u2019d, hull": {
     "display_name": "Pemberton Point Ferry Terminal, 173, Main Street, Pemberton, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.3034576,
@@ -989,6 +1001,12 @@
     "display_name": "West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0190922,
     "lon": -71.0079688,
+    "precision": "venue"
+  },
+  "w. bridgewater, w. bridgewater": {
+    "display_name": "West Bridgewater Schools, 155, West Center Street, Bennetts Corner, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
+    "lat": 42.0196418,
+    "lon": -71.0169092,
     "precision": "venue"
   },
   "washington no7, norwood": {

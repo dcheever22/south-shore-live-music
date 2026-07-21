@@ -144,6 +144,11 @@
     "photo": "photos/5bb06e1f41bd.jpg",
     "website": "https://bridgewatermusicalley.com"
   },
+  "bridgewater music alley|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Bridgewater%20Music%20Alley%20Bridgewater%20MA",
+    "photo": "photos/fc5c6c5ce6f9.jpg",
+    "website": "https://bridgewatermusicalley.com"
+  },
   "british beer|plymouth": {
     "maps_url": "https://www.google.com/maps/search/British%20Beer%20Plymouth%20MA",
     "photo": "photos/461f4964cea4.jpg",
@@ -639,6 +644,11 @@
     "photo": "photos/fb0bc06c1e2f.jpg",
     "website": "https://vfw.org"
   },
+  "scituate vfw|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Scituate%20VFW%20Scituate%20MA",
+    "photo": "photos/c11decdc4061.jpg",
+    "website": "https://vfw.org"
+  },
   "shipwreck\u2019d|hull": {
     "maps_url": "https://www.google.com/maps/search/Shipwreck%E2%80%99d%20Hull%20MA",
     "photo": "photos/37736a9758ae.png",
@@ -877,6 +887,11 @@
   "w. bridgewater|": {
     "maps_url": "https://www.google.com/maps/search/W.%20Bridgewater%20%20MA",
     "photo": "photos/58fa44ad1d0c.jpg",
+    "website": null
+  },
+  "w. bridgewater|w. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/W.%20Bridgewater%20W.%20Bridgewater%20MA",
+    "photo": "photos/7d02ad65d3a0.jpg",
     "website": null
   },
   "washington no7|norwood": {
