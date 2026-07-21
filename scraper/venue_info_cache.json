@@ -134,6 +134,16 @@
     "photo": "photos/c600668817bf.jpg",
     "website": "https://bridgewatercitizensclub.com"
   },
+  "bridgewater music alley|": {
+    "maps_url": "https://www.google.com/maps/search/Bridgewater%20Music%20Alley%20%20MA",
+    "photo": "photos/5bb06e1f41bd.jpg",
+    "website": "https://bridgewatermusicalley.com"
+  },
+  "british beer|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/British%20Beer%20Plymouth%20MA",
+    "photo": "photos/461f4964cea4.jpg",
+    "website": null
+  },
   "buzzards bay brewing|westport": {
     "maps_url": "https://www.google.com/maps/search/Buzzards%20Bay%20Brewing%20Westport%20MA",
     "photo": "photos/9771b0946360.jpg",
@@ -434,6 +444,11 @@
     "photo": "photos/daee600a459a.jpg",
     "website": "https://martinispatiowhitman.com"
   },
+  "martini\u2019s|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Martini%E2%80%99s%20Plymouth%20MA",
+    "photo": "photos/5e2bd0eb3840.jpg",
+    "website": "https://martinisbarandgrill.com"
+  },
   "mattapoisett|": {
     "maps_url": "https://www.google.com/maps/search/Mattapoisett%20%20MA",
     "photo": "photos/4994871665fc.jpg",
@@ -594,6 +609,11 @@
     "photo": "photos/15c91b071dfb.png",
     "website": "https://ryanspubnb.com"
   },
+  "ryan\u2019s sports pub|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Ryan%E2%80%99s%20Sports%20Pub%20New%20Bedford%20MA",
+    "photo": "photos/f85ccb6f4252.png",
+    "website": "https://ryanspubnb.com"
+  },
   "sail house tavern|fairhaven": {
     "maps_url": "https://www.google.com/maps/search/Sail%20House%20Tavern%20Fairhaven%20MA",
     "photo": "photos/37164827da33.jpg",
@@ -714,6 +734,11 @@
     "photo": "photos/098765cf67b2.jpg",
     "website": "https://surfsidesmokehouse.com"
   },
+  "sylvester school|hanover": {
+    "maps_url": "https://www.google.com/maps/search/Center%20Elementary%20School%20Hanover%20MA",
+    "photo": null,
+    "website": "https://hanoverschools.org"
+  },
   "tavern on the wharf|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Tavern%20on%20the%20Wharf%20Plymouth%20MA",
     "photo": "photos/44cf260f7e9a.jpg",
@@ -768,6 +793,11 @@
     "maps_url": "https://www.google.com/maps/search/The%20Snug%20Hingham%20MA",
     "photo": "photos/fc318601c06e.jpg",
     "website": "https://snugpub.com"
+  },
+  "the vault|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/The%20Vault%20New%20Bedford%20MA",
+    "photo": "photos/5b4b700defc8.jpg",
+    "website": "https://vaultnb.com"
   },
   "the voyage|humarock": {
     "maps_url": "https://www.google.com/maps/search/The%20Voyage%20Humarock%20MA",
@@ -838,6 +868,11 @@
     "maps_url": "https://www.google.com/maps/search/Untold%20Brewing%20Scituate%20MA",
     "photo": "photos/b2c1423290c2.jpg",
     "website": "https://untoldbrewing.com"
+  },
+  "w. bridgewater|": {
+    "maps_url": "https://www.google.com/maps/search/W.%20Bridgewater%20%20MA",
+    "photo": "photos/58fa44ad1d0c.jpg",
+    "website": null
   },
   "washington no7|norwood": {
     "maps_url": "https://www.google.com/maps/search/Washington%20No7%20Norwood%20MA",

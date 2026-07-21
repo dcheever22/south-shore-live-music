@@ -146,6 +146,13 @@
     "precision": "venue"
   },
   "bridgewater citizens club, none": null,
+  "bridgewater music alley, none": null,
+  "british beer, plymouth": {
+    "display_name": "British Beer Company, 6, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9567382,
+    "lon": -70.6641849,
+    "precision": "venue"
+  },
   "buzzards bay brewing, westport": {
     "display_name": "Buzzard's Bay Brewery, 98, Horseneck Road, South Westport, Westport, Bristol County, Massachusetts, 02791, United States",
     "lat": 41.5677879,
@@ -481,6 +488,12 @@
     "lon": -70.9374175,
     "precision": "venue"
   },
+  "martini\u2019s, plymouth": {
+    "display_name": "Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9596262,
+    "lon": -70.6694518,
+    "precision": "venue"
+  },
   "mattapoisett, none": {
     "display_name": "Mattapoisett, Plymouth County, Massachusetts, 02739, United States",
     "lat": 41.6580466,
@@ -658,6 +671,12 @@
     "lon": -70.9586577,
     "precision": "venue"
   },
+  "ryan\u2019s sports pub, new bedford": {
+    "display_name": "500, Hathaway Road, Rockdale, New Bedford, Bristol County, Massachusetts, 02746, United States",
+    "lat": 41.6542257,
+    "lon": -70.9586577,
+    "precision": "venue"
+  },
   "sail house tavern, fairhaven": {
     "display_name": "109, Middle Street, Fairhaven, Bristol County, Massachusetts, 02719, United States",
     "lat": 41.6417531,
@@ -798,6 +817,12 @@
     "lon": -70.660842,
     "precision": "venue"
   },
+  "sylvester school, hanover": {
+    "display_name": "Edmund Q. Sylvester School, Silver Street, Hanover Center, Hanover, Plymouth County, Massachusetts, 02339, United States",
+    "lat": 42.1175856,
+    "lon": -70.8408525,
+    "precision": "venue"
+  },
   "tavern on the wharf, plymouth": {
     "display_name": "Tavern on the Wharf, 6, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9618207,
@@ -862,6 +887,12 @@
     "display_name": "116, North Street, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
     "lat": 42.2425833,
     "lon": -70.8889052,
+    "precision": "venue"
+  },
+  "the vault, new bedford": {
+    "display_name": "791, Purchase Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.6347109,
+    "lon": -70.9260197,
     "precision": "venue"
   },
   "the voyage, humarock": {
@@ -946,6 +977,12 @@
     "display_name": "6, Old Country Way, Greenbush, Scituate, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.1808626,
     "lon": -70.7472132,
+    "precision": "venue"
+  },
+  "w. bridgewater, none": {
+    "display_name": "West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
+    "lat": 42.0190922,
+    "lon": -71.0079688,
     "precision": "venue"
   },
   "washington no7, norwood": {
