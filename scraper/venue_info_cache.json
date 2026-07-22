@@ -74,6 +74,11 @@
     "photo": null,
     "website": "https://townofmilton.org"
   },
+  "baron hugo gazebo at milton town hall|milton": {
+    "maps_url": "https://www.google.com/maps/place/Milton+Town+Hall/@42.2541119,-71.0797418,17z/data=!3m1!4b1!4m6!3m5!1s0x89e37c3bd18c6133:0xa22cad8eef50c385!8m2!3d42.2541119!4d-71.0797418!16s%2Fg%2F1tj9c_x_?entry=ttu&g_ep=EgoyMDI2MDcxOS4wIKXMDSoASAFQAw%3D%3D",
+    "photo": null,
+    "website": "https://townofmilton.org"
+  },
   "barrett\u2019s alehouse|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20Bridgewater%20MA",
     "photo": null,
@@ -309,6 +314,11 @@
     "photo": "photos/4f3a0320359f.jpg",
     "website": "https://thehanovercrossing.com"
   },
+  "hanover crossing|hanover": {
+    "maps_url": "https://www.google.com/maps/search/Hanover%20Crossing%20Hanover%20MA",
+    "photo": "photos/a024f11cb68a.jpg",
+    "website": "https://thehanovercrossing.com"
+  },
   "harper lane brewery|middleboro": {
     "maps_url": "https://www.google.com/maps/search/Harper%20Lane%20Brewery%20Middleboro%20MA",
     "photo": "photos/17126264d272.jpg",
@@ -514,6 +524,16 @@
     "photo": "photos/4ec67ed76bc2.jpg",
     "website": "https://oldehp.com"
   },
+  "on beach across from clam box|quincy": {
+    "maps_url": "https://www.google.com/maps/search/The%20Clam%20Box%20Quincy%20MA",
+    "photo": "photos/a1fa5bfc3aac.jpg",
+    "website": "https://clamboxquincy.com"
+  },
+  "onset vfw|onset": {
+    "maps_url": "https://www.google.com/maps/search/Onset%20VFW%20Onset%20MA",
+    "photo": "photos/d18db7837081.jpg",
+    "website": "https://onsetvfw.tripod.com"
+  },
   "patio at fuel america|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Patio%20at%20Fuel%20America%20Weymouth%20MA",
     "photo": "photos/f23dcc191136.jpg",
@@ -552,6 +572,11 @@
   "plymouth waterfront|": {
     "maps_url": "https://www.google.com/maps/search/Plymouth%20Waterfront%20Visitor%20Center%20%20MA",
     "photo": "photos/0b5dc1bbb861.jpg",
+    "website": "https://seeplymouth.com"
+  },
+  "plymouth waterfront|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Plymouth%20Waterfront%20Visitor%20Center%20Plymouth%20MA",
+    "photo": "photos/b15a17a92814.jpg",
     "website": "https://seeplymouth.com"
   },
   "ponderosa sportsman club|acushnet": {
@@ -633,6 +658,11 @@
     "maps_url": "https://www.google.com/maps/search/Sandy%E2%80%99s%20on%20Plymouth%20Beach%20%20MA",
     "photo": "photos/a25580c45857.jpg",
     "website": null
+  },
+  "scarlet oak tavern|hingham": {
+    "maps_url": "https://www.google.com/maps/search/Scarlet%20Oak%20Tavern%20Hingham%20MA",
+    "photo": "photos/9d3b909ac13c.jpg",
+    "website": "https://scarletoaktavern.com"
   },
   "scituate harbor|": {
     "maps_url": "https://www.google.com/maps/search/Scituate%20Harbor%20%20MA",

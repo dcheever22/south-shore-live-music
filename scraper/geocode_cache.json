@@ -78,6 +78,12 @@
     "lon": -71.0881861,
     "precision": "venue"
   },
+  "baron hugo gazebo at milton town hall, milton": {
+    "display_name": "525, Canton Avenue, Quisset Brook, Milton Center, Milton, Norfolk County, Massachusetts, 02186, United States",
+    "lat": 42.2524603,
+    "lon": -71.0812976,
+    "precision": "venue"
+  },
   "baron hugo gazebo at milton town hall, none": null,
   "barrett\u2019s alehouse, bridgewater": {
     "display_name": "Barrett\u2019s Alehouse - West Bridgewater, 674, West Center Street, Cochesett, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
@@ -335,6 +341,12 @@
     "lon": -71.0488256,
     "precision": "venue"
   },
+  "hanover crossing, hanover": {
+    "display_name": "Hanover Crossing, Hanover, Plymouth County, Massachusetts, United States",
+    "lat": 42.1454797,
+    "lon": -70.8419102,
+    "precision": "venue"
+  },
   "hanover crossing, none": {
     "display_name": "Hanover Crossing, Hanover, Plymouth County, Massachusetts, United States",
     "lat": 42.1454797,
@@ -572,6 +584,18 @@
     "lon": -70.8835617,
     "precision": "venue"
   },
+  "on beach across from clam box, quincy": {
+    "display_name": "The Clam Box, 789, Quincy Shore Drive, North Quincy, Quincy, Norfolk County, Massachusetts, 02170, United States",
+    "lat": 42.2762908,
+    "lon": -71.0092847,
+    "precision": "venue"
+  },
+  "onset vfw, onset": {
+    "display_name": "4, Gibbs Ball Park Road, Onset Station, Wareham, Plymouth County, Massachusetts, 02538, United States",
+    "lat": 41.7515473,
+    "lon": -70.6745847,
+    "precision": "venue"
+  },
   "patio at fuel america, weymouth": {
     "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2174129,
@@ -615,6 +639,12 @@
     "precision": "venue"
   },
   "plymouth waterfront, none": null,
+  "plymouth waterfront, plymouth": {
+    "display_name": "130, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9608968,
+    "lon": -70.6674441,
+    "precision": "venue"
+  },
   "ponderosa sportsman club, acushnet": {
     "display_name": "242, Robinson Road, Long Plain, Acushnet, Bristol County, Massachusetts, 02743, United States",
     "lat": 41.7383916,
