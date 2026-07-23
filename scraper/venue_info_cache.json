@@ -144,6 +144,11 @@
     "photo": "photos/c600668817bf.jpg",
     "website": "https://bridgewatercitizensclub.com"
   },
+  "bridgewater citizens club|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Bridgewater%20Citizens%20Club%20Bridgewater%20MA",
+    "photo": "photos/e8756c21fb1d.jpg",
+    "website": "https://bridgewatercitizensclub.com"
+  },
   "bridgewater music alley|": {
     "maps_url": "https://www.google.com/maps/search/Bridgewater%20Music%20Alley%20%20MA",
     "photo": "photos/5bb06e1f41bd.jpg",
@@ -169,6 +174,11 @@
     "photo": "photos/b1ae950d316e.jpg",
     "website": "https://bournema.myrec.com"
   },
+  "buzzards bay gazebo|buzzards bay": {
+    "maps_url": "https://www.google.com/maps/search/Buzzards%20Bay%20Gazebo%20Buzzards%20Bay%20MA",
+    "photo": "photos/ec9cbe39c847.jpg",
+    "website": "https://bournema.myrec.com"
+  },
   "cabby shack|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Cabby%20Shack%20Plymouth%20MA",
     "photo": "photos/1f9a71e9aae0.jpg",
@@ -191,6 +201,11 @@
   },
   "cohasset farmers market|": {
     "maps_url": "https://www.google.com/maps/search/Cohasset%20Farmers%20Market%20%20MA",
+    "photo": null,
+    "website": "https://cohassetma.gov"
+  },
+  "cohasset farmers market|cohasset": {
+    "maps_url": "https://www.google.com/maps/search/Cohasset%20Farmers%20Market%20Cohasset%20MA",
     "photo": null,
     "website": "https://cohassetma.gov"
   },
@@ -569,6 +584,11 @@
     "photo": "photos/8966a0c6feb7.jpg",
     "website": "https://plymouthpubliclibrary.org"
   },
+  "plymouth library|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Plymouth%20Library%20Plymouth%20MA",
+    "photo": "photos/680563ffd729.jpg",
+    "website": "https://plymouthpubliclibrary.org"
+  },
   "plymouth waterfront|": {
     "maps_url": "https://www.google.com/maps/search/Plymouth%20Waterfront%20Visitor%20Center%20%20MA",
     "photo": "photos/0b5dc1bbb861.jpg",
@@ -597,6 +617,11 @@
   "randolph amvets post 51|": {
     "maps_url": "https://www.google.com/maps/search/Randolph%20Amvets%20Post%2051%20%20MA",
     "photo": "photos/284a4caf113c.jpg",
+    "website": "https://randolphamvetspost51.org"
+  },
+  "randolph amvets post 51|randolph": {
+    "maps_url": "https://www.google.com/maps/search/Randolph%20Amvets%20Post%2051%20Randolph%20MA",
+    "photo": "photos/0537ce836cd2.jpg",
     "website": "https://randolphamvetspost51.org"
   },
   "randolph amvets|": {
@@ -667,6 +692,11 @@
   "scituate harbor|": {
     "maps_url": "https://www.google.com/maps/search/Scituate%20Harbor%20%20MA",
     "photo": "photos/7efa926496fb.jpg",
+    "website": null
+  },
+  "scituate harbor|scituate": {
+    "maps_url": "https://www.google.com/maps/place/Scituate+Harbor/@42.2028787,-70.7203183,15z/data=!3m1!4b1!4m6!3m5!1s0x89e35eb4643883f3:0x4438426dab38ab0e!8m2!3d42.2028793!4d-70.7203183!16s%2Fg%2F1td2vxg_?entry=ttu&g_ep=EgoyMDI2MDcyMC4wIKXMDSoASAFQAw%3D%3D",
+    "photo": "photos/465b64ebcd89.jpg",
     "website": null
   },
   "scituate vfw|": {

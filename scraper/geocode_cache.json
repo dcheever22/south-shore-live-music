@@ -157,6 +157,12 @@
     "lon": -70.6963163,
     "precision": "venue"
   },
+  "bridgewater citizens club, bridgewater": {
+    "display_name": "Hale Street, Bridgewater, Plymouth County, Massachusetts, 02325, United States",
+    "lat": 41.9908352,
+    "lon": -70.9720286,
+    "precision": "venue"
+  },
   "bridgewater citizens club, none": null,
   "bridgewater music alley, bridgewater": {
     "display_name": "50, Central Square, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
@@ -175,6 +181,12 @@
     "display_name": "Buzzard's Bay Brewery, 98, Horseneck Road, South Westport, Westport, Bristol County, Massachusetts, 02791, United States",
     "lat": 41.5677879,
     "lon": -71.0500952,
+    "precision": "venue"
+  },
+  "buzzards bay gazebo, buzzards bay": {
+    "display_name": "90, Main Street, Bourne Corners, Buzzards Bay, Bourne, Barnstable County, Massachusetts, 02532, United States",
+    "lat": 41.7442535,
+    "lon": -70.6142686,
     "precision": "venue"
   },
   "buzzards bay gazebo, none": null,
@@ -200,6 +212,12 @@
     "display_name": "Cisco Brewers Kitchen & Bar, 1482, East Rodney French Boulevard, New Bedford, Bristol County, Massachusetts, 02744, United States",
     "lat": 41.6106382,
     "lon": -70.9055543,
+    "precision": "venue"
+  },
+  "cohasset farmers market, cohasset": {
+    "display_name": "Cohasset Town Hall, 41, Highland Avenue, Cohasset, Norfolk County, Massachusetts, 02025, United States",
+    "lat": 42.2430444,
+    "lon": -70.8026292,
     "precision": "venue"
   },
   "cohasset farmers market, none": null,
@@ -638,6 +656,12 @@
     "lon": -71.056659,
     "precision": "venue"
   },
+  "plymouth library, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "plymouth waterfront, none": null,
   "plymouth waterfront, plymouth": {
     "display_name": "130, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
@@ -664,6 +688,12 @@
     "precision": "town"
   },
   "randolph amvets post 51, none": null,
+  "randolph amvets post 51, randolph": {
+    "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
+    "lat": 42.1704238,
+    "lon": -71.0390483,
+    "precision": "venue"
+  },
   "randolph amvets, none": null,
   "red hand brewing, lakeville": {
     "display_name": "348, Bedford Street, Sampsons Corner, Lakeville, Plymouth County, Massachusetts, 02347, United States",
@@ -734,6 +764,12 @@
   },
   "scituate harbor, none": {
     "display_name": "Scituate Harbor Yacht Club, Jericho Road, Sand Hills, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.202899,
+    "lon": -70.7243059,
+    "precision": "venue"
+  },
+  "scituate harbor, scituate": {
+    "display_name": "Scituate Harbor Yacht Club, Beacon Road, Sand Hills, Scituate, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.202899,
     "lon": -70.7243059,
     "precision": "venue"
