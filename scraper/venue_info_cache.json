@@ -234,6 +234,11 @@
     "photo": "photos/d4f5fc208dd2.jpg",
     "website": "https://cornerstonescarver.com"
   },
+  "crispis|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Crispis%20Bridgewater%20MA",
+    "photo": "photos/97382a6d1bd8.jpg",
+    "website": "https://crispisbridgewater.com"
+  },
   "crossroads|braintree": {
     "maps_url": "https://www.google.com/maps/search/Crossroads%20Braintree%20MA",
     "photo": null,
@@ -359,6 +364,11 @@
     "photo": "photos/5c09245df2fd.jpg",
     "website": "https://thehimalayaplymouth.com"
   },
+  "himalaya|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Himalaya%20Plymouth%20MA",
+    "photo": "photos/71e63b0eb425.jpg",
+    "website": "https://thehimalayaplymouth.com"
+  },
   "j&g hillside grill|": {
     "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Grill%20%20MA",
     "photo": "photos/ec9924746093.jpg",
@@ -444,6 +454,11 @@
     "photo": "photos/81e87fdf039d.jpg",
     "website": "https://madreosteria.com"
   },
+  "mambo\u2019s|hull": {
+    "maps_url": "https://www.google.com/maps/search/Mambo%E2%80%99s%20Hull%20MA",
+    "photo": "photos/f90fdfb1469a.jpg",
+    "website": "https://online.skytab.com"
+  },
   "mamma mia's|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Mamma%20Mia%27s%20Marshfield%20MA",
     "photo": "photos/5c2ec9f6477b.jpg",
@@ -462,6 +477,11 @@
   "marshfield town green|": {
     "maps_url": "https://www.google.com/maps/search/Marshfield%20Town%20Green%20%20MA",
     "photo": "photos/626f0e97128b.jpg",
+    "website": "https://marshfield-ma.gov"
+  },
+  "marshfield town green|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Marshfield%20Town%20Green%20Marshfield%20MA",
+    "photo": "photos/1914132b29c0.jpg",
     "website": "https://marshfield-ma.gov"
   },
   "martini's|whitman": {
@@ -518,6 +538,11 @@
     "maps_url": "https://www.google.com/maps/search/Mirbeau%20Garden%20Bar%20Plymouth%20MA",
     "photo": "photos/24a4479fd950.jpg",
     "website": "https://plymouth.mirbeau.com"
+  },
+  "new bedford whaling museum|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/New%20Bedford%20Whaling%20Museum%20New%20Bedford%20MA",
+    "photo": "photos/87c44aa75d11.jpg",
+    "website": "https://whalingmuseum.org"
   },
   "next page|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Next%20Page%20Weymouth%20MA",
@@ -682,6 +707,11 @@
   "sandy\u2019s on plymouth beach|": {
     "maps_url": "https://www.google.com/maps/search/Sandy%E2%80%99s%20on%20Plymouth%20Beach%20%20MA",
     "photo": "photos/a25580c45857.jpg",
+    "website": null
+  },
+  "sandy\u2019s on plymouth beach|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Sandy%E2%80%99s%20on%20Plymouth%20Beach%20Plymouth%20MA",
+    "photo": "photos/da90d5339c38.jpg",
     "website": null
   },
   "scarlet oak tavern|hingham": {
@@ -924,6 +954,11 @@
     "photo": "photos/a6955a8dae43.jpg",
     "website": "https://townetavern.com"
   },
+  "towne tavern & treehouse|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20%26%20Treehouse%20Pembroke%20MA",
+    "photo": "photos/40359e89c06c.jpg",
+    "website": "https://townetavern.com"
+  },
   "towne tavern treehouse|pembroke": {
     "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20Treehouse%20Pembroke%20MA",
     "photo": "photos/95318b0cfac5.jpg",
@@ -962,6 +997,11 @@
   "weymouth town hall|": {
     "maps_url": "https://www.google.com/maps/search/Weymouth%20Town%20Hall%20%20MA",
     "photo": "photos/a9ce05764ce6.jpg",
+    "website": "https://weymouth.ma.us"
+  },
+  "weymouth town hall|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Weymouth%20Town%20Hall%20Weymouth%20MA",
+    "photo": "photos/49100e92e99e.jpg",
     "website": "https://weymouth.ma.us"
   },
   "wollaston gardens|quincy": {

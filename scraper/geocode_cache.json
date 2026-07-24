@@ -251,6 +251,12 @@
     "lon": -70.8046631,
     "precision": "venue"
   },
+  "crispis, bridgewater": {
+    "display_name": "136, Broad Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
+    "lat": 41.9936103,
+    "lon": -70.9743459,
+    "precision": "venue"
+  },
   "crossroads, braintree": {
     "display_name": "Crossroads Pub, 63, Columbian Street, Braintree, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.1865145,
@@ -396,6 +402,12 @@
     "lon": -70.6656372,
     "precision": "venue"
   },
+  "himalaya, plymouth": {
+    "display_name": "Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9622605,
+    "lon": -70.6737881,
+    "precision": "venue"
+  },
   "j&g hillside grill": null,
   "j&g hillside grill, stoughton": {
     "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
@@ -493,6 +505,12 @@
     "lon": -71.0659049,
     "precision": "venue"
   },
+  "mambo\u2019s, hull": {
+    "display_name": "269, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.274,
+    "lon": -70.861317,
+    "precision": "venue"
+  },
   "mamma mia's, marshfield": {
     "display_name": "93, Careswell Street, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, 02050, United States",
     "lat": 42.0819333,
@@ -506,6 +524,12 @@
     "precision": "venue"
   },
   "marshfield fairgrounds, none": null,
+  "marshfield town green, marshfield": {
+    "display_name": "Marshfield Boat Launch Facility, Town Pier Road, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, United States",
+    "lat": 42.0833808,
+    "lon": -70.6460132,
+    "precision": "venue"
+  },
   "marshfield town green, none": {
     "display_name": "Marshfield Boat Launch Facility, Town Pier Road, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, United States",
     "lat": 42.0833808,
@@ -577,6 +601,12 @@
     "lat": 41.9426657,
     "lon": -70.7618592,
     "precision": "town"
+  },
+  "new bedford whaling museum, new bedford": {
+    "display_name": "New Bedford Whaling Museum, 18, Johnny Cake Hill, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.635169,
+    "lon": -70.9231848,
+    "precision": "venue"
   },
   "next page, weymouth": {
     "display_name": "The Next Page, Broad Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02188, United States",
@@ -756,6 +786,12 @@
     "precision": "venue"
   },
   "sandy\u2019s on plymouth beach, none": null,
+  "sandy\u2019s on plymouth beach, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "scarlet oak tavern, hingham": {
     "display_name": "Scarlet Oak Tavern, 1217, Main Street, Liberty Plain, Hingham, Plymouth County, Massachusetts, 02043, United States",
     "lat": 42.1758258,
@@ -1039,6 +1075,12 @@
     "lon": -70.9571353,
     "precision": "venue"
   },
+  "towne tavern & treehouse, pembroke": {
+    "display_name": "242, Mattakeesett Street, Oldham Village, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.0611013,
+    "lon": -70.8269838,
+    "precision": "venue"
+  },
   "towne tavern treehouse, pembroke": {
     "display_name": "242, Mattakeesett Street, Oldham Village, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.0611013,
@@ -1082,6 +1124,12 @@
     "precision": "venue"
   },
   "weymouth town hall, none": {
+    "display_name": "Weymouth Town Hall, 75, Middle Street, Weymouth Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
+    "lat": 42.2219685,
+    "lon": -70.9391359,
+    "precision": "venue"
+  },
+  "weymouth town hall, weymouth": {
     "display_name": "Weymouth Town Hall, 75, Middle Street, Weymouth Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
     "lat": 42.2219685,
     "lon": -70.9391359,
