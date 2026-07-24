@@ -4,6 +4,11 @@
     "photo": "photos/ae952396b583.jpg",
     "website": "https://cnotehull.com"
   },
+  "$15, c note|hull": {
+    "maps_url": "https://www.google.com/maps/search/%2415%2C%20C%20Note%20Hull%20MA",
+    "photo": "photos/b884fb09009c.jpg",
+    "website": "https://cnotehull.com"
+  },
   "$5, pete\u2019s grille|quincy": {
     "maps_url": "https://www.google.com/maps/search/%245%2C%20Pete%E2%80%99s%20Grille%20Quincy%20MA",
     "photo": "photos/018116908be0.jpg",
@@ -42,6 +47,11 @@
   "abington ale house|": {
     "maps_url": "https://www.google.com/maps/search/Abington%20Ale%20House%20%20MA",
     "photo": "photos/34939a5f3114.jpg",
+    "website": "https://abingtonalehouse.com"
+  },
+  "abington ale house|abington": {
+    "maps_url": "https://www.google.com/maps/search/Abington%20Ale%20House%20Abington%20MA",
+    "photo": "photos/62586c8d6ca8.jpg",
     "website": "https://abingtonalehouse.com"
   },
   "alba on 53|hanover": {
@@ -239,6 +249,11 @@
     "photo": "photos/d4f5fc208dd2.jpg",
     "website": "https://cornerstonescarver.com"
   },
+  "courtside wolves den|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/The%20Wolves%20Den%20Pembroke%20MA",
+    "photo": "photos/6386cfa79393.jpg",
+    "website": "https://wolvesdenpembroke.com"
+  },
   "crispis|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Crispis%20Bridgewater%20MA",
     "photo": "photos/97382a6d1bd8.jpg",
@@ -303,6 +318,11 @@
     "maps_url": "https://www.google.com/maps/search/Evviva%20Trattoria%20Hanover%20MA",
     "photo": "photos/e120dbed20a8.jpg",
     "website": "https://evvivatrattoria.com"
+  },
+  "fuel america|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Fuel%20America%20Weymouth%20MA",
+    "photo": "photos/054dc35f2ef4.jpg",
+    "website": "https://fuelamericaweymouth.com"
   },
   "gellar\u2019s snackbar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Gellar%E2%80%99s%20Snackbar%20Plymouth%20MA",
@@ -373,6 +393,11 @@
     "maps_url": "https://www.google.com/maps/search/Himalaya%20Plymouth%20MA",
     "photo": "photos/71e63b0eb425.jpg",
     "website": "https://thehimalayaplymouth.com"
+  },
+  "inn on shipyard park|mattapoisett": {
+    "maps_url": "https://www.google.com/maps/search/Inn%20on%20Shipyard%20Park%20Mattapoisett%20MA",
+    "photo": "photos/700d7b1d6154.jpg",
+    "website": "https://theinnonthepark.com"
   },
   "j&g hillside grill|": {
     "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Grill%20%20MA",
@@ -659,6 +684,11 @@
     "photo": "photos/1fe6d115127c.jpg",
     "website": "https://randolphamvetspost51.org"
   },
+  "randolph amvets|randolph": {
+    "maps_url": "https://www.google.com/maps/search/Randolph%20AMVETS%20Randolph%20MA",
+    "photo": "photos/965bb73913af.jpg",
+    "website": "https://randolphamvetspost51.org"
+  },
   "red hand brewing|lakeville": {
     "maps_url": "https://www.google.com/maps/search/Red%20Hand%20Brewing%20Lakeville%20MA",
     "photo": "photos/19bc1926b917.jpg",
@@ -773,6 +803,11 @@
     "maps_url": "https://www.google.com/maps/search/Sip%20at%201620%20Wine%20Bar%20Plymouth%20MA",
     "photo": "photos/209673e06b12.jpg",
     "website": "https://sip1620.com"
+  },
+  "somewhere else|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/Somewhere%20Else%20Pembroke%20MA",
+    "photo": "photos/8b27d025d6d0.jpg",
+    "website": "https://setpmb.com"
   },
   "soundcheck studios|pembroke": {
     "maps_url": "https://www.google.com/maps/search/SoundCheck%20Studios%20Pembroke%20MA",
@@ -932,6 +967,11 @@
   "threev sandbar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/ThreeV%20Sandbar%20Plymouth%20MA",
     "photo": "photos/46b3d12f0f40.jpg",
+    "website": "https://threevrestaurant.com"
+  },
+  "threev|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/ThreeV%20Plymouth%20MA",
+    "photo": "photos/da13d0df3069.png",
     "website": "https://threevrestaurant.com"
   },
   "tinker\u2019s son|norwell": {

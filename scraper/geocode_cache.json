@@ -5,6 +5,12 @@
     "lon": -70.8526223,
     "precision": "venue"
   },
+  "$15, c note, hull": {
+    "display_name": "C Note Music Club, 159, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2678215,
+    "lon": -70.8526223,
+    "precision": "venue"
+  },
   "$5, pete\u2019s grille, quincy": {
     "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2435805,
@@ -45,6 +51,12 @@
     "display_name": "550, Monponsett Street, Camp Ousamequin, Halifax, Plymouth County, Massachusetts, 02350, United States",
     "lat": 42.0093449,
     "lon": -70.8434718,
+    "precision": "venue"
+  },
+  "abington ale house, abington": {
+    "display_name": "1235, Bedford Street, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
+    "lat": 42.1382802,
+    "lon": -70.9502801,
     "precision": "venue"
   },
   "abington ale house, none": null,
@@ -257,6 +269,12 @@
     "lon": -70.8046631,
     "precision": "venue"
   },
+  "courtside wolves den, pembroke": {
+    "display_name": "340, Oak Street, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.1052134,
+    "lon": -70.7693719,
+    "precision": "venue"
+  },
   "crispis, bridgewater": {
     "display_name": "136, Broad Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
     "lat": 41.9936103,
@@ -333,6 +351,12 @@
     "display_name": "Evviva Trattoria, Hanover Mall Drive, Hanover Crossing, Hanover, Plymouth County, Massachusetts, 02061, United States",
     "lat": 42.1454532,
     "lon": -70.841589,
+    "precision": "venue"
+  },
+  "fuel america, weymouth": {
+    "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.2174129,
+    "lon": -70.9655487,
     "precision": "venue"
   },
   "gellar\u2019s snackbar, plymouth": {
@@ -412,6 +436,12 @@
     "display_name": "Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9622605,
     "lon": -70.6737881,
+    "precision": "venue"
+  },
+  "inn on shipyard park, mattapoisett": {
+    "display_name": "The Inn on Shipyard Park, 13, Water Street, Mattapoisett, Plymouth County, Massachusetts, 02739, United States",
+    "lat": 41.6582958,
+    "lon": -70.8129464,
     "precision": "venue"
   },
   "j&g hillside grill": null,
@@ -731,6 +761,12 @@
     "precision": "venue"
   },
   "randolph amvets, none": null,
+  "randolph amvets, randolph": {
+    "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
+    "lat": 42.1704238,
+    "lon": -71.0390483,
+    "precision": "venue"
+  },
   "red hand brewing, lakeville": {
     "display_name": "348, Bedford Street, Sampsons Corner, Lakeville, Plymouth County, Massachusetts, 02347, United States",
     "lat": 41.8399796,
@@ -857,6 +893,12 @@
     "display_name": "1620 Winery Wine Bar, 170, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9624276,
     "lon": -70.6692569,
+    "precision": "venue"
+  },
+  "somewhere else, pembroke": {
+    "display_name": "Somewhere Else Tavern, 65, School Street, Mayflower Grove, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.04134,
+    "lon": -70.8372192,
     "precision": "venue"
   },
   "soundcheck studios, pembroke": {
@@ -1049,6 +1091,12 @@
     "display_name": "Loring Boulevard, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
     "lat": 41.9782997,
     "lon": -70.689469,
+    "precision": "venue"
+  },
+  "threev, plymouth": {
+    "display_name": "ThreeV, 10, Cordage Park Circle, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.978507,
+    "lon": -70.6876207,
     "precision": "venue"
   },
   "tinker\u2019s son, norwell": {
