@@ -133,6 +133,12 @@
     "lon": -71.0060901,
     "precision": "venue"
   },
+  "black lantern, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "boathouse bistro, hull": {
     "display_name": "Nantasket Beach Resort, 45, Hull Shore Drive, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2747567,
@@ -766,6 +772,12 @@
     "lat": 42.2530707,
     "lon": -70.9196581,
     "precision": "town"
+  },
+  "ruth gordon amphitheater, quincy": {
+    "display_name": "Ruth Gordon Amphitheater, Vietnam Veterans Drive, Merrymount, Quincy, Norfolk County, Massachusetts, 02170, United States",
+    "lat": 42.2634506,
+    "lon": -71.0044333,
+    "precision": "venue"
   },
   "ryan's sports pub, new bedford": {
     "display_name": "500, Hathaway Road, Rockdale, New Bedford, Bristol County, Massachusetts, 02746, United States",

@@ -119,6 +119,11 @@
     "photo": "photos/5c685c081caa.jpg",
     "website": "https://blackhatbrewworks.com"
   },
+  "black lantern|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Black%20Lantern%20Plymouth%20MA",
+    "photo": "photos/00909b8c58fc.jpg",
+    "website": "https://blacklanterntavern.com"
+  },
   "boathouse bistro|hull": {
     "maps_url": "https://www.google.com/maps/search/Boathouse%20Bistro%20Hull%20MA",
     "photo": "photos/439e645d829c.jpg",
@@ -687,6 +692,11 @@
   "ruth gordon amphitheater|hingham shipyard": {
     "maps_url": "https://www.google.com/maps/search/Ruth%20Gordon%20Amphitheater%20Hingham%20Shipyard%20MA",
     "photo": "photos/19adf087aa52.jpg",
+    "website": "https://discoverquincy.com"
+  },
+  "ruth gordon amphitheater|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Ruth%20Gordon%20Amphitheater%20Quincy%20MA",
+    "photo": "photos/52e9157d4814.jpg",
     "website": "https://discoverquincy.com"
   },
   "ryan's sports pub|new bedford": {
