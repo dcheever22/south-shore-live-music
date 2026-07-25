@@ -139,6 +139,12 @@
     "lon": -71.0820209,
     "precision": "venue"
   },
+  "bittersweet farm, westport": {
+    "display_name": "Westport",
+    "lat": 41.6220399,
+    "lon": -71.0780195,
+    "precision": "town"
+  },
   "black hat brew works, bridgewater": {
     "display_name": "25, Scotland Boulevard, Scotland, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
     "lat": 41.9744815,
@@ -644,6 +650,12 @@
     "lon": -70.9433121,
     "precision": "venue"
   },
+  "middleground grille, weymouth": {
+    "display_name": "Buck's Bar and Grill, 416, Middle Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
+    "lat": 42.2098546,
+    "lon": -70.9433121,
+    "precision": "venue"
+  },
   "mirbeau garden bar, plymouth": {
     "display_name": "Plymouth",
     "lat": 41.9426657,
@@ -775,6 +787,12 @@
     "display_name": "242, Robinson Road, Long Plain, Acushnet, Bristol County, Massachusetts, 02743, United States",
     "lat": 41.7383916,
     "lon": -70.8786863,
+    "precision": "venue"
+  },
+  "poquoy brook pub, lakeville": {
+    "display_name": "Poquoy Brook Golf Club, 20, Leonard Street, Lakeville, Plymouth County, Massachusetts, 02347, United States",
+    "lat": 41.8833932,
+    "lon": -70.9691638,
     "precision": "venue"
   },
   "pour farm, new bedford": {
@@ -1039,6 +1057,12 @@
     "lon": -70.8408525,
     "precision": "venue"
   },
+  "taunton vfw, taunton": {
+    "display_name": "82, Ingell Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.8899714,
+    "lon": -71.0839982,
+    "precision": "venue"
+  },
   "tavern on the wharf, plymouth": {
     "display_name": "Tavern on the Wharf, 6, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9618207,
@@ -1193,6 +1217,12 @@
     "display_name": "175, North Bedford Street, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
     "lat": 42.0382156,
     "lon": -70.9571353,
+    "precision": "venue"
+  },
+  "trident galley & raw bar, hingham": {
+    "display_name": "Union Fish Seafood & Raw Bar, 23, Shipyard Drive, The Launch at Hingham Shipyard, Old Spain, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2520587,
+    "lon": -70.9220739,
     "precision": "venue"
   },
   "tufts library, weymouth": {

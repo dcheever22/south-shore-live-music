@@ -124,6 +124,11 @@
     "photo": "photos/a5392355117c.jpg",
     "website": "https://berkleybeer.com"
   },
+  "bittersweet farm|westport": {
+    "maps_url": "https://www.google.com/maps/search/Bittersweet%20Farm%20Westport%20MA",
+    "photo": "photos/3a192ed83524.jpg",
+    "website": "https://bittersweetfarmwestport.com"
+  },
   "black hat brew works|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Black%20Hat%20Brew%20Works%20Bridgewater%20MA",
     "photo": "photos/5c685c081caa.jpg",
@@ -574,6 +579,11 @@
     "photo": "photos/3167d309b7a5.jpg",
     "website": "https://middlegroundgrill.com"
   },
+  "middleground grille|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/MiddleGround%20Grille%20Weymouth%20MA",
+    "photo": "photos/e21890be586b.jpg",
+    "website": "https://middlegroundgrill.com"
+  },
   "mirbeau garden bar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Mirbeau%20Garden%20Bar%20Plymouth%20MA",
     "photo": "photos/24a4479fd950.jpg",
@@ -688,6 +698,11 @@
     "maps_url": "https://www.google.com/maps/search/Ponderosa%20Sportsman%20Club%20Acushnet%20MA",
     "photo": "photos/a4c21bdb5e16.jpg",
     "website": null
+  },
+  "poquoy brook pub|lakeville": {
+    "maps_url": "https://www.google.com/maps/search/Poquoy%20Brook%20Pub%20Lakeville%20MA",
+    "photo": "photos/4209c5005086.jpg",
+    "website": "https://poquoybrook.com"
   },
   "pour farm|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Pour%20Farm%20New%20Bedford%20MA",
@@ -924,6 +939,11 @@
     "photo": null,
     "website": "https://hanoverschools.org"
   },
+  "taunton vfw|taunton": {
+    "maps_url": "https://www.google.com/maps/search/Taunton%20VFW%20Taunton%20MA",
+    "photo": "photos/1b569b4d0bd6.jpg",
+    "website": "https://vfw.org"
+  },
   "tavern on the wharf|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Tavern%20on%20the%20Wharf%20Plymouth%20MA",
     "photo": "photos/44cf260f7e9a.jpg",
@@ -1053,6 +1073,11 @@
     "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20E.%20Bridgewater%20MA",
     "photo": "photos/572a7e2a8392.jpg",
     "website": "https://townetavern.com"
+  },
+  "trident galley & raw bar|hingham": {
+    "maps_url": "https://www.google.com/maps/search/Trident%20Galley%20%26%20Raw%20Bar%20Hingham%20MA",
+    "photo": "photos/b3289d8a1351.jpg",
+    "website": "https://tridentrawbar.com"
   },
   "tufts library|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Tufts%20Library%20Weymouth%20MA",
