@@ -505,6 +505,12 @@
     "lon": -70.9209007,
     "precision": "venue"
   },
+  "lakeville eagles, lakeville": {
+    "display_name": "217, County Street, Hilltop Acres, Lakeville, Plymouth County, Massachusetts, 02717, United States",
+    "lat": 41.7943123,
+    "lon": -70.954131,
+    "precision": "venue"
+  },
   "lakeville, lakeville": {
     "display_name": "Lakeville, 125, Commercial Drive, Lakeville, Plymouth County, Massachusetts, 02347, United States",
     "lat": 41.8781758,
