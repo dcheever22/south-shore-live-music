@@ -499,11 +499,23 @@
     "lon": -70.9209007,
     "precision": "venue"
   },
+  "lakeville, lakeville": {
+    "display_name": "Lakeville, 125, Commercial Drive, Lakeville, Plymouth County, Massachusetts, 02347, United States",
+    "lat": 41.8781758,
+    "lon": -70.9183145,
+    "precision": "venue"
+  },
   "laura's center for the arts, hanover": {
     "display_name": "97, Mill Street, Hanover, Plymouth County, Massachusetts, 02339, United States",
     "lat": 42.1422122,
     "lon": -70.8390993,
     "precision": "venue"
+  },
+  "leandro\u2019s, easton": {
+    "display_name": "Easton",
+    "lat": 42.0245442,
+    "lon": -71.1286594,
+    "precision": "town"
   },
   "levitate backyard, marshfield": {
     "display_name": "1871, Ocean Street, Marshfield, Plymouth County, Massachusetts, 02050, United States",
@@ -650,10 +662,28 @@
     "lon": -70.9372324,
     "precision": "venue"
   },
+  "niko, easton": {
+    "display_name": "Niko Mediterranean, 140, Main Street, Daley Corner, North Easton, Easton, Bristol County, Massachusetts, 02356, United States",
+    "lat": 42.0660578,
+    "lon": -71.1009884,
+    "precision": "venue"
+  },
   "ocho cafe, weymouth": {
     "display_name": "765, Bridge Street, Weymouth, Norfolk County, Massachusetts, 02191, United States",
     "lat": 42.2456437,
     "lon": -70.9343178,
+    "precision": "venue"
+  },
+  "off the boulevard, new bedford": {
+    "display_name": "Off The Shelf, 127, West Rodney French Boulevard, New Bedford, Bristol County, Massachusetts, 02744, United States",
+    "lat": 41.6119193,
+    "lon": -70.9181869,
+    "precision": "venue"
+  },
+  "off the hook, fairhaven": {
+    "display_name": "56, Goulart Memorial Drive, Winsegansett Heights, Fairhaven, Bristol County, Massachusetts, 02741, United States",
+    "lat": 41.5965531,
+    "lon": -70.8439214,
     "precision": "venue"
   },
   "off the hook, quincy": {
@@ -685,6 +715,12 @@
     "lat": 42.2174129,
     "lon": -70.9655487,
     "precision": "venue"
+  },
+  "pembroke community center, town green": {
+    "display_name": "Town Green",
+    "lat": 42.3272704,
+    "lon": -71.1315595,
+    "precision": "town"
   },
   "pete's grill, quincy": {
     "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
@@ -961,6 +997,12 @@
     "lon": -70.7480924,
     "precision": "venue"
   },
+  "stellwagen brewing, marshfield": {
+    "display_name": "100, Enterprise Drive, Standish, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.103653,
+    "lon": -70.7480924,
+    "precision": "venue"
+  },
   "stevie g's, cohasset": {
     "display_name": "380, Chief Justice Cushing Highway, Cohasset, Norfolk County, Massachusetts, 02025, United States",
     "lat": 42.2347215,
@@ -1145,6 +1187,12 @@
     "display_name": "242, Mattakeesett Street, Oldham Village, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.0611013,
     "lon": -70.8269838,
+    "precision": "venue"
+  },
+  "towne tavern, e. bridgewater": {
+    "display_name": "175, North Bedford Street, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
+    "lat": 42.0382156,
+    "lon": -70.9571353,
     "precision": "venue"
   },
   "tufts library, weymouth": {

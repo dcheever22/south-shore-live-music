@@ -449,10 +449,20 @@
     "photo": "photos/bac8fe04995c.png",
     "website": "https://knuckleheadsnb.com"
   },
+  "lakeville|lakeville": {
+    "maps_url": "https://www.google.com/maps/search/Lakeville%20Lakeville%20MA",
+    "photo": "photos/49b7261372f3.jpg",
+    "website": null
+  },
   "laura's center for the arts|hanover": {
     "maps_url": "https://www.google.com/maps/search/Laura%27s%20Center%20for%20the%20Arts%20Hanover%20MA",
     "photo": "photos/153962cabf40.jpg",
     "website": "https://ssymca.org"
+  },
+  "leandro\u2019s|easton": {
+    "maps_url": "https://www.google.com/maps/search/Leandro%E2%80%99s%20Easton%20MA",
+    "photo": "photos/bc1a4705d3ad.jpg",
+    "website": "https://leandrosrestaurant.com"
   },
   "levitate backyard|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Levitate%20Backyard%20Marshfield%20MA",
@@ -579,10 +589,25 @@
     "photo": "photos/5af9b1641e71.jpg",
     "website": "https://thenextpagecafe.com"
   },
+  "niko|easton": {
+    "maps_url": "https://www.google.com/maps/search/Niko%20Easton%20MA",
+    "photo": "photos/0f503cf09745.jpg",
+    "website": "https://nikomediterranean.com"
+  },
   "ocho cafe|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Ocho%20Cafe%20Weymouth%20MA",
     "photo": "photos/3d6695f19511.jpg",
     "website": "https://ochocafe.com"
+  },
+  "off the boulevard|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Off%20the%20Boulevard%20New%20Bedford%20MA",
+    "photo": "photos/5f36d6f2beba.jpg",
+    "website": "https://offtheblvd.com"
+  },
+  "off the hook|fairhaven": {
+    "maps_url": "https://www.google.com/maps/search/Off%20the%20Hook%20Fairhaven%20MA",
+    "photo": "photos/4efbb28b1551.jpg",
+    "website": "https://offthehookfairhaven.com"
   },
   "off the hook|quincy": {
     "maps_url": "https://www.google.com/maps/search/Off%20the%20Hook%20Quincy%20MA",
@@ -608,6 +633,11 @@
     "maps_url": "https://www.google.com/maps/search/Patio%20at%20Fuel%20America%20Weymouth%20MA",
     "photo": "photos/f23dcc191136.jpg",
     "website": "https://fuelamericaweymouth.com"
+  },
+  "pembroke community center|town green": {
+    "maps_url": "https://www.google.com/maps/search/Pembroke%20Community%20Center%20Town%20Green%20MA",
+    "photo": "photos/0d2e4539bf8a.jpg",
+    "website": "https://pembroke-ma.gov"
   },
   "pete's grill|quincy": {
     "maps_url": "https://www.google.com/maps/search/Pete%27s%20Grill%20Quincy%20MA",
@@ -859,6 +889,11 @@
     "photo": "photos/c3c9141e2cd3.png",
     "website": "https://stellwagenbeer.com"
   },
+  "stellwagen brewing|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Stellwagen%20Brewing%20Marshfield%20MA",
+    "photo": "photos/499857b99c90.png",
+    "website": "https://stellwagenbeer.com"
+  },
   "stevie g's|cohasset": {
     "maps_url": "https://www.google.com/maps/search/Stevie%20G%27s%20Cohasset%20MA",
     "photo": "photos/173a4d192def.jpg",
@@ -1012,6 +1047,11 @@
   "towne tavern treehouse|pembroke": {
     "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20Treehouse%20Pembroke%20MA",
     "photo": "photos/95318b0cfac5.jpg",
+    "website": "https://townetavern.com"
+  },
+  "towne tavern|e. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20E.%20Bridgewater%20MA",
+    "photo": "photos/572a7e2a8392.jpg",
     "website": "https://townetavern.com"
   },
   "tufts library|weymouth": {
