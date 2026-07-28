@@ -401,6 +401,12 @@
     "lon": -71.0488256,
     "precision": "venue"
   },
+  "green harbor lobster pound, marshfield": {
+    "display_name": "131, Beach Street, Green Harbor, Marshfield, Plymouth County, Massachusetts, United States",
+    "lat": 42.0790514,
+    "lon": -70.6487747,
+    "precision": "venue"
+  },
   "hanover crossing, hanover": {
     "display_name": "Hanover Crossing, Hanover, Plymouth County, Massachusetts, United States",
     "lat": 42.1454797,
