@@ -918,6 +918,12 @@
     "lon": -70.8857637,
     "precision": "venue"
   },
+  "school auditorium, avon": {
+    "display_name": "285;287, West Main Street, Avon, Norfolk County, Massachusetts, 02322, United States",
+    "lat": 42.1294899,
+    "lon": -71.0428827,
+    "precision": "venue"
+  },
   "scituate harbor, none": {
     "display_name": "Scituate Harbor Yacht Club, Jericho Road, Sand Hills, Scituate, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.202899,
