@@ -195,6 +195,12 @@
     "precision": "venue"
   },
   "bridgewater music alley, none": null,
+  "bridgewater triangle, bridgewater": {
+    "display_name": "14, Summer Street, Bridgewater, Plymouth County, Massachusetts, 02325, United States",
+    "lat": 41.9897997,
+    "lon": -70.9740958,
+    "precision": "venue"
+  },
   "british beer, plymouth": {
     "display_name": "British Beer Company, 6, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9567382,
@@ -1091,6 +1097,12 @@
     "display_name": "Tavern on the Wharf, 6, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9618207,
     "lon": -70.667218,
+    "precision": "venue"
+  },
+  "the beth kitchen & bar, hingham": {
+    "display_name": "Hingham Beer Works, 18, Shipyard Drive, The Launch at Hingham Shipyard, Old Spain, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2521351,
+    "lon": -70.9227272,
     "precision": "venue"
   },
   "the cave at red lion, cohasset": {

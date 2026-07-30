@@ -179,6 +179,11 @@
     "photo": "photos/fc5c6c5ce6f9.jpg",
     "website": "https://bridgewatermusicalley.com"
   },
+  "bridgewater triangle|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Bridgewater%20Triangle%20Bridgewater%20MA",
+    "photo": "photos/84f2f52e62b0.jpg",
+    "website": "https://bridgewatertrianglepub.com"
+  },
   "british beer|plymouth": {
     "maps_url": "https://www.google.com/maps/search/British%20Beer%20Plymouth%20MA",
     "photo": "photos/461f4964cea4.jpg",
@@ -968,6 +973,11 @@
     "maps_url": "https://www.google.com/maps/search/Tavern%20on%20the%20Wharf%20Plymouth%20MA",
     "photo": "photos/44cf260f7e9a.jpg",
     "website": "https://tavernonthewharf.com"
+  },
+  "the beth kitchen & bar|hingham": {
+    "maps_url": "https://www.google.com/maps/search/The%20Beth%20Kitchen%20%26%20Bar%20Hingham%20MA",
+    "photo": "photos/9071adc9ac0d.jpg",
+    "website": "https://thebethhingham.com"
   },
   "the cave at red lion|cohasset": {
     "maps_url": "https://www.google.com/maps/search/The%20Red%20Lion%20Inn%20Cohasset%20MA",
