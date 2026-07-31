@@ -744,6 +744,11 @@
     "photo": "photos/5cc3bc9f4b9c.jpg",
     "website": "https://profiletavern.com"
   },
+  "rags tavern|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Rags%20Tavern%20Quincy%20MA",
+    "photo": "photos/20900f11c9c5.jpg",
+    "website": null
+  },
   "randolph amvets post 51|": {
     "maps_url": "https://www.google.com/maps/search/Randolph%20Amvets%20Post%2051%20%20MA",
     "photo": "photos/284a4caf113c.jpg",
@@ -973,6 +978,11 @@
     "maps_url": "https://www.google.com/maps/search/Center%20Elementary%20School%20Hanover%20MA",
     "photo": null,
     "website": "https://hanoverschools.org"
+  },
+  "taunton common|taunton": {
+    "maps_url": "https://www.google.com/maps/place/Bristol+Commons/@41.8988688,-71.1179678,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4f4b6410a5d51:0x757eb3836e1de1f3!8m2!3d41.8988688!4d-71.1179678!16s%2Fg%2F11bc96bmtv?entry=ttu&g_ep=EgoyMDI2MDcyOS4wIKXMDSoASAFQAw%3D%3D",
+    "photo": "photos/aaa6be222c5b.jpg",
+    "website": "https://trinitymanagementllc.net"
   },
   "taunton vfw|taunton": {
     "maps_url": "https://www.google.com/maps/search/Taunton%20VFW%20Taunton%20MA",

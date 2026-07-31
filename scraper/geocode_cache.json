@@ -838,6 +838,12 @@
     "lon": -70.9580382,
     "precision": "town"
   },
+  "rags tavern, quincy": {
+    "display_name": "375;379;381;385, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2488906,
+    "lon": -70.9867123,
+    "precision": "venue"
+  },
   "randolph amvets post 51, none": null,
   "randolph amvets post 51, randolph": {
     "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
@@ -1092,6 +1098,12 @@
     "display_name": "Edmund Q. Sylvester School, Silver Street, Hanover Center, Hanover, Plymouth County, Massachusetts, 02339, United States",
     "lat": 42.1175856,
     "lon": -70.8408525,
+    "precision": "venue"
+  },
+  "taunton common, taunton": {
+    "display_name": "101, Fairground Avenue, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.8989429,
+    "lon": -71.1179418,
     "precision": "venue"
   },
   "taunton vfw, taunton": {
