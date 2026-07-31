@@ -1028,6 +1028,12 @@
     "lon": -70.6644439,
     "precision": "venue"
   },
+  "speedwell, plymouth": {
+    "display_name": "Main Street Extension, Bradford-Union Street Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9554315,
+    "lon": -70.6635959,
+    "precision": "venue"
+  },
   "spire center, plymouth": {
     "display_name": "Spire Center for the Performing Arts, 25-1/2, Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9579478,
