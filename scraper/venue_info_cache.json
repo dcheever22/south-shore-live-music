@@ -159,6 +159,11 @@
     "photo": "photos/208ff4cba75f.jpg",
     "website": "https://brewfish.net"
   },
+  "brewery 44|carver": {
+    "maps_url": "https://www.google.com/maps/search/Brewery%2044%20Carver%20MA",
+    "photo": "photos/1bb80b659dec.jpg",
+    "website": "https://brewery44.com"
+  },
   "brewster bar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Brewster%20Bar%20Plymouth%20MA",
     "photo": "photos/4d90d7c21663.jpg",
@@ -468,6 +473,11 @@
     "maps_url": "https://www.google.com/maps/search/Knuckleheads%20New%20Bedford%20MA",
     "photo": "photos/bac8fe04995c.png",
     "website": "https://knuckleheadsnb.com"
+  },
+  "lakeville country club|lakeville": {
+    "maps_url": "https://www.google.com/maps/search/Lakeville%20Country%20Club%20Lakeville%20MA",
+    "photo": "photos/ba78e665afc9.jpg",
+    "website": "https://lakevillecountryclub.com"
   },
   "lakeville eagles|lakeville": {
     "maps_url": "https://www.google.com/maps/search/Lakeville%20Eagles%20Lakeville%20MA",
@@ -949,6 +959,11 @@
     "photo": "photos/499857b99c90.png",
     "website": "https://stellwagenbeer.com"
   },
+  "stellwagen|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Stellwagen%20Marshfield%20MA",
+    "photo": "photos/abd8bb88c3aa.png",
+    "website": "https://stellwagenbeer.com"
+  },
   "stevie g's|cohasset": {
     "maps_url": "https://www.google.com/maps/search/Stevie%20G%27s%20Cohasset%20MA",
     "photo": "photos/173a4d192def.jpg",
@@ -1148,6 +1163,11 @@
     "maps_url": "https://www.google.com/maps/search/Untold%20Brewing%20Scituate%20MA",
     "photo": "photos/b2c1423290c2.jpg",
     "website": "https://untoldbrewing.com"
+  },
+  "voyage|humarock": {
+    "maps_url": "https://www.google.com/maps/search/Voyage%20Humarock%20MA",
+    "photo": "photos/2edb85750f4c.jpg",
+    "website": "https://thevoyagehumarock.com"
   },
   "w. bridgewater|": {
     "maps_url": "https://www.google.com/maps/search/W.%20Bridgewater%20%20MA",

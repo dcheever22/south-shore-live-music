@@ -181,6 +181,12 @@
     "lon": -70.7724499,
     "precision": "venue"
   },
+  "brewery 44, carver": {
+    "display_name": "2, Montello Street, Cole Mill, Carver, Plymouth County, Massachusetts, 02367, United States",
+    "lat": 41.9281846,
+    "lon": -70.8101811,
+    "precision": "venue"
+  },
   "brewster bar, plymouth": {
     "display_name": "Main Street, Rocky Nook, Kingston, Plymouth County, Massachusetts, 02364, United States",
     "lat": 41.9824473,
@@ -521,6 +527,12 @@
     "display_name": "Knuckle Heads, 85, MacArthur Drive, South Terminal, New Bedford, Bristol County, Massachusetts, 02744, United States",
     "lat": 41.6266323,
     "lon": -70.9209007,
+    "precision": "venue"
+  },
+  "lakeville country club, lakeville": {
+    "display_name": "Lakeville Country Club, 44, Clear Pond Road, Upper Four Corners, Lakeville, Plymouth County, Massachusetts, 02347, United States",
+    "lat": 41.8666646,
+    "lon": -70.9452899,
     "precision": "venue"
   },
   "lakeville eagles, lakeville": {
@@ -1064,6 +1076,12 @@
     "lon": -70.7480924,
     "precision": "venue"
   },
+  "stellwagen, marshfield": {
+    "display_name": "100, Enterprise Drive, Standish, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.103653,
+    "lon": -70.7480924,
+    "precision": "venue"
+  },
   "stevie g's, cohasset": {
     "display_name": "380, Chief Justice Cushing Highway, Cohasset, Norfolk County, Massachusetts, 02025, United States",
     "lat": 42.2347215,
@@ -1302,6 +1320,12 @@
     "display_name": "6, Old Country Way, Greenbush, Scituate, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.1808626,
     "lon": -70.7472132,
+    "precision": "venue"
+  },
+  "voyage, humarock": {
+    "display_name": "The Voyage, 14, Marshfield Avenue, Humarock, Scituate, Plymouth County, Massachusetts, 02047, United States",
+    "lat": 42.1382843,
+    "lon": -70.6911511,
     "precision": "venue"
   },
   "w. bridgewater, none": {
