@@ -159,6 +159,11 @@
     "photo": "photos/439e645d829c.jpg",
     "website": "https://boathousebistrobeachfront.com"
   },
+  "bourne scenic park|": {
+    "maps_url": "https://www.google.com/maps/search/Bourne%20Scenic%20Park%20%20MA",
+    "photo": "photos/b33c40b599a2.jpg",
+    "website": "https://bournescenicpark.com"
+  },
   "break rock brewing|quincy": {
     "maps_url": "https://www.google.com/maps/search/Break%20Rock%20Brewing%20Quincy%20MA",
     "photo": "photos/07d702839957.png",
@@ -579,6 +584,11 @@
     "photo": "photos/1914132b29c0.jpg",
     "website": "https://marshfield-ma.gov"
   },
+  "marshfield vfw|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Marshfield%20VFW%20Marshfield%20MA",
+    "photo": "photos/48723181d1ec.jpg",
+    "website": "https://vfw.org"
+  },
   "martini's|whitman": {
     "maps_url": "https://www.google.com/maps/search/Martini%27s%20Whitman%20MA",
     "photo": "photos/90168c52d9e5.jpg",
@@ -864,6 +874,11 @@
     "photo": "photos/37164827da33.jpg",
     "website": "https://sailhouse-tavern.com"
   },
+  "sandbar lounge|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Sandbar%20Lounge%20Plymouth%20MA",
+    "photo": "photos/2e0ddc5ff808.jpg",
+    "website": "https://sandbarlounge.com"
+  },
   "sandy\u2019s on plymouth beach|": {
     "maps_url": "https://www.google.com/maps/search/Sandy%E2%80%99s%20on%20Plymouth%20Beach%20%20MA",
     "photo": "photos/a25580c45857.jpg",
@@ -987,6 +1002,11 @@
   "stellwagen beer|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Stellwagen%20Beer%20Marshfield%20MA",
     "photo": "photos/c3c9141e2cd3.png",
+    "website": "https://stellwagenbeer.com"
+  },
+  "stellwagen brewery|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Stellwagen%20Brewery%20Marshfield%20MA",
+    "photo": "photos/5ffc2cc1aaf4.png",
     "website": "https://stellwagenbeer.com"
   },
   "stellwagen brewing|marshfield": {

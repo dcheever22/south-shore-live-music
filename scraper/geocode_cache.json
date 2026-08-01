@@ -181,6 +181,12 @@
     "lon": -70.8616737,
     "precision": "venue"
   },
+  "bourne scenic park, none": {
+    "display_name": "Bourne Scenic Park, Buzzards Bay, Bourne, Barnstable County, Massachusetts, United States",
+    "lat": 41.7509441,
+    "lon": -70.5901058,
+    "precision": "venue"
+  },
   "break rock brewing, quincy": {
     "display_name": "Break Rock Brewing, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
     "lat": 42.2995468,
@@ -650,6 +656,12 @@
     "lon": -70.6460132,
     "precision": "venue"
   },
+  "marshfield vfw, marshfield": {
+    "display_name": "655, Main Street, Marshfield Center, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.112554,
+    "lon": -70.7318717,
+    "precision": "venue"
+  },
   "martini's, whitman": {
     "display_name": "552, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
     "lat": 42.0799647,
@@ -967,6 +979,12 @@
     "lon": -70.9068591,
     "precision": "venue"
   },
+  "sandbar lounge, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "sandy\u2019s on plymouth beach, none": null,
   "sandy\u2019s on plymouth beach, plymouth": {
     "display_name": "Plymouth",
@@ -1102,6 +1120,12 @@
     "precision": "venue"
   },
   "stellwagen beer, marshfield": {
+    "display_name": "100, Enterprise Drive, Standish, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.103653,
+    "lon": -70.7480924,
+    "precision": "venue"
+  },
+  "stellwagen brewery, marshfield": {
     "display_name": "100, Enterprise Drive, Standish, Marshfield, Plymouth County, Massachusetts, 02050, United States",
     "lat": 42.103653,
     "lon": -70.7480924,
