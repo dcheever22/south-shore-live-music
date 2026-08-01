@@ -413,6 +413,12 @@
     "lon": -71.002491,
     "precision": "venue"
   },
+  "gpub, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "granite links, quincy": {
     "display_name": "100, Quarry Hills Drive, Quincy, Norfolk County, Massachusetts, 02269, United States",
     "lat": 42.2442539,
