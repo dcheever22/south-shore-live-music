@@ -54,6 +54,11 @@
     "photo": "photos/62586c8d6ca8.jpg",
     "website": "https://abingtonalehouse.com"
   },
+  "abington alehouse|abington": {
+    "maps_url": "https://www.google.com/maps/search/Abington%20Alehouse%20Abington%20MA",
+    "photo": "photos/f960673ad1b9.jpg",
+    "website": "https://abingtonalehouse.com"
+  },
   "alba on 53|hanover": {
     "maps_url": "https://www.google.com/maps/search/Alba%20on%2053%20Hanover%20MA",
     "photo": "photos/a4b63c0afe26.png",
@@ -68,6 +73,11 @@
     "maps_url": "https://www.google.com/maps/search/Amvets%20Post%20Randolph%20MA",
     "photo": "photos/c76be8ab1aea.jpg",
     "website": "https://randolphamvetspost51.org"
+  },
+  "anchor rock vineyards|dartmouth": {
+    "maps_url": "https://www.google.com/maps/search/Anchor%20Rock%20Vineyards%20Dartmouth%20MA",
+    "photo": "photos/9ae2b789ae86.jpg",
+    "website": "https://anchorrockvineyards.com"
   },
   "apponagansette park|dartmouth": {
     "maps_url": "https://www.google.com/maps/search/Apponagansett%20Beach%20Dartmouth%20MA",
@@ -634,6 +644,11 @@
     "photo": "photos/24a4479fd950.jpg",
     "website": "https://plymouth.mirbeau.com"
   },
+  "nantasket paint & hardware|": {
+    "maps_url": "https://www.google.com/maps/search/Nantasket%20Paint%20%26%20Hardware%20%20MA",
+    "photo": "photos/09bdb4574e5b.jpg",
+    "website": null
+  },
   "new bedford whaling museum|new bedford": {
     "maps_url": "https://www.google.com/maps/search/New%20Bedford%20Whaling%20Museum%20New%20Bedford%20MA",
     "photo": "photos/87c44aa75d11.jpg",
@@ -739,6 +754,11 @@
     "photo": "photos/b15a17a92814.jpg",
     "website": "https://seeplymouth.com"
   },
+  "plymouth winery|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Plymouth%20Bay%20Winery%20and%20Plymouth%20Bay%20Gourmet%20Plymouth%20MA",
+    "photo": "photos/70cfd5a9be77.png",
+    "website": "https://plymouthbaywinery.com"
+  },
   "ponderosa sportsman club|acushnet": {
     "maps_url": "https://www.google.com/maps/search/Ponderosa%20Sportsman%20Club%20Acushnet%20MA",
     "photo": "photos/a4c21bdb5e16.jpg",
@@ -753,6 +773,11 @@
     "maps_url": "https://www.google.com/maps/search/Pour%20Farm%20New%20Bedford%20MA",
     "photo": "photos/af26e4714eff.jpg",
     "website": "https://pourfarm.com"
+  },
+  "press juice bar|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Press%20Juice%20Bar%20Plymouth%20MA",
+    "photo": "photos/25ae08593ae1.jpg",
+    "website": "https://pressjuicebar.com"
   },
   "profile tavern|east freetown": {
     "maps_url": "https://www.google.com/maps/search/Profile%20Tavern%20East%20Freetown%20MA",

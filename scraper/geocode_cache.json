@@ -60,6 +60,12 @@
     "precision": "venue"
   },
   "abington ale house, none": null,
+  "abington alehouse, abington": {
+    "display_name": "1235, Bedford Street, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
+    "lat": 42.1382802,
+    "lon": -70.9502801,
+    "precision": "venue"
+  },
   "alba on 53, hanover": {
     "display_name": "Alba on 53, 2053, Washington Street, Hanover, Plymouth County, Massachusetts, 02061, United States",
     "lat": 42.1558124,
@@ -76,6 +82,12 @@
     "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
     "lat": 42.1704238,
     "lon": -71.0390483,
+    "precision": "venue"
+  },
+  "anchor rock vineyards, dartmouth": {
+    "display_name": "205, Bakerville Road, Wilburite Corner, Dartmouth, Bristol County, Massachusetts, 02748, United States",
+    "lat": 41.5768951,
+    "lon": -70.9771085,
     "precision": "venue"
   },
   "apponagansette park, dartmouth": {
@@ -711,6 +723,7 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "nantasket paint & hardware, none": null,
   "new bedford whaling museum, new bedford": {
     "display_name": "New Bedford Whaling Museum, 18, Johnny Cake Hill, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.635169,
@@ -832,6 +845,12 @@
     "lon": -70.6674441,
     "precision": "venue"
   },
+  "plymouth winery, plymouth": {
+    "display_name": "Plymouth Bay Winery, 106;108, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9594079,
+    "lon": -70.6662848,
+    "precision": "venue"
+  },
   "ponderosa sportsman club, acushnet": {
     "display_name": "242, Robinson Road, Long Plain, Acushnet, Bristol County, Massachusetts, 02743, United States",
     "lat": 41.7383916,
@@ -848,6 +867,12 @@
     "display_name": "780, Purchase Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.634998,
     "lon": -70.9258436,
+    "precision": "venue"
+  },
+  "press juice bar, plymouth": {
+    "display_name": "Soft as a Grape, 114, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9600112,
+    "lon": -70.6658512,
     "precision": "venue"
   },
   "profile tavern, east freetown": {
