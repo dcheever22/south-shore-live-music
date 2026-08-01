@@ -931,6 +931,12 @@
     "lon": -70.9263394,
     "precision": "venue"
   },
+  "red rose, weymouth": {
+    "display_name": "Red Rose Cafe, 800, Broad Street, Lincoln Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
+    "lat": 42.2161613,
+    "lon": -70.9263394,
+    "precision": "venue"
+  },
   "roht marine, marshfield": {
     "display_name": "Roht Marina, Main Street, Little Bridge, Marshfield, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.1609256,
@@ -1002,6 +1008,12 @@
     "display_name": "285;287, West Main Street, Avon, Norfolk County, Massachusetts, 02322, United States",
     "lat": 42.1294899,
     "lon": -71.0428827,
+    "precision": "venue"
+  },
+  "scituate beach association, scituate": {
+    "display_name": "Community Building, 88, Scituate Avenue, Sand Hills, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.2075713,
+    "lon": -70.7257794,
     "precision": "venue"
   },
   "scituate harbor, none": {

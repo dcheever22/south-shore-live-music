@@ -834,6 +834,11 @@
     "photo": "photos/9079fa5a38ab.jpg",
     "website": null
   },
+  "red rose|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Red%20Rose%20Weymouth%20MA",
+    "photo": "photos/d5f7ac40ddea.jpg",
+    "website": null
+  },
   "roht marine|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Roht%20Marine%20Marshfield%20MA",
     "photo": "photos/0fcc8b830385.jpg",
@@ -898,6 +903,11 @@
     "maps_url": "https://www.google.com/maps/search/Avon%20Middle-High%20School%20Avon%20MA",
     "photo": "photos/1236f9e6d371.jpg",
     "website": "https://avon.k12.ma.us"
+  },
+  "scituate beach association|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Scituate%20Beach%20Association%20Scituate%20MA",
+    "photo": "photos/97ac4528dba7.jpg",
+    "website": "https://scituate-beach-association.square.site"
   },
   "scituate harbor|": {
     "maps_url": "https://www.google.com/maps/search/Scituate%20Harbor%20%20MA",
