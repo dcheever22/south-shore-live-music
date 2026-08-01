@@ -899,6 +899,12 @@
     "lon": -70.9580382,
     "precision": "town"
   },
+  "quincy elks lodge, quincy": {
+    "display_name": "Quincy Lodge of Elks, 254, Quarry Street, North Commons, Quincy, Norfolk County, Massachusetts, 02269, United States",
+    "lat": 42.2473546,
+    "lon": -71.0219485,
+    "precision": "venue"
+  },
   "rags tavern, quincy": {
     "display_name": "375;379;381;385, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2488906,
