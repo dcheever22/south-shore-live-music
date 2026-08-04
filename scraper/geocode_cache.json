@@ -443,6 +443,12 @@
     "lon": -71.0488256,
     "precision": "venue"
   },
+  "gray\u2019s beach, kingston": {
+    "display_name": "Kingston",
+    "lat": 41.9945473,
+    "lon": -70.7244822,
+    "precision": "town"
+  },
   "green harbor lobster pound, marshfield": {
     "display_name": "131, Beach Street, Green Harbor, Marshfield, Plymouth County, Massachusetts, United States",
     "lat": 42.0790514,
