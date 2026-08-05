@@ -944,6 +944,11 @@
     "photo": "photos/c11decdc4061.jpg",
     "website": "https://vfw.org"
   },
+  "scottie\u2019s pub|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Scottie%E2%80%99s%20Pub%20Fall%20River%20MA",
+    "photo": "photos/e3a2a817a670.png",
+    "website": "https://scottiespubfr.com"
+  },
   "shipwreck\u2019d|hull": {
     "maps_url": "https://www.google.com/maps/search/Shipwreck%E2%80%99d%20Hull%20MA",
     "photo": "photos/37736a9758ae.png",
@@ -1263,6 +1268,11 @@
     "maps_url": "https://www.google.com/maps/search/Washington%20No7%20Norwood%20MA",
     "photo": "photos/78f95c5f1101.jpg",
     "website": "https://washingtonno7.com"
+  },
+  "weston park|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Weston%20Park%20Weymouth%20MA",
+    "photo": "photos/5a2d1a0d22e2.jpg",
+    "website": "https://weymouthrec.com"
   },
   "weymouth town hall|": {
     "maps_url": "https://www.google.com/maps/search/Weymouth%20Town%20Hall%20%20MA",

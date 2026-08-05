@@ -1053,6 +1053,12 @@
     "lon": -70.7771788,
     "precision": "venue"
   },
+  "scottie\u2019s pub, fall river": {
+    "display_name": "202, Pleasant Street, Fall River, Bristol County, Massachusetts, 02721, United States",
+    "lat": 41.6998781,
+    "lon": -71.151906,
+    "precision": "venue"
+  },
   "shipwreck\u2019d, hull": {
     "display_name": "Pemberton Point Ferry Terminal, 173, Main Street, Pemberton, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.3034576,
@@ -1435,6 +1441,12 @@
     "display_name": "Washington Heights, Norwood, Norfolk County, Massachusetts, United States",
     "lat": 42.2001076,
     "lon": -71.1935323,
+    "precision": "venue"
+  },
+  "weston park, weymouth": {
+    "display_name": "Weston Park, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, United States",
+    "lat": 42.2169437,
+    "lon": -70.9665896,
     "precision": "venue"
   },
   "weymouth town hall, none": {
