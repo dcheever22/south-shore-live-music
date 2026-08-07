@@ -17,6 +17,12 @@
     "lon": -70.9760563,
     "precision": "venue"
   },
+  "18+, levitate backyard, marshfield": {
+    "display_name": "1871, Ocean Street, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.0920183,
+    "lon": -70.7037781,
+    "precision": "venue"
+  },
   "21+ soundcheck studios, pembroke": {
     "display_name": "150, Corporate Park Drive, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.1012694,
@@ -377,6 +383,12 @@
     "lon": -70.8240694,
     "precision": "venue"
   },
+  "e. bridgewater commercial club, e. bridgewater": {
+    "display_name": "E Bridgewater Commercial Club, Neilsen Avenue, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
+    "lat": 42.0381479,
+    "lon": -70.9613346,
+    "precision": "venue"
+  },
   "e. bridgewater, none": {
     "display_name": "East Bridgewater, Plymouth County, Massachusetts, United States",
     "lat": 42.0332957,
@@ -496,6 +508,12 @@
     "display_name": "Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9622605,
     "lon": -70.6737881,
+    "precision": "venue"
+  },
+  "hingham maritime center, hingham": {
+    "display_name": "Summer Street, Nantasket Junction, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2429087,
+    "lon": -70.8671499,
     "precision": "venue"
   },
   "inn on shipyard park, mattapoisett": {
@@ -1003,6 +1021,18 @@
     "lon": -70.9068591,
     "precision": "venue"
   },
+  "sail loft, dartmouth": {
+    "display_name": "The Sail Loft, 246, Elm Street, South Dartmouth, Dartmouth, Bristol County, Massachusetts, 02748, United States",
+    "lat": 41.5863917,
+    "lon": -70.9435243,
+    "precision": "venue"
+  },
+  "salt marsh winery, scituate": {
+    "display_name": "Twice the Ice, 17, New Driftway, Greenbush, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.1772729,
+    "lon": -70.7482036,
+    "precision": "venue"
+  },
   "sandbar lounge, plymouth": {
     "display_name": "Plymouth",
     "lat": 41.9426657,
@@ -1461,6 +1491,7 @@
     "lon": -70.9391359,
     "precision": "venue"
   },
+  "whitman town park, none": null,
   "wollaston gardens, quincy": {
     "display_name": "Wollaston Gardens, Chapman Street, Wollaston Park, Wollaston, North Quincy, Quincy, Norfolk County, Massachusetts, 02170, United States",
     "lat": 42.2671928,

@@ -14,6 +14,11 @@
     "photo": "photos/018116908be0.jpg",
     "website": null
   },
+  "18+, levitate backyard|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/18%2B%2C%20Levitate%20Backyard%20Marshfield%20MA",
+    "photo": "photos/6efea64f6499.jpg",
+    "website": "https://levitatebackyard.com"
+  },
   "21+ soundcheck studios|pembroke": {
     "maps_url": "https://www.google.com/maps/search/21%2B%20SoundCheck%20Studios%20Pembroke%20MA",
     "photo": "photos/8fd3117558e4.jpg",
@@ -339,6 +344,11 @@
     "photo": "photos/905d6bb79f67.jpg",
     "website": "https://drsislandbrewing.com"
   },
+  "e. bridgewater commercial club|e. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/E.%20Bridgewater%20Commercial%20Club%20E.%20Bridgewater%20MA",
+    "photo": "photos/bb6fab93673c.jpg",
+    "website": "https://ebcc.club"
+  },
   "e. bridgewater|": {
     "maps_url": "https://www.google.com/maps/search/E.%20Bridgewater%20%20MA",
     "photo": "photos/605776e973a1.jpg",
@@ -443,6 +453,11 @@
     "maps_url": "https://www.google.com/maps/search/Himalaya%20Plymouth%20MA",
     "photo": "photos/71e63b0eb425.jpg",
     "website": "https://thehimalayaplymouth.com"
+  },
+  "hingham maritime center|hingham": {
+    "maps_url": "https://www.google.com/maps/search/Hingham%20Maritime%20Center%20Hingham%20MA",
+    "photo": "photos/db4fed591182.jpg",
+    "website": "https://hinghammaritime.org"
   },
   "inn on shipyard park|mattapoisett": {
     "maps_url": "https://www.google.com/maps/search/Inn%20on%20Shipyard%20Park%20Mattapoisett%20MA",
@@ -894,6 +909,16 @@
     "photo": "photos/37164827da33.jpg",
     "website": "https://sailhouse-tavern.com"
   },
+  "sail loft|dartmouth": {
+    "maps_url": "https://www.google.com/maps/search/Sail%20Loft%20Dartmouth%20MA",
+    "photo": "photos/19f5242bf510.jpg",
+    "website": "https://thesailloftdartmouth.com"
+  },
+  "salt marsh winery|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Salt%20Marsh%20Winery%20Scituate%20MA",
+    "photo": "photos/4ef64fc35bee.jpg",
+    "website": "https://thesaltmarshwinery.com"
+  },
   "sandbar lounge|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Sandbar%20Lounge%20Plymouth%20MA",
     "photo": "photos/2e0ddc5ff808.jpg",
@@ -1283,6 +1308,11 @@
     "maps_url": "https://www.google.com/maps/search/Weymouth%20Town%20Hall%20Weymouth%20MA",
     "photo": "photos/49100e92e99e.jpg",
     "website": "https://weymouth.ma.us"
+  },
+  "whitman town park|": {
+    "maps_url": "https://www.google.com/maps/search/Whitman%20Town%20Park%20%20MA",
+    "photo": "photos/23fe343a4a73.jpg",
+    "website": "https://whitman-ma.gov"
   },
   "wollaston gardens|quincy": {
     "maps_url": "https://www.google.com/maps/search/Wollaston%20Gardens%20Quincy%20MA",
