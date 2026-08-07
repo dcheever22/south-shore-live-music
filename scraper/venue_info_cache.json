@@ -89,6 +89,11 @@
     "photo": "photos/c6473ce76f8d.jpg",
     "website": "https://town.dartmouth.ma.us"
   },
+  "artisan pig|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Artisan%20Pig%20Plymouth%20MA",
+    "photo": "photos/48f06c122cd9.jpg",
+    "website": "https://artisanpig.com"
+  },
   "atlantic caf\u00e9|taunton": {
     "maps_url": "https://www.google.com/maps/search/Atlantic%20Caf%C3%A9%20Taunton%20MA",
     "photo": "photos/68b6a642dc4e.jpg",
@@ -389,6 +394,11 @@
     "photo": "photos/510bb0435cbf.jpg",
     "website": "https://glencoveonsetbeach.com"
   },
+  "goat city pub|norton": {
+    "maps_url": "https://www.google.com/maps/search/Goat%20City%20Pub%20Norton%20MA",
+    "photo": "photos/9b1e95b90655.jpg",
+    "website": "https://goatcitypub.com"
+  },
   "goat city pub|w. bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Goat%20City%20Pub%20W.%20Bridgewater%20MA",
     "photo": "photos/262ed1f430f0.jpg",
@@ -594,6 +604,11 @@
     "photo": "photos/5222185a2ccd.jpg",
     "website": "https://marshfieldfair.org"
   },
+  "marshfield fairgrounds|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Marshfield%20Fairgrounds%20Marshfield%20MA",
+    "photo": "photos/883c419f81c2.jpg",
+    "website": "https://marshfieldfair.org"
+  },
   "marshfield town green|": {
     "maps_url": "https://www.google.com/maps/search/Marshfield%20Town%20Green%20%20MA",
     "photo": "photos/626f0e97128b.jpg",
@@ -768,6 +783,11 @@
     "maps_url": "https://www.google.com/maps/search/Players%20Rockland%20MA",
     "photo": "photos/fd6bbd60e563.jpg",
     "website": "https://southshoresportsbar.com"
+  },
+  "plymouth center for the arts|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Plymouth%20Center%20for%20the%20Arts%20Plymouth%20MA",
+    "photo": "photos/457e6badf3a5.jpg",
+    "website": "https://artsplymouth.org"
   },
   "plymouth library|": {
     "maps_url": "https://www.google.com/maps/search/Plymouth%20Library%20%20MA",

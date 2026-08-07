@@ -102,6 +102,12 @@
     "lon": -70.9557004,
     "precision": "venue"
   },
+  "artisan pig, plymouth": {
+    "display_name": "66, Court Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.958676,
+    "lon": -70.6682754,
+    "precision": "venue"
+  },
   "atlantic caf\u00e9, taunton": {
     "display_name": "10, Plain Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
     "lat": 41.8856462,
@@ -437,6 +443,12 @@
     "lon": -70.6551253,
     "precision": "venue"
   },
+  "goat city pub, norton": {
+    "display_name": "184A, West Main Street, Norton, Bristol County, Massachusetts, 02766, United States",
+    "lat": 41.9574067,
+    "lon": -71.2073058,
+    "precision": "venue"
+  },
   "goat city pub, w. bridgewater": {
     "display_name": "115, South Main Street, Bennetts Corner, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0161725,
@@ -667,6 +679,12 @@
     "lon": -70.6525928,
     "precision": "venue"
   },
+  "marshfield fairgrounds, marshfield": {
+    "display_name": "140, Main Street, Marshfield Center, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.0993286,
+    "lon": -70.7180393,
+    "precision": "venue"
+  },
   "marshfield fairgrounds, none": null,
   "marshfield town green, marshfield": {
     "display_name": "Marshfield Boat Launch Facility, Town Pier Road, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, United States",
@@ -866,6 +884,12 @@
     "display_name": "86, Veterans of Foreign Wars Drive, Hatherly, Rockland, Plymouth County, Massachusetts, 02370, United States",
     "lat": 42.1472079,
     "lon": -70.9185821,
+    "precision": "venue"
+  },
+  "plymouth center for the arts, plymouth": {
+    "display_name": "Plymouth Center for the Arts, 11, North Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9573383,
+    "lon": -70.6641278,
     "precision": "venue"
   },
   "plymouth library, none": {
