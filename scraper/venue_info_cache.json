@@ -239,6 +239,11 @@
     "photo": "photos/ec9cbe39c847.jpg",
     "website": "https://bournema.myrec.com"
   },
+  "c note|hull": {
+    "maps_url": "https://www.google.com/maps/search/C%20Note%20Hull%20MA",
+    "photo": "photos/8a293cfc0ba2.jpg",
+    "website": "https://cnotehull.com"
+  },
   "cabby shack|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Cabby%20Shack%20Plymouth%20MA",
     "photo": "photos/1f9a71e9aae0.jpg",
@@ -287,6 +292,11 @@
   "cork wine & tapas|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Cork%20Wine%20%26%20Tapas%20New%20Bedford%20MA",
     "photo": "photos/7b2d3d7076a5.jpg",
+    "website": "https://corkwineandtapas.com"
+  },
+  "cork|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Cork%20New%20Bedford%20MA",
+    "photo": "photos/9e24ec73719f.jpg",
     "website": "https://corkwineandtapas.com"
   },
   "cornerstones|carver": {
@@ -1313,6 +1323,11 @@
     "maps_url": "https://www.google.com/maps/search/Washington%20No7%20Norwood%20MA",
     "photo": "photos/78f95c5f1101.jpg",
     "website": "https://washingtonno7.com"
+  },
+  "westgate lanes|brockton": {
+    "maps_url": "https://www.google.com/maps/search/Westgate%20Lanes%20Brockton%20MA",
+    "photo": "photos/3d5566edd442.jpg",
+    "website": "https://westgatelanes.us"
   },
   "weston park|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Weston%20Park%20Weymouth%20MA",

@@ -262,6 +262,12 @@
     "precision": "venue"
   },
   "buzzards bay gazebo, none": null,
+  "c note, hull": {
+    "display_name": "C Note Music Club, 159, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2678215,
+    "lon": -70.8526223,
+    "precision": "venue"
+  },
   "cabby shack, plymouth": {
     "display_name": "Cabbyshack, 30, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9622449,
@@ -312,6 +318,12 @@
     "precision": "venue"
   },
   "cork wine & tapas, new bedford": {
+    "display_name": "Cork Wine and Tapas, 90, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.6349037,
+    "lon": -70.9219229,
+    "precision": "venue"
+  },
+  "cork, new bedford": {
     "display_name": "Cork Wine and Tapas, 90, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.6349037,
     "lon": -70.9219229,
@@ -1495,6 +1507,12 @@
     "display_name": "Washington Heights, Norwood, Norfolk County, Massachusetts, United States",
     "lat": 42.2001076,
     "lon": -71.1935323,
+    "precision": "venue"
+  },
+  "westgate lanes, brockton": {
+    "display_name": "Westgate Lanes, 65, Westgate Drive, Westgate Mall, Brockton, Plymouth County, Massachusetts, 02301, United States",
+    "lat": 42.0903559,
+    "lon": -71.0476787,
     "precision": "venue"
   },
   "weston park, weymouth": {
