@@ -199,6 +199,12 @@
     "lon": -70.5901058,
     "precision": "venue"
   },
+  "braintree town hall, braintree": {
+    "display_name": "Braintree Town Hall, 1, John F. Kennedy Memorial Drive, South Braintree, Braintree, Norfolk County, Massachusetts, 02184, United States",
+    "lat": 42.2060286,
+    "lon": -71.0053585,
+    "precision": "venue"
+  },
   "break rock brewing, quincy": {
     "display_name": "Break Rock Brewing, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
     "lat": 42.2995468,
@@ -206,6 +212,12 @@
     "precision": "venue"
   },
   "brew fish bar, marion": {
+    "display_name": "Brew Fish Bar & Eatery, 208, Spring Street, Marion, Plymouth County, Massachusetts, 02738, United States",
+    "lat": 41.7170084,
+    "lon": -70.7724499,
+    "precision": "venue"
+  },
+  "brew fish, marion": {
     "display_name": "Brew Fish Bar & Eatery, 208, Spring Street, Marion, Plymouth County, Massachusetts, 02738, United States",
     "lat": 41.7170084,
     "lon": -70.7724499,
@@ -892,6 +904,12 @@
     "lon": -70.6629329,
     "precision": "venue"
   },
+  "pinehills, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "players, rockland": {
     "display_name": "86, Veterans of Foreign Wars Drive, Hatherly, Rockland, Plymouth County, Massachusetts, 02370, United States",
     "lat": 42.1472079,
@@ -1111,6 +1129,12 @@
     "lat": 42.202899,
     "lon": -70.7243059,
     "precision": "venue"
+  },
+  "scituate heritage days, scituate": {
+    "display_name": "Scituate",
+    "lat": 42.1924492,
+    "lon": -70.7261966,
+    "precision": "town"
   },
   "scituate vfw, none": null,
   "scituate vfw, scituate": {
