@@ -109,6 +109,11 @@
     "photo": null,
     "website": "https://townofmilton.org"
   },
+  "barrett's waterfront|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Waterfront%20Fall%20River%20MA",
+    "photo": "photos/2cead89d7baf.jpg",
+    "website": "https://barrettsalehouse.com"
+  },
   "barrett\u2019s alehouse|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20Bridgewater%20MA",
     "photo": null,
@@ -224,6 +229,11 @@
     "photo": "photos/fc5c6c5ce6f9.jpg",
     "website": "https://bridgewatermusicalley.com"
   },
+  "bridgewater triangle pub|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Bridgewater%20Triangle%20Pub%20Bridgewater%20MA",
+    "photo": "photos/c6c80ed7c9e2.jpg",
+    "website": "https://bridgewatertrianglepub.com"
+  },
   "bridgewater triangle|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Bridgewater%20Triangle%20Bridgewater%20MA",
     "photo": "photos/84f2f52e62b0.jpg",
@@ -268,6 +278,11 @@
     "maps_url": "https://www.google.com/maps/search/Captain%E2%80%99s%20Hideaway%20Cohasset%20MA",
     "photo": "photos/bef54bce04e9.jpg",
     "website": "https://captainshideaway.com"
+  },
+  "chantey|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Chantey%20Quincy%20MA",
+    "photo": "photos/c6d747648578.jpg",
+    "website": "https://thechanteyatmarinabay.com"
   },
   "cisco brewers|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Cisco%20Kitchen%20%26%20Bar%20New%20Bedford%20MA",

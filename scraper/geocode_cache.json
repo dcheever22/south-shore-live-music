@@ -121,6 +121,12 @@
     "precision": "venue"
   },
   "baron hugo gazebo at milton town hall, none": null,
+  "barrett's waterfront, fall river": {
+    "display_name": "Barrett's Waterfront, 1082, Davol Street, Fall River Station, Fall River, Bristol County, Massachusetts, 02722, United States",
+    "lat": 41.718393,
+    "lon": -71.1556965,
+    "precision": "venue"
+  },
   "barrett\u2019s alehouse, bridgewater": {
     "display_name": "Barrett\u2019s Alehouse - West Bridgewater, 674, West Center Street, Cochesett, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0113304,
@@ -249,6 +255,12 @@
     "precision": "venue"
   },
   "bridgewater music alley, none": null,
+  "bridgewater triangle pub, bridgewater": {
+    "display_name": "14, Summer Street, Bridgewater, Plymouth County, Massachusetts, 02325, United States",
+    "lat": 41.9897997,
+    "lon": -70.9740958,
+    "precision": "venue"
+  },
   "bridgewater triangle, bridgewater": {
     "display_name": "14, Summer Street, Bridgewater, Plymouth County, Massachusetts, 02325, United States",
     "lat": 41.9897997,
@@ -297,6 +309,12 @@
     "lat": 42.2410158,
     "lon": -70.8035571,
     "precision": "town"
+  },
+  "chantey, quincy": {
+    "display_name": "333, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
+    "lat": 42.2995509,
+    "lon": -71.0280111,
+    "precision": "venue"
   },
   "cisco brewers, new bedford": {
     "display_name": "Cisco Brewers Kitchen & Bar, 1482, East Rodney French Boulevard, New Bedford, Bristol County, Massachusetts, 02744, United States",
