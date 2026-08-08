@@ -96,6 +96,12 @@
     "lon": -70.9771085,
     "precision": "venue"
   },
+  "anna\u2019s harborside, plymouth": {
+    "display_name": "Anna's Harborside Grille, 145, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9617628,
+    "lon": -70.6677276,
+    "precision": "venue"
+  },
   "apponagansette park, dartmouth": {
     "display_name": "77, Gulf Road, South Dartmouth, Dartmouth, Bristol County, Massachusetts, 02748, United States",
     "lat": 41.5846597,
@@ -459,6 +465,12 @@
     "display_name": "East Bay Grill, 173, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9632411,
     "lon": -70.6683647,
+    "precision": "venue"
+  },
+  "emma\u2019s, bridgewater": {
+    "display_name": "1420, Pleasant Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
+    "lat": 41.9675731,
+    "lon": -71.0234259,
     "precision": "venue"
   },
   "evviva trattoria, hanover": {
@@ -839,6 +851,12 @@
     "precision": "town"
   },
   "nantasket paint & hardware, none": null,
+  "nasketucket bay vineyards, fairhaven": {
+    "display_name": "Fairhaven",
+    "lat": 41.6376043,
+    "lon": -70.9036487,
+    "precision": "town"
+  },
   "new bedford whaling museum, new bedford": {
     "display_name": "New Bedford Whaling Museum, 18, Johnny Cake Hill, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.635169,

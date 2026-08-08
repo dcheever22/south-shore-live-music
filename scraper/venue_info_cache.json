@@ -84,6 +84,11 @@
     "photo": "photos/9ae2b789ae86.jpg",
     "website": "https://anchorrockvineyards.com"
   },
+  "anna\u2019s harborside|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Anna%E2%80%99s%20Harborside%20Plymouth%20MA",
+    "photo": "photos/e2ca65c310d1.jpg",
+    "website": "https://annasharborsidegrille.com"
+  },
   "apponagansette park|dartmouth": {
     "maps_url": "https://www.google.com/maps/search/Apponagansett%20Beach%20Dartmouth%20MA",
     "photo": "photos/c6473ce76f8d.jpg",
@@ -408,6 +413,11 @@
     "maps_url": "https://www.google.com/maps/search/East%20Bay%20Grill%20Plymouth%20MA",
     "photo": "photos/6e88b5d99774.jpg",
     "website": "https://eastbaygrille.com"
+  },
+  "emma\u2019s|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Emma%E2%80%99s%20Bridgewater%20MA",
+    "photo": "photos/69a61ef4137e.jpg",
+    "website": "https://emmaspubandpizza.com"
   },
   "evviva trattoria|hanover": {
     "maps_url": "https://www.google.com/maps/search/Evviva%20Trattoria%20Hanover%20MA",
@@ -743,6 +753,11 @@
     "maps_url": "https://www.google.com/maps/search/Nantasket%20Paint%20%26%20Hardware%20%20MA",
     "photo": "photos/09bdb4574e5b.jpg",
     "website": null
+  },
+  "nasketucket bay vineyards|fairhaven": {
+    "maps_url": "https://www.google.com/maps/search/Nasketucket%20Bay%20Vineyards%20Fairhaven%20MA",
+    "photo": "photos/bee807f54a5c.jpg",
+    "website": "https://peacelovevino.net"
   },
   "new bedford whaling museum|new bedford": {
     "maps_url": "https://www.google.com/maps/search/New%20Bedford%20Whaling%20Museum%20New%20Bedford%20MA",
