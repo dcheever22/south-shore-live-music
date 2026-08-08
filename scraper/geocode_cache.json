@@ -205,6 +205,12 @@
     "lon": -70.5901058,
     "precision": "venue"
   },
+  "braintree moose lodge, braintree": {
+    "display_name": "Howard Street, East Braintree, Braintree, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2311934,
+    "lon": -70.9813191,
+    "precision": "venue"
+  },
   "braintree town hall, braintree": {
     "display_name": "Braintree Town Hall, 1, John F. Kennedy Memorial Drive, South Braintree, Braintree, Norfolk County, Massachusetts, 02184, United States",
     "lat": 42.2060286,
@@ -271,6 +277,12 @@
     "display_name": "British Beer Company, 6, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9567382,
     "lon": -70.6641849,
+    "precision": "venue"
+  },
+  "brook kitchen & tap, holbrook": {
+    "display_name": "200, South Franklin Street, Holbrook Grove, Holbrook, Norfolk County, Massachusetts, 02343, United States",
+    "lat": 42.1491685,
+    "lon": -71.0090051,
     "precision": "venue"
   },
   "buzzards bay brewing, westport": {
@@ -461,6 +473,12 @@
     "lon": -70.9655487,
     "precision": "venue"
   },
+  "g pub, plymouth": {
+    "display_name": "Plymouth G Pub, 101A, Carver Road, Plymouth Mobile Estates, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9434075,
+    "lon": -70.7112177,
+    "precision": "venue"
+  },
   "gellar\u2019s snackbar, plymouth": {
     "display_name": "Plymouth",
     "lat": 41.9426657,
@@ -577,6 +595,7 @@
     "precision": "venue"
   },
   "j&g hillside grill": null,
+  "j&g hillside grill, none": null,
   "j&g hillside grill, stoughton": {
     "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
     "lat": 42.1061845,
@@ -1019,6 +1038,12 @@
     "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
     "lat": 42.1704238,
     "lon": -71.0390483,
+    "precision": "venue"
+  },
+  "raynham american legion post, raynham": {
+    "display_name": "291, Mill Street, Tracy Corner, Raynham Center, Raynham, Bristol County, Massachusetts, 02767, United States",
+    "lat": 41.9351283,
+    "lon": -71.0615464,
     "precision": "venue"
   },
   "red hand brewing, lakeville": {

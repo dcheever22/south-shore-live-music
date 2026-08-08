@@ -179,6 +179,11 @@
     "photo": "photos/b33c40b599a2.jpg",
     "website": "https://bournescenicpark.com"
   },
+  "braintree moose lodge|braintree": {
+    "maps_url": "https://www.google.com/maps/search/Braintree%20Moose%20Lodge%20Braintree%20MA",
+    "photo": "photos/651ac7a91314.jpg",
+    "website": null
+  },
   "braintree town hall|braintree": {
     "maps_url": "https://www.google.com/maps/search/Braintree%20Town%20Hall%20Braintree%20MA",
     "photo": "photos/77e0eea0696b.jpg",
@@ -243,6 +248,11 @@
     "maps_url": "https://www.google.com/maps/search/British%20Beer%20Plymouth%20MA",
     "photo": "photos/461f4964cea4.jpg",
     "website": null
+  },
+  "brook kitchen & tap|holbrook": {
+    "maps_url": "https://www.google.com/maps/search/Brook%20Kitchen%20%26%20Tap%20Holbrook%20MA",
+    "photo": "photos/9e7b9ef26bff.jpg",
+    "website": "https://brookkitchenandtap.com"
   },
   "buzzards bay brewing|westport": {
     "maps_url": "https://www.google.com/maps/search/Buzzards%20Bay%20Brewing%20Westport%20MA",
@@ -408,6 +418,11 @@
     "maps_url": "https://www.google.com/maps/search/Fuel%20America%20Weymouth%20MA",
     "photo": "photos/054dc35f2ef4.jpg",
     "website": "https://fuelamericaweymouth.com"
+  },
+  "g pub|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/G%20Pub%20Plymouth%20MA",
+    "photo": "photos/0ed95edeac9e.jpg",
+    "website": "https://gpubrestaurants.com"
   },
   "gellar\u2019s snackbar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Gellar%E2%80%99s%20Snackbar%20Plymouth%20MA",
@@ -908,6 +923,11 @@
     "maps_url": "https://www.google.com/maps/search/Randolph%20AMVETS%20Randolph%20MA",
     "photo": "photos/965bb73913af.jpg",
     "website": "https://randolphamvetspost51.org"
+  },
+  "raynham american legion post|raynham": {
+    "maps_url": "https://www.google.com/maps/search/Raynham%20American%20Legion%20Post%20Raynham%20MA",
+    "photo": "photos/3945f051e38e.jpg",
+    "website": "https://alpost405.org"
   },
   "red hand brewing|lakeville": {
     "maps_url": "https://www.google.com/maps/search/Red%20Hand%20Brewing%20Lakeville%20MA",
