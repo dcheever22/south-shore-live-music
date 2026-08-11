@@ -619,6 +619,11 @@
     "photo": "photos/a7455328eff8.jpg",
     "website": "https://livcreativecuisine.com"
   },
+  "local 02045|hull": {
+    "maps_url": "https://www.google.com/maps/search/Local%2002045%20Hull%20MA",
+    "photo": "photos/a3bfb3cbf573.jpg",
+    "website": "https://local02045.com"
+  },
   "lorenzo\u2019s|middleboro": {
     "maps_url": "https://www.google.com/maps/search/Lorenzo%E2%80%99s%20Middleboro%20MA",
     "photo": "photos/8274f1deaf42.jpg",
@@ -1378,6 +1383,11 @@
     "maps_url": "https://www.google.com/maps/search/Untold%20Brewing%20Scituate%20MA",
     "photo": "photos/b2c1423290c2.jpg",
     "website": "https://untoldbrewing.com"
+  },
+  "ventress libray|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Ventress%20Libray%20Marshfield%20MA",
+    "photo": "photos/577433b18174.jpg",
+    "website": "https://ventresslibrary.org"
   },
   "voyage|humarock": {
     "maps_url": "https://www.google.com/maps/search/Voyage%20Humarock%20MA",
