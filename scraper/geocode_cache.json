@@ -127,6 +127,12 @@
     "precision": "venue"
   },
   "baron hugo gazebo at milton town hall, none": null,
+  "baron hugo gazebo, milton town hall": {
+    "display_name": "Milton Town Hall, 525, Canton Avenue, Milton Center, Milton, Norfolk County, Massachusetts, 02186, United States",
+    "lat": 42.25411,
+    "lon": -71.079731,
+    "precision": "venue"
+  },
   "barrett's waterfront, fall river": {
     "display_name": "Barrett's Waterfront, 1082, Davol Street, Fall River Station, Fall River, Bristol County, Massachusetts, 02722, United States",
     "lat": 41.718393,
