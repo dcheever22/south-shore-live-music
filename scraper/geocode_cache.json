@@ -1007,6 +1007,12 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "plymouth public library, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "plymouth waterfront, none": null,
   "plymouth waterfront, plymouth": {
     "display_name": "130, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
