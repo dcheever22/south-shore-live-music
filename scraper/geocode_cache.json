@@ -163,6 +163,12 @@
     "lon": -70.9753809,
     "precision": "venue"
   },
+  "bay pointe, quincy": {
+    "display_name": "Bay Pointe Marina, Cherry Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2498106,
+    "lon": -70.9752447,
+    "precision": "venue"
+  },
   "bayside lounge, fairhaven": {
     "display_name": "125, Sconticut Neck Road, Pope Beach, Fairhaven, Bristol County, Massachusetts, 02719, United States",
     "lat": 41.6334892,
@@ -206,6 +212,12 @@
     "precision": "town"
   },
   "boathouse bistro, hull": {
+    "display_name": "Nantasket Beach Resort, 45, Hull Shore Drive, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2747567,
+    "lon": -70.8616737,
+    "precision": "venue"
+  },
+  "boathouse bistro, nantasket beach": {
     "display_name": "Nantasket Beach Resort, 45, Hull Shore Drive, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2747567,
     "lon": -70.8616737,

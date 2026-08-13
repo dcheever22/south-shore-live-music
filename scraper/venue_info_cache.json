@@ -144,6 +144,11 @@
     "photo": "photos/3ab2698817ea.jpg",
     "website": "https://baypointewaterfrontrestaurant.com"
   },
+  "bay pointe|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Bay%20Pointe%20Quincy%20MA",
+    "photo": "photos/4f54b75964bf.jpg",
+    "website": "https://baypointewaterfrontrestaurant.com"
+  },
   "bayside lounge|fairhaven": {
     "maps_url": "https://www.google.com/maps/search/Bayside%20Lounge%20Fairhaven%20MA",
     "photo": "photos/628d112aef00.jpg",
@@ -182,6 +187,11 @@
   "boathouse bistro|hull": {
     "maps_url": "https://www.google.com/maps/search/Boathouse%20Bistro%20Hull%20MA",
     "photo": "photos/439e645d829c.jpg",
+    "website": "https://boathousebistrobeachfront.com"
+  },
+  "boathouse bistro|nantasket beach": {
+    "maps_url": "https://www.google.com/maps/search/Boathouse%20Bistro%20Nantasket%20Beach%20MA",
+    "photo": "photos/694bc4cf89e6.jpg",
     "website": "https://boathousebistrobeachfront.com"
   },
   "bourne scenic park|": {
