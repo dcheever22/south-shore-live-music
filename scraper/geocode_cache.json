@@ -618,6 +618,12 @@
     "lon": -70.8671499,
     "precision": "venue"
   },
+  "in front of jazzwall, new bedford": {
+    "display_name": "New Bedford",
+    "lat": 41.6362152,
+    "lon": -70.934205,
+    "precision": "town"
+  },
   "inn on shipyard park, mattapoisett": {
     "display_name": "The Inn on Shipyard Park, 13, Water Street, Mattapoisett, Plymouth County, Massachusetts, 02739, United States",
     "lat": 41.6582958,
