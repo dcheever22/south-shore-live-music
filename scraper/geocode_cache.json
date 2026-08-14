@@ -187,6 +187,12 @@
     "lon": -71.0820209,
     "precision": "venue"
   },
+  "berkley beer, carver": {
+    "display_name": "Carver",
+    "lat": 41.8894422,
+    "lon": -70.7693304,
+    "precision": "town"
+  },
   "berkley beer, taunton": {
     "display_name": "10, Ingell Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
     "lat": 41.8952239,
