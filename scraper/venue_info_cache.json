@@ -304,6 +304,11 @@
     "photo": "photos/1f9a71e9aae0.jpg",
     "website": "https://cabbyshack.com"
   },
+  "california underground|hull": {
+    "maps_url": "https://www.google.com/maps/search/California%20Underground%20Hull%20MA",
+    "photo": "photos/0cbd384754cd.jpg",
+    "website": null
+  },
   "canned heat|fall river": {
     "maps_url": "https://www.google.com/maps/search/Canned%20Heat%20Fall%20River%20MA",
     "photo": "photos/c21b38d800a5.jpg",
@@ -779,6 +784,11 @@
     "photo": "photos/24a4479fd950.jpg",
     "website": "https://plymouth.mirbeau.com"
   },
+  "nantasket beach|hull": {
+    "maps_url": "https://www.google.com/maps/search/Nantasket%20Beach%20Hull%20MA",
+    "photo": "photos/a483f6910dcf.jpg",
+    "website": null
+  },
   "nantasket paint & hardware|": {
     "maps_url": "https://www.google.com/maps/search/Nantasket%20Paint%20%26%20Hardware%20%20MA",
     "photo": "photos/09bdb4574e5b.jpg",
@@ -1118,6 +1128,11 @@
     "maps_url": "https://www.google.com/maps/search/Scottie%E2%80%99s%20Pub%20Fall%20River%20MA",
     "photo": "photos/e3a2a817a670.png",
     "website": "https://scottiespubfr.com"
+  },
+  "seaport waterfront bar|fairhaven": {
+    "maps_url": "https://www.google.com/maps/search/Seaport%20Waterfront%20Bar%20Fairhaven%20MA",
+    "photo": "photos/5ff398ffdb05.jpg",
+    "website": "https://seaportwaterfrontbar.com"
   },
   "shipwreck\u2019d|hull": {
     "maps_url": "https://www.google.com/maps/search/Shipwreck%E2%80%99d%20Hull%20MA",

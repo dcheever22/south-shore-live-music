@@ -340,6 +340,12 @@
     "lon": -70.6673634,
     "precision": "venue"
   },
+  "california underground, hull": {
+    "display_name": "257, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2730193,
+    "lon": -70.8600427,
+    "precision": "venue"
+  },
   "canned heat, fall river": {
     "display_name": "52, Ferry Street, Fall River, Bristol County, Massachusetts, 02724, United States",
     "lat": 41.7015252,
@@ -886,6 +892,12 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "nantasket beach, hull": {
+    "display_name": "Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2777675,
+    "lon": -70.8662309,
+    "precision": "venue"
+  },
   "nantasket paint & hardware, none": null,
   "nasketucket bay vineyards, fairhaven": {
     "display_name": "Fairhaven",
@@ -1262,6 +1274,12 @@
     "display_name": "202, Pleasant Street, Fall River, Bristol County, Massachusetts, 02721, United States",
     "lat": 41.6998781,
     "lon": -71.151906,
+    "precision": "venue"
+  },
+  "seaport waterfront bar, fairhaven": {
+    "display_name": "110, Middle Street, Fairhaven, Bristol County, Massachusetts, 02719, United States",
+    "lat": 41.6413977,
+    "lon": -70.9078534,
     "precision": "venue"
   },
   "shipwreck\u2019d, hull": {
