@@ -1136,6 +1136,12 @@
     "lon": -70.9263394,
     "precision": "venue"
   },
+  "redbrook, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "roht marine, marshfield": {
     "display_name": "Roht Marina, Main Street, Little Bridge, Marshfield, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.1609256,

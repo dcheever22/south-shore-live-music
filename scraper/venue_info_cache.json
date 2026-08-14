@@ -1004,6 +1004,11 @@
     "photo": "photos/d5f7ac40ddea.jpg",
     "website": null
   },
+  "redbrook|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Redbrook%20Plymouth%20MA",
+    "photo": "photos/4b357fe9307e.jpg",
+    "website": "https://redbrookplymouth.com"
+  },
   "roht marine|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Roht%20Marine%20Marshfield%20MA",
     "photo": "photos/0fcc8b830385.jpg",
