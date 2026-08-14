@@ -509,6 +509,12 @@
     "lon": -70.841589,
     "precision": "venue"
   },
+  "fall river amvets, fall river": {
+    "display_name": "Amvets Highway, Steep Brook, Fall River, Bristol County, Massachusetts, 02720, United States",
+    "lat": 41.7532978,
+    "lon": -71.1182828,
+    "precision": "venue"
+  },
   "fuel america, weymouth": {
     "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2174129,
@@ -990,6 +996,12 @@
     "precision": "town"
   },
   "pete's grill, quincy": {
+    "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2435805,
+    "lon": -70.9760563,
+    "precision": "venue"
+  },
+  "pete\u2019s grille, quincy": {
     "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2435805,
     "lon": -70.9760563,

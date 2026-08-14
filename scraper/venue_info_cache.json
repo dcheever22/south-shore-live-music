@@ -449,6 +449,11 @@
     "photo": "photos/e120dbed20a8.jpg",
     "website": "https://evvivatrattoria.com"
   },
+  "fall river amvets|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
+    "photo": "photos/fe49740dbde6.jpg",
+    "website": "https://amvets.org"
+  },
   "fuel america|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Fuel%20America%20Weymouth%20MA",
     "photo": "photos/054dc35f2ef4.jpg",
@@ -872,6 +877,11 @@
   "pete's grill|quincy": {
     "maps_url": "https://www.google.com/maps/search/Pete%27s%20Grill%20Quincy%20MA",
     "photo": "photos/490aff05e82a.jpg",
+    "website": null
+  },
+  "pete\u2019s grille|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Pete%E2%80%99s%20Grille%20Quincy%20MA",
+    "photo": "photos/2ceb96d1e91f.jpg",
     "website": null
   },
   "pier 52|fall river": {
