@@ -971,6 +971,12 @@
     "lon": -71.0092847,
     "precision": "venue"
   },
+  "onset bandshell, onset": {
+    "display_name": "Onset",
+    "lat": 41.7420319,
+    "lon": -70.6596568,
+    "precision": "town"
+  },
   "onset vfw, onset": {
     "display_name": "4, Gibbs Ball Park Road, Onset Station, Wareham, Plymouth County, Massachusetts, 02538, United States",
     "lat": 41.7515473,
