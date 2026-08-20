@@ -329,6 +329,11 @@
     "photo": "photos/3ef161b24e7a.jpg",
     "website": "https://ciscokitchenbar.com"
   },
+  "cohasset commons|cohasset": {
+    "maps_url": "https://www.google.com/maps/search/Cohasset%20Commons%20Cohasset%20MA",
+    "photo": "photos/c15897ff73f5.jpg",
+    "website": null
+  },
   "cohasset farmers market|": {
     "maps_url": "https://www.google.com/maps/search/Cohasset%20Farmers%20Market%20%20MA",
     "photo": null,
@@ -423,6 +428,11 @@
     "maps_url": "https://www.google.com/maps/search/Doctor%27s%20Island%20Hull%20MA",
     "photo": "photos/905d6bb79f67.jpg",
     "website": "https://drsislandbrewing.com"
+  },
+  "duxbury art complex museum|": {
+    "maps_url": "https://www.google.com/maps/search/Duxbury%20Art%20Complex%20Museum%20%20MA",
+    "photo": "photos/a959c2bd42d3.jpg",
+    "website": "https://artcomplex.org"
   },
   "e. bridgewater commercial club|e. bridgewater": {
     "maps_url": "https://www.google.com/maps/search/E.%20Bridgewater%20Commercial%20Club%20E.%20Bridgewater%20MA",
@@ -663,6 +673,11 @@
     "maps_url": "https://www.google.com/maps/search/Lorenzo%E2%80%99s%20Middleboro%20MA",
     "photo": "photos/8274f1deaf42.jpg",
     "website": "https://lorenzos.net"
+  },
+  "lucca|hingham": {
+    "maps_url": "https://www.google.com/maps/search/Lucca%20Hingham%20MA",
+    "photo": "photos/745c25772443.jpg",
+    "website": "https://luccasouthshore.com"
   },
   "luci\u2019s pizza|abington": {
     "maps_url": "https://www.google.com/maps/search/Luci%E2%80%99s%20Pizza%20Abington%20MA",
@@ -1283,6 +1298,11 @@
     "maps_url": "https://www.google.com/maps/search/Stoneforge%20Tavern%20Raynham%20MA",
     "photo": "photos/55c7854803db.jpg",
     "website": "https://stoneforgerestaurants.com"
+  },
+  "stoughton lions club|": {
+    "maps_url": "https://www.google.com/maps/search/Raynham%20Lions%20Club%20%20MA",
+    "photo": "photos/d9eb1497758a.jpg",
+    "website": null
   },
   "surfside smokehouse|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Surfside%20Smokehouse%20Plymouth%20MA",

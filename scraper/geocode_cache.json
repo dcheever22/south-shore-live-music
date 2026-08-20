@@ -370,6 +370,12 @@
     "lon": -70.9055543,
     "precision": "venue"
   },
+  "cohasset commons, cohasset": {
+    "display_name": "Cohasset",
+    "lat": 42.2410158,
+    "lon": -70.8035571,
+    "precision": "town"
+  },
   "cohasset farmers market, cohasset": {
     "display_name": "Cohasset Town Hall, 41, Highland Avenue, Cohasset, Norfolk County, Massachusetts, 02025, United States",
     "lat": 42.2430444,
@@ -479,6 +485,7 @@
     "lon": -70.8240694,
     "precision": "venue"
   },
+  "duxbury art complex museum, none": null,
   "e. bridgewater commercial club, e. bridgewater": {
     "display_name": "E Bridgewater Commercial Club, Neilsen Avenue, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
     "lat": 42.0381479,
@@ -756,6 +763,12 @@
     "display_name": "500, West Grove Street, Middleborough, Plymouth County, Massachusetts, 02349, United States",
     "lat": 41.8988577,
     "lon": -70.9532981,
+    "precision": "venue"
+  },
+  "lucca, hingham": {
+    "display_name": "933, Hingham Street, Rockland, Plymouth County, Massachusetts, 02370, United States",
+    "lat": 42.1617794,
+    "lon": -70.9004595,
     "precision": "venue"
   },
   "luci\u2019s pizza, abington": {
@@ -1462,6 +1475,7 @@
     "lon": -71.035245,
     "precision": "venue"
   },
+  "stoughton lions club, none": null,
   "surfside smokehouse, plymouth": {
     "display_name": "14 Union Street, Plymouth, MA 02360",
     "lat": 41.955785,
