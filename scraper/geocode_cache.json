@@ -352,6 +352,7 @@
     "lon": -70.8600427,
     "precision": "venue"
   },
+  "canned heat": null,
   "canned heat, fall river": {
     "display_name": "52, Ferry Street, Fall River, Bristol County, Massachusetts, 02724, United States",
     "lat": 41.7015252,
@@ -402,6 +403,12 @@
     "precision": "venue"
   },
   "coops, quincy": {
+    "display_name": "520, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.247582,
+    "lon": -70.980285,
+    "precision": "venue"
+  },
+  "coop\u2019s, quincy": {
     "display_name": "520, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.247582,
     "lon": -70.980285,
@@ -520,6 +527,12 @@
     "display_name": "Evviva Trattoria, Hanover Mall Drive, Hanover Crossing, Hanover, Plymouth County, Massachusetts, 02061, United States",
     "lat": 42.1454532,
     "lon": -70.841589,
+    "precision": "venue"
+  },
+  "fall river amvets post, fall river": {
+    "display_name": "659, Brayton Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
+    "lat": 41.7318981,
+    "lon": -71.1615247,
     "precision": "venue"
   },
   "fall river amvets, fall river": {
@@ -817,6 +830,12 @@
     "display_name": "93, Careswell Street, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, 02050, United States",
     "lat": 42.0819333,
     "lon": -70.6525928,
+    "precision": "venue"
+  },
+  "marshfield fair, marshfield": {
+    "display_name": "140, Main Street, Marshfield Center, Marshfield, Plymouth County, Massachusetts, 02050, United States",
+    "lat": 42.0993286,
+    "lon": -70.7180393,
     "precision": "venue"
   },
   "marshfield fairgrounds, marshfield": {
@@ -1140,6 +1159,12 @@
     "lat": 41.9600112,
     "lon": -70.6658512,
     "precision": "venue"
+  },
+  "profile tavern, e. freetown": {
+    "display_name": "E. Freetown",
+    "lat": 41.7752444,
+    "lon": -70.9580382,
+    "precision": "town"
   },
   "profile tavern, east freetown": {
     "display_name": "East Freetown",
@@ -1726,6 +1751,12 @@
     "display_name": "West Bridgewater Schools, 155, West Center Street, Bennetts Corner, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0196418,
     "lon": -71.0169092,
+    "precision": "venue"
+  },
+  "washington no. 7, norwood": {
+    "display_name": "Washington Heights, Norwood, Norfolk County, Massachusetts, United States",
+    "lat": 42.2001076,
+    "lon": -71.1935323,
     "precision": "venue"
   },
   "washington no7, norwood": {

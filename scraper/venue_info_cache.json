@@ -314,6 +314,11 @@
     "photo": "photos/0cbd384754cd.jpg",
     "website": null
   },
+  "canned heat|": {
+    "maps_url": "https://www.google.com/maps/search/Canned%20Heat%20%20MA",
+    "photo": "photos/f2db24c075b2.jpg",
+    "website": "https://cannedheatcraftbeer.com"
+  },
   "canned heat|fall river": {
     "maps_url": "https://www.google.com/maps/search/Canned%20Heat%20Fall%20River%20MA",
     "photo": "photos/c21b38d800a5.jpg",
@@ -362,6 +367,11 @@
   "coops|quincy": {
     "maps_url": "https://www.google.com/maps/search/Coops%20Quincy%20MA",
     "photo": "photos/5715430a2a16.jpg",
+    "website": "https://coopsbarandgrille.com"
+  },
+  "coop\u2019s|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Coop%E2%80%99s%20Quincy%20MA",
+    "photo": "photos/9f7234d8778d.jpg",
     "website": "https://coopsbarandgrille.com"
   },
   "cork wine & tapas|new bedford": {
@@ -463,6 +473,11 @@
     "maps_url": "https://www.google.com/maps/search/Evviva%20Trattoria%20Hanover%20MA",
     "photo": "photos/e120dbed20a8.jpg",
     "website": "https://evvivatrattoria.com"
+  },
+  "fall river amvets post|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
+    "photo": "photos/35889fe06155.jpg",
+    "website": "https://amvets.org"
   },
   "fall river amvets|fall river": {
     "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
@@ -727,6 +742,11 @@
   "marshfield fairgrounds|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Marshfield%20Fairgrounds%20Marshfield%20MA",
     "photo": "photos/883c419f81c2.jpg",
+    "website": "https://marshfieldfair.org"
+  },
+  "marshfield fair|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Marshfield%20Fair%20Marshfield%20MA",
+    "photo": "photos/ce4ff7de4377.jpg",
     "website": "https://marshfieldfair.org"
   },
   "marshfield town green|": {
@@ -1003,6 +1023,11 @@
     "maps_url": "https://www.google.com/maps/search/Press%20Juice%20Bar%20Plymouth%20MA",
     "photo": "photos/25ae08593ae1.jpg",
     "website": "https://pressjuicebar.com"
+  },
+  "profile tavern|e. freetown": {
+    "maps_url": "https://www.google.com/maps/search/Profile%20Tavern%20E.%20Freetown%20MA",
+    "photo": "photos/1c8489325f7a.jpg",
+    "website": "https://profiletavern.com"
   },
   "profile tavern|east freetown": {
     "maps_url": "https://www.google.com/maps/search/Profile%20Tavern%20East%20Freetown%20MA",
@@ -1513,6 +1538,11 @@
     "maps_url": "https://www.google.com/maps/search/W.%20Bridgewater%20W.%20Bridgewater%20MA",
     "photo": "photos/7d02ad65d3a0.jpg",
     "website": null
+  },
+  "washington no. 7|norwood": {
+    "maps_url": "https://www.google.com/maps/search/Washington%20No.%207%20Norwood%20MA",
+    "photo": "photos/6cd823059e1a.jpg",
+    "website": "https://washingtonno7.com"
   },
   "washington no7|norwood": {
     "maps_url": "https://www.google.com/maps/search/Washington%20No7%20Norwood%20MA",
