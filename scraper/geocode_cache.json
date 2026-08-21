@@ -662,6 +662,12 @@
     "lon": -70.8671499,
     "precision": "venue"
   },
+  "home plate bay state grill, taunton": {
+    "display_name": "Home Plate, 1094, Bay Street, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.9360384,
+    "lon": -71.1111779,
+    "precision": "venue"
+  },
   "in front of jazzwall, new bedford": {
     "display_name": "New Bedford",
     "lat": 41.6362152,
