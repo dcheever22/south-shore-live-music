@@ -742,6 +742,12 @@
     "lon": -70.9209007,
     "precision": "venue"
   },
+  "lafayette club, taunton": {
+    "display_name": "18, Lakeview Avenue, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.9360374,
+    "lon": -71.1069351,
+    "precision": "venue"
+  },
   "lakeville country club, lakeville": {
     "display_name": "Lakeville Country Club, 44, Clear Pond Road, Upper Four Corners, Lakeville, Plymouth County, Massachusetts, 02347, United States",
     "lat": 41.8666646,
