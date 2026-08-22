@@ -784,6 +784,12 @@
     "lon": -70.7037781,
     "precision": "venue"
   },
+  "levitate, marshfield": {
+    "display_name": "Marshfield",
+    "lat": 42.091769,
+    "lon": -70.7055941,
+    "precision": "town"
+  },
   "liv creative cuisine, marshfield": {
     "display_name": "Marshfield",
     "lat": 42.091769,
