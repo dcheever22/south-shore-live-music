@@ -649,6 +649,11 @@
     "photo": "photos/ca4be72b87ed.jpg",
     "website": "https://jos-nautical-bar.foodjoyy.com"
   },
+  "kilroy square beer garden|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Kilroy%20Square%20Beer%20Garden%20Quincy%20MA",
+    "photo": null,
+    "website": null
+  },
   "knuckleheads|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Knuckleheads%20New%20Bedford%20MA",
     "photo": "photos/bac8fe04995c.png",
@@ -1363,6 +1368,11 @@
     "maps_url": "https://www.google.com/maps/search/Tavern%20on%20the%20Wharf%20Plymouth%20MA",
     "photo": "photos/44cf260f7e9a.jpg",
     "website": "https://tavernonthewharf.com"
+  },
+  "thayer public library|braintree": {
+    "maps_url": "https://www.google.com/maps/search/Thayer%20Public%20Library%20Braintree%20MA",
+    "photo": "photos/87af6a414a22.jpg",
+    "website": "https://thayerpubliclibrary.org"
   },
   "the beth kitchen & bar|hingham": {
     "maps_url": "https://www.google.com/maps/search/The%20Beth%20Kitchen%20%26%20Bar%20Hingham%20MA",

@@ -730,6 +730,12 @@
     "lon": -70.916203,
     "precision": "venue"
   },
+  "kilroy square beer garden, quincy": {
+    "display_name": "Quincy",
+    "lat": 42.2509914,
+    "lon": -71.0037374,
+    "precision": "town"
+  },
   "knuckleheads, new bedford": {
     "display_name": "Knuckle Heads, 85, MacArthur Drive, South Terminal, New Bedford, Bristol County, Massachusetts, 02744, United States",
     "lat": 41.6266323,
@@ -1541,6 +1547,12 @@
     "display_name": "Tavern on the Wharf, 6, Town Wharf, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9618207,
     "lon": -70.667218,
+    "precision": "venue"
+  },
+  "thayer public library, braintree": {
+    "display_name": "Thayer Public Library, 798, Washington Street, South Braintree, Braintree, Norfolk County, Massachusetts, 02184, United States",
+    "lat": 42.2056618,
+    "lon": -71.0042666,
     "precision": "venue"
   },
   "the beth kitchen & bar, hingham": {
