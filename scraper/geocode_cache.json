@@ -90,6 +90,12 @@
     "lon": -70.9374948,
     "precision": "venue"
   },
+  "amvets post fall river, fall river": {
+    "display_name": "659, Brayton Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
+    "lat": 41.7318981,
+    "lon": -71.1615247,
+    "precision": "venue"
+  },
   "amvets post, randolph": {
     "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
     "lat": 42.1704238,
@@ -1392,6 +1398,12 @@
     "lon": -70.9199367,
     "precision": "venue"
   },
+  "shipyard drive, hingham": {
+    "display_name": "Shipyard Drive, The Launch at Hingham Shipyard, Hingham, Plymouth County, Massachusetts, 02191, United States",
+    "lat": 42.2494631,
+    "lon": -70.9225616,
+    "precision": "venue"
+  },
   "shovel town brewery, easton": {
     "display_name": "Shovel Town Brewery, Elm Street, North Easton, Easton, Bristol County, Massachusetts, 02356, United States",
     "lat": 42.0714776,
@@ -1673,6 +1685,12 @@
     "display_name": "ThreeV, 10, Cordage Park Circle, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
     "lat": 41.978507,
     "lon": -70.6876207,
+    "precision": "venue"
+  },
+  "tinker's son, norwell": {
+    "display_name": "The Tinker's Son, Main Street, Kings Landing, Norwell, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.1616079,
+    "lon": -70.7909832,
     "precision": "venue"
   },
   "tinker\u2019s son, norwell": {

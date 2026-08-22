@@ -79,6 +79,11 @@
     "photo": "photos/62493d729e90.png",
     "website": null
   },
+  "amvets post fall river|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
+    "photo": "photos/37e831df34bb.jpg",
+    "website": "https://amvets.org"
+  },
   "amvets post|randolph": {
     "maps_url": "https://www.google.com/maps/search/Amvets%20Post%20Randolph%20MA",
     "photo": "photos/c76be8ab1aea.jpg",
@@ -1234,6 +1239,11 @@
     "photo": "photos/37736a9758ae.png",
     "website": "https://shipwreckd.net"
   },
+  "shipyard drive|hingham": {
+    "maps_url": "https://www.google.com/maps/search/Shipyard%20Drive%20Hingham%20MA",
+    "photo": null,
+    "website": null
+  },
   "shovel town brewery|easton": {
     "maps_url": "https://www.google.com/maps/search/Shovel%20Town%20Brewery%20Easton%20MA",
     "photo": "photos/baab3a45f821.jpg",
@@ -1473,6 +1483,11 @@
     "maps_url": "https://www.google.com/maps/search/ThreeV%20Plymouth%20MA",
     "photo": "photos/da13d0df3069.png",
     "website": "https://threevrestaurant.com"
+  },
+  "tinker's son|norwell": {
+    "maps_url": "https://www.google.com/maps/search/Tinker%27s%20Son%20Norwell%20MA",
+    "photo": "photos/e9428b578544.jpg",
+    "website": "https://thetinkersson.com"
   },
   "tinker\u2019s son|norwell": {
     "maps_url": "https://www.google.com/maps/search/Tinker%E2%80%99s%20Son%20Norwell%20MA",
