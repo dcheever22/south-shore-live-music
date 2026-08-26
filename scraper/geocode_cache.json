@@ -371,6 +371,12 @@
     "lon": -70.8035571,
     "precision": "town"
   },
+  "cedar center, bridgewater": {
+    "display_name": "15, Cedar Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
+    "lat": 41.9881143,
+    "lon": -70.9751527,
+    "precision": "venue"
+  },
   "chantey, quincy": {
     "display_name": "333, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
     "lat": 42.2995509,
