@@ -65,6 +65,12 @@
     "lon": -70.8434718,
     "precision": "venue"
   },
+  "57 acorn st, scituate": {
+    "display_name": "57, Acorn Street, Egypt, Scituate Center, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.2042465,
+    "lon": -70.7707383,
+    "precision": "venue"
+  },
   "abington ale house, abington": {
     "display_name": "1235, Bedford Street, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
     "lat": 42.1382802,
@@ -76,6 +82,12 @@
     "display_name": "1235, Bedford Street, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
     "lat": 42.1382802,
     "lon": -70.9502801,
+    "precision": "venue"
+  },
+  "abington depot, abington": {
+    "display_name": "Abington Depot, 101, Railroad Street, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
+    "lat": 42.1291939,
+    "lon": -70.941761,
     "precision": "venue"
   },
   "acushnet public library, acushnet": {
@@ -1476,6 +1488,12 @@
     "lon": -70.666248,
     "precision": "venue"
   },
+  "split rock beer garden, scituate": {
+    "display_name": "Scituate",
+    "lat": 42.1924492,
+    "lon": -70.7261966,
+    "precision": "town"
+  },
   "sports emporium, weymouth": {
     "display_name": "230, Bridge Street, Weymouth, Norfolk County, Massachusetts, 02191, United States",
     "lat": 42.242988,
@@ -1813,6 +1831,12 @@
     "lon": -71.0169092,
     "precision": "venue"
   },
+  "washington no 7, norwood": {
+    "display_name": "Washington Heights, Norwood, Norfolk County, Massachusetts, United States",
+    "lat": 42.2001076,
+    "lon": -71.1935323,
+    "precision": "venue"
+  },
   "washington no. 7, norwood": {
     "display_name": "Washington Heights, Norwood, Norfolk County, Massachusetts, United States",
     "lat": 42.2001076,
@@ -1823,6 +1847,12 @@
     "display_name": "Washington Heights, Norwood, Norfolk County, Massachusetts, United States",
     "lat": 42.2001076,
     "lon": -71.1935323,
+    "precision": "venue"
+  },
+  "weir river farm, hingham": {
+    "display_name": "Weir River Farm, Nantasket Junction, Hingham Center, Hingham, Plymouth County, Massachusetts, United States",
+    "lat": 42.2396368,
+    "lon": -70.8579688,
     "precision": "venue"
   },
   "westgate lanes, brockton": {
