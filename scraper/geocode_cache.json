@@ -553,6 +553,12 @@
     "lon": -71.0234259,
     "precision": "venue"
   },
+  "evviva trattoria": {
+    "display_name": "Evviva Trattoria Stoneham, 65, Main Street, Farm Hill, Stoneham, Middlesex County, Massachusetts, 02180, United States",
+    "lat": 42.4952834,
+    "lon": -71.1019049,
+    "precision": "venue"
+  },
   "evviva trattoria, hanover": {
     "display_name": "Evviva Trattoria, Hanover Mall Drive, Hanover Crossing, Hanover, Plymouth County, Massachusetts, 02061, United States",
     "lat": 42.1454532,
