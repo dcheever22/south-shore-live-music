@@ -126,6 +126,12 @@
     "lon": -70.9771085,
     "precision": "venue"
   },
+  "anna's harborside, plymouth": {
+    "display_name": "Anna's Harborside Grille, 145, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9617628,
+    "lon": -70.6677276,
+    "precision": "venue"
+  },
   "anna\u2019s harborside, plymouth": {
     "display_name": "Anna's Harborside Grille, 145, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9617628,
@@ -469,6 +475,12 @@
     "precision": "venue"
   },
   "crispis, bridgewater": {
+    "display_name": "136, Broad Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
+    "lat": 41.9936103,
+    "lon": -70.9743459,
+    "precision": "venue"
+  },
+  "crispi\u2019s, bridgewater": {
     "display_name": "136, Broad Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
     "lat": 41.9936103,
     "lon": -70.9743459,
@@ -874,6 +886,12 @@
     "lon": -71.0044552,
     "precision": "venue"
   },
+  "mambo's kitchen & bar, hull": {
+    "display_name": "269, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.274,
+    "lon": -70.861317,
+    "precision": "venue"
+  },
   "mambo\u2019s, hull": {
     "display_name": "269, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.274,
@@ -1086,6 +1104,12 @@
     "lat": 41.7515473,
     "lon": -70.6745847,
     "precision": "venue"
+  },
+  "onset, ma": {
+    "display_name": "MA",
+    "lat": 42.3582529,
+    "lon": -71.0966272,
+    "precision": "town"
   },
   "o\u2019toole\u2019s pub, whitman": {
     "display_name": "O' Toole's Pub, 24, Raynor Avenue, Whitman, Plymouth County, Massachusetts, 02382, United States",
@@ -1422,6 +1446,12 @@
     "lon": -70.9078534,
     "precision": "venue"
   },
+  "shenanigans, wareham": {
+    "display_name": "2691, Cranberry Highway, Wareham Center, Wareham, Plymouth County, Massachusetts, 02751, United States",
+    "lat": 41.7692376,
+    "lon": -70.7021867,
+    "precision": "venue"
+  },
   "shipwreck\u2019d, hull": {
     "display_name": "Pemberton Point Ferry Terminal, 173, Main Street, Pemberton, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.3034576,
@@ -1669,6 +1699,12 @@
     "lon": -70.6444384,
     "precision": "venue"
   },
+  "the launch, hingham": {
+    "display_name": "The Launch at Hingham Shipyard, Hingham, Plymouth County, Massachusetts, United States",
+    "lat": 42.2504209,
+    "lon": -70.9224431,
+    "precision": "venue"
+  },
   "the mallard, somerset": {
     "display_name": "1098;1100;1104, County Street, Pottersville, Somerset, Bristol County, Massachusetts, 02726, United States",
     "lat": 41.748191,
@@ -1872,6 +1908,12 @@
     "lat": 42.2169437,
     "lon": -70.9665896,
     "precision": "venue"
+  },
+  "weymouth pavilion, weymouth": {
+    "display_name": "Weymouth",
+    "lat": 42.2212188,
+    "lon": -70.9391625,
+    "precision": "town"
   },
   "weymouth town hall, none": {
     "display_name": "Weymouth Town Hall, 75, Middle Street, Weymouth Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",

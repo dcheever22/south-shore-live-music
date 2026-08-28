@@ -109,6 +109,11 @@
     "photo": "photos/9ae2b789ae86.jpg",
     "website": "https://anchorrockvineyards.com"
   },
+  "anna's harborside|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Anna%27s%20Harborside%20Plymouth%20MA",
+    "photo": "photos/6220f1814779.jpg",
+    "website": "https://annasharborsidegrille.com"
+  },
   "anna\u2019s harborside|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Anna%E2%80%99s%20Harborside%20Plymouth%20MA",
     "photo": "photos/e2ca65c310d1.jpg",
@@ -422,6 +427,11 @@
   "crispis|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Crispis%20Bridgewater%20MA",
     "photo": "photos/97382a6d1bd8.jpg",
+    "website": "https://crispisbridgewater.com"
+  },
+  "crispi\u2019s|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Crispi%E2%80%99s%20Bridgewater%20MA",
+    "photo": "photos/dfad2e2cfe67.jpg",
     "website": "https://crispisbridgewater.com"
   },
   "crossroads|braintree": {
@@ -769,6 +779,11 @@
     "photo": "photos/2880589f7372.jpg",
     "website": null
   },
+  "mambo's kitchen & bar|hull": {
+    "maps_url": "https://www.google.com/maps/search/Mambo%27s%20Kitchen%20%26%20Bar%20Hull%20MA",
+    "photo": "photos/00b68221f011.jpg",
+    "website": "https://online.skytab.com"
+  },
   "mambo\u2019s|hull": {
     "maps_url": "https://www.google.com/maps/search/Mambo%E2%80%99s%20Hull%20MA",
     "photo": "photos/f90fdfb1469a.jpg",
@@ -958,6 +973,11 @@
     "maps_url": "https://www.google.com/maps/search/Onset%20VFW%20Onset%20MA",
     "photo": "photos/d18db7837081.jpg",
     "website": "https://onsetvfw.tripod.com"
+  },
+  "onset|ma": {
+    "maps_url": "https://www.google.com/maps/search/Onset%20MA%20MA",
+    "photo": "photos/1539b865e8f4.jpg",
+    "website": null
   },
   "o\u2019toole\u2019s pub|whitman": {
     "maps_url": "https://www.google.com/maps/search/O%E2%80%99Toole%E2%80%99s%20Pub%20Whitman%20MA",
@@ -1259,6 +1279,11 @@
     "photo": "photos/5ff398ffdb05.jpg",
     "website": "https://seaportwaterfrontbar.com"
   },
+  "shenanigans|wareham": {
+    "maps_url": "https://www.google.com/maps/search/Shenanigans%20Wareham%20MA",
+    "photo": "photos/ada82623ddc3.jpg",
+    "website": null
+  },
   "shipwreck\u2019d|hull": {
     "maps_url": "https://www.google.com/maps/search/Shipwreck%E2%80%99d%20Hull%20MA",
     "photo": "photos/37736a9758ae.png",
@@ -1469,6 +1494,11 @@
     "photo": "photos/cb5e673e522c.png",
     "website": "https://thejetty-marshfield.com"
   },
+  "the launch|hingham": {
+    "maps_url": "https://www.google.com/maps/search/The%20Launch%20Hingham%20MA",
+    "photo": "photos/d6ab1c5d0c86.jpg",
+    "website": "https://hinghamlaunch.com"
+  },
   "the mallard|somerset": {
     "maps_url": "https://www.google.com/maps/search/The%20Mallard%20Somerset%20MA",
     "photo": "photos/a56438f8e4a8.jpg",
@@ -1638,6 +1668,11 @@
     "maps_url": "https://www.google.com/maps/search/Weston%20Park%20Weymouth%20MA",
     "photo": "photos/5a2d1a0d22e2.jpg",
     "website": "https://weymouthrec.com"
+  },
+  "weymouth pavilion|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Weymouth%20Pavilion%20Weymouth%20MA",
+    "photo": "photos/0a5bb63be252.jpg",
+    "website": "https://weymouthpavilion.com"
   },
   "weymouth town hall|": {
     "maps_url": "https://www.google.com/maps/search/Weymouth%20Town%20Hall%20%20MA",
