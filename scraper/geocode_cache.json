@@ -301,6 +301,12 @@
     "lon": -70.7724499,
     "precision": "venue"
   },
+  "brewery 44": {
+    "display_name": "The Brewery, Jamaica Plain, Boston, Suffolk County, Massachusetts, United States",
+    "lat": 42.3145455,
+    "lon": -71.1034079,
+    "precision": "venue"
+  },
   "brewery 44, carver": {
     "display_name": "2, Montello Street, Cole Mill, Carver, Plymouth County, Massachusetts, 02367, United States",
     "lat": 41.9281846,
@@ -365,6 +371,12 @@
   },
   "buzzards bay gazebo, none": null,
   "c note, hull": {
+    "display_name": "C Note Music Club, 159, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2678215,
+    "lon": -70.8526223,
+    "precision": "venue"
+  },
+  "c-note, hull": {
     "display_name": "C Note Music Club, 159, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2678215,
     "lon": -70.8526223,
@@ -1206,6 +1218,12 @@
     "lat": 41.9426657,
     "lon": -70.7618592,
     "precision": "town"
+  },
+  "plymouth waterfront bandshell, plymouth": {
+    "display_name": "130, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9608968,
+    "lon": -70.6674441,
+    "precision": "venue"
   },
   "plymouth waterfront, none": null,
   "plymouth waterfront, plymouth": {
