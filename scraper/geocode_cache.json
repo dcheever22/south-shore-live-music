@@ -468,6 +468,12 @@
     "lon": -70.9219229,
     "precision": "venue"
   },
+  "cork wine, new bedford": {
+    "display_name": "Cork Wine and Tapas, 90, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.6349037,
+    "lon": -70.9219229,
+    "precision": "venue"
+  },
   "cork, new bedford": {
     "display_name": "Cork Wine and Tapas, 90, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.6349037,
@@ -755,6 +761,12 @@
     "precision": "venue"
   },
   "j&rs indian head, hanson": {
+    "display_name": "278, Main Street, Bryantville, Hanson, Plymouth County, Massachusetts, 02350, United States",
+    "lat": 42.0428835,
+    "lon": -70.8524432,
+    "precision": "venue"
+  },
+  "j&rs indian pub, hanson": {
     "display_name": "278, Main Street, Bryantville, Hanson, Plymouth County, Massachusetts, 02350, United States",
     "lat": 42.0428835,
     "lon": -70.8524432,
@@ -1751,6 +1763,12 @@
     "display_name": "The Voyage, 14, Marshfield Avenue, Humarock, Scituate, Plymouth County, Massachusetts, 02047, United States",
     "lat": 42.1382843,
     "lon": -70.6911511,
+    "precision": "venue"
+  },
+  "thomas crane library, quincy": {
+    "display_name": "Thomas Crane Library, Washington Street, Quincy Center, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2510438,
+    "lon": -70.9999484,
     "precision": "venue"
   },
   "three v sandbar, plymouth": {

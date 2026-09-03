@@ -419,6 +419,11 @@
     "photo": "photos/7b2d3d7076a5.jpg",
     "website": "https://corkwineandtapas.com"
   },
+  "cork wine|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Cork%20Wine%20New%20Bedford%20MA",
+    "photo": "photos/e5428efa4c21.jpg",
+    "website": "https://corkwineandtapas.com"
+  },
   "cork|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Cork%20New%20Bedford%20MA",
     "photo": "photos/9e24ec73719f.jpg",
@@ -672,6 +677,11 @@
   "j&rs indian head|hanson": {
     "maps_url": "https://www.google.com/maps/search/J%26Rs%20Indian%20Head%20Hanson%20MA",
     "photo": "photos/1c1ecbea47ea.jpg",
+    "website": null
+  },
+  "j&rs indian pub|hanson": {
+    "maps_url": "https://www.google.com/maps/search/J%26Rs%20Indian%20Pub%20Hanson%20MA",
+    "photo": "photos/ad54104383f4.jpg",
     "website": null
   },
   "j&r\u2019s indian head|hanson": {
@@ -1538,6 +1548,11 @@
     "maps_url": "https://www.google.com/maps/search/The%20Voyage%20Humarock%20MA",
     "photo": "photos/095e4cfab2e9.jpg",
     "website": "https://thevoyagehumarock.com"
+  },
+  "thomas crane library|quincy": {
+    "maps_url": "https://www.google.com/maps/place/Thomas+Crane+Public+Library,+Quincy,+MA+02169/@42.2514177,-71.0006987,17z/data=!3m1!4b1!4m6!3m5!1s0x89e3634b683502c7:0x339cdc97a8583d99!8m2!3d42.2514177!4d-71.0006987!16zL20vMDc5Znlu?entry=ttu&g_ep=EgoyMDI2MDgzMS4wIKXMDSoASAFQAw%3D%3D",
+    "photo": "photos/47e94347092a.jpg",
+    "website": null
   },
   "three v sandbar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Three%20V%20Sandbar%20Plymouth%20MA",
