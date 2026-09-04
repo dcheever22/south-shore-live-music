@@ -1801,6 +1801,12 @@
     "lon": -70.9999484,
     "precision": "venue"
   },
+  "three sips brewing, carver": {
+    "display_name": "145, South Main Street, South Carver, Carver, Plymouth County, Massachusetts, 02330, United States",
+    "lat": 41.8379077,
+    "lon": -70.7505194,
+    "precision": "venue"
+  },
   "three v sandbar, plymouth": {
     "display_name": "Loring Boulevard, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
     "lat": 41.9782997,
