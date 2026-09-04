@@ -434,6 +434,11 @@
     "photo": "photos/d4f5fc208dd2.jpg",
     "website": "https://cornerstonescarver.com"
   },
+  "court st.|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Court%20St.%20Plymouth%20MA",
+    "photo": "photos/e0428855ff65.jpg",
+    "website": null
+  },
   "courtside wolves den|pembroke": {
     "maps_url": "https://www.google.com/maps/search/The%20Wolves%20Den%20Pembroke%20MA",
     "photo": "photos/6386cfa79393.jpg",
@@ -768,6 +773,11 @@
     "maps_url": "https://www.google.com/maps/search/Local%2002045%20Hull%20MA",
     "photo": "photos/a3bfb3cbf573.jpg",
     "website": "https://local02045.com"
+  },
+  "lorenzo's|middleboro": {
+    "maps_url": "https://www.google.com/maps/search/Lorenzo%27s%20Middleboro%20MA",
+    "photo": "photos/166755fcaa51.jpg",
+    "website": "https://lorenzos.net"
   },
   "lorenzo\u2019s|middleboro": {
     "maps_url": "https://www.google.com/maps/search/Lorenzo%E2%80%99s%20Middleboro%20MA",
@@ -1268,6 +1278,11 @@
     "maps_url": "https://www.google.com/maps/search/Scituate%20Beach%20Association%20Scituate%20MA",
     "photo": "photos/97ac4528dba7.jpg",
     "website": "https://scituate-beach-association.square.site"
+  },
+  "scituate harbor bandstand|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Scituate%20Heritage%20Days%20Music%20Festival%20Scituate%20MA",
+    "photo": "photos/f22499ca8a92.jpg",
+    "website": null
   },
   "scituate harbor|": {
     "maps_url": "https://www.google.com/maps/search/Scituate%20Harbor%20%20MA",
