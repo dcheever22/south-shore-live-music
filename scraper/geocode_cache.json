@@ -413,6 +413,12 @@
     "lon": -70.9751527,
     "precision": "venue"
   },
+  "cellar tavern, abington": {
+    "display_name": "221, North Avenue, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
+    "lat": 42.1278126,
+    "lon": -70.9415701,
+    "precision": "venue"
+  },
   "chantey, quincy": {
     "display_name": "333, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
     "lat": 42.2995509,
@@ -611,6 +617,12 @@
     "display_name": "Amvets Highway, Steep Brook, Fall River, Bristol County, Massachusetts, 02720, United States",
     "lat": 41.7532978,
     "lon": -71.1182828,
+    "precision": "venue"
+  },
+  "first light casino, taunton": {
+    "display_name": "First Light Casino, 1, First Light Boulevard, East Taunton, Taunton, Bristol County, Massachusetts, 02718, United States",
+    "lat": 41.8702933,
+    "lon": -71.0463984,
     "precision": "venue"
   },
   "fuel america, weymouth": {

@@ -369,6 +369,11 @@
     "photo": "photos/95ef2723885c.jpg",
     "website": "https://cedarstreetcc.org"
   },
+  "cellar tavern|abington": {
+    "maps_url": "https://www.google.com/maps/search/Cellar%20Tavern%20Abington%20MA",
+    "photo": "photos/32a4188ed7ec.jpg",
+    "website": null
+  },
   "chantey|quincy": {
     "maps_url": "https://www.google.com/maps/search/Chantey%20Quincy%20MA",
     "photo": "photos/c6d747648578.jpg",
@@ -543,6 +548,11 @@
     "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
     "photo": "photos/fe49740dbde6.jpg",
     "website": "https://amvets.org"
+  },
+  "first light casino|taunton": {
+    "maps_url": "https://www.google.com/maps/search/First%20Light%20Casino%20Taunton%20MA",
+    "photo": "photos/781af0131575.jpg",
+    "website": "https://firstlighttaunton.com"
   },
   "fuel america|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Fuel%20America%20Weymouth%20MA",
