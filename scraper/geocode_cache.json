@@ -425,6 +425,12 @@
     "lon": -71.0280111,
     "precision": "venue"
   },
+  "chestnut street grille, duxbury": {
+    "display_name": "8, Chestnut Street, Baileys Corner, South Duxbury, Duxbury, Plymouth County, Massachusetts, 02332, United States",
+    "lat": 42.0234951,
+    "lon": -70.6837306,
+    "precision": "venue"
+  },
   "cisco brewers, new bedford": {
     "display_name": "Cisco Brewers Kitchen & Bar, 1482, East Rodney French Boulevard, New Bedford, Bristol County, Massachusetts, 02744, United States",
     "lat": 41.6106382,
@@ -1049,6 +1055,12 @@
     "lon": -70.9433121,
     "precision": "venue"
   },
+  "middle ground grille, weymouth": {
+    "display_name": "Buck's Bar and Grill, 416, Middle Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
+    "lat": 42.2098546,
+    "lon": -70.9433121,
+    "precision": "venue"
+  },
   "middleboro town hall, none": null,
   "middleground grille, weymouth": {
     "display_name": "Buck's Bar and Grill, 416, Middle Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
@@ -1206,6 +1218,12 @@
     "lat": 41.7015252,
     "lon": -71.1683318,
     "precision": "venue"
+  },
+  "pilgrim sands motel, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
   },
   "pilgrim sands on long beach, plymouth": {
     "display_name": "Plymouth",
@@ -1414,6 +1432,12 @@
     "lon": -70.9586577,
     "precision": "venue"
   },
+  "safford park, quincy": {
+    "display_name": "Safford Park, Wollaston, North Quincy, Quincy, Norfolk County, Massachusetts, United States",
+    "lat": 42.2633269,
+    "lon": -71.0218645,
+    "precision": "venue"
+  },
   "sail house tavern, fairhaven": {
     "display_name": "109, Middle Street, Fairhaven, Bristol County, Massachusetts, 02719, United States",
     "lat": 41.6417531,
@@ -1602,6 +1626,12 @@
     "lon": -71.153834,
     "precision": "venue"
   },
+  "st. james, fall river": {
+    "display_name": "Saint James Street, Mechanicsville, Fall River, Bristol County, Massachusetts, 02720, United States",
+    "lat": 41.7221718,
+    "lon": -71.1458608,
+    "precision": "venue"
+  },
   "star drive in, taunton": {
     "display_name": "Taunton",
     "lat": 41.9019257,
@@ -1739,6 +1769,12 @@
     "display_name": "The Cove Restaurant & Marina, 392, Davol Street, Fall River Station, Fall River, Bristol County, Massachusetts, 02720, United States",
     "lat": 41.7093714,
     "lon": -71.1591633,
+    "precision": "venue"
+  },
+  "the downtown, norton": {
+    "display_name": "292, West Main Street, Chartley, Norton, Bristol County, Massachusetts, 02766, United States",
+    "lat": 41.9521871,
+    "lon": -71.2224732,
     "precision": "venue"
   },
   "the drift, hull": {

@@ -379,6 +379,11 @@
     "photo": "photos/c6d747648578.jpg",
     "website": "https://thechanteyatmarinabay.com"
   },
+  "chestnut street grille|duxbury": {
+    "maps_url": "https://www.google.com/maps/search/Chestnut%20Street%20Grille%20Duxbury%20MA",
+    "photo": "photos/5ec0121ad2ea.jpg",
+    "website": "https://chestnutstreetgrille.com"
+  },
   "cisco brewers|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Cisco%20Kitchen%20%26%20Bar%20New%20Bedford%20MA",
     "photo": "photos/3ef161b24e7a.jpg",
@@ -914,6 +919,11 @@
     "photo": "photos/1da42307b7d3.jpg",
     "website": "https://miaregazzamarshfield.com"
   },
+  "middle ground grille|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Middle%20Ground%20Grille%20Weymouth%20MA",
+    "photo": "photos/05b8cec057a5.jpg",
+    "website": "https://middlegroundgrill.com"
+  },
   "middle ground grill|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Middle%20Ground%20Grill%20Weymouth%20MA",
     "photo": "photos/3167d309b7a5.jpg",
@@ -1058,6 +1068,11 @@
     "maps_url": "https://www.google.com/maps/search/Pier%2052%20Fall%20River%20MA",
     "photo": "photos/408601ff0a7d.jpg",
     "website": "https://pier52ferry.com"
+  },
+  "pilgrim sands motel|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Pilgrim%20Sands%20Motel%20Plymouth%20MA",
+    "photo": "photos/086d2f357a13.jpg",
+    "website": "https://pilgrimsandsma.com"
   },
   "pilgrim sands on long beach|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Pilgrim%20Sands%20on%20Long%20Beach%20Plymouth%20MA",
@@ -1244,6 +1259,11 @@
     "photo": "photos/f85ccb6f4252.png",
     "website": "https://ryanspubnb.com"
   },
+  "safford park|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Safford%20Park%20Quincy%20MA",
+    "photo": "photos/7e0d2237993f.jpg",
+    "website": "https://wollastonhill.com"
+  },
   "sail house tavern|fairhaven": {
     "maps_url": "https://www.google.com/maps/search/Sail%20House%20Tavern%20Fairhaven%20MA",
     "photo": "photos/37164827da33.jpg",
@@ -1409,6 +1429,11 @@
     "photo": "photos/fdae53e0982d.jpg",
     "website": "https://stjamesirishpub.com"
   },
+  "st. james|fall river": {
+    "maps_url": "https://www.google.com/maps/search/St.%20James%20Fall%20River%20MA",
+    "photo": "photos/3d5dda8b6dcd.jpg",
+    "website": "https://stjamesirishpub.com"
+  },
   "star drive in|taunton": {
     "maps_url": "https://www.google.com/maps/search/Star%20Drive%20In%20Taunton%20MA",
     "photo": "photos/40490d2720f9.png",
@@ -1528,6 +1553,11 @@
     "maps_url": "https://www.google.com/maps/search/The%20Cove%20Fall%20River%20MA",
     "photo": "photos/7932eee467ed.jpg",
     "website": "https://cove392.com"
+  },
+  "the downtown|norton": {
+    "maps_url": "https://www.google.com/maps/search/The%20Downtown%20Norton%20MA",
+    "photo": "photos/bb8904d1c8ba.jpg",
+    "website": null
   },
   "the drift|hull": {
     "maps_url": "https://www.google.com/maps/search/The%20Drift%20Hull%20MA",
