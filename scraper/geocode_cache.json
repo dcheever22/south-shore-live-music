@@ -1511,6 +1511,12 @@
     "lon": -70.7261966,
     "precision": "town"
   },
+  "scituate vfw hall, scituate": {
+    "display_name": "V.F.W. Satuit Post 3169, 736, Chief Justice Cushing Highway, Manson Corner, North Scituate, Scituate, Plymouth County, Massachusetts, 02060, United States",
+    "lat": 42.2046361,
+    "lon": -70.7771788,
+    "precision": "venue"
+  },
   "scituate vfw, none": null,
   "scituate vfw, scituate": {
     "display_name": "V.F.W. Satuit Post 3169, 736, Chief Justice Cushing Highway, Manson Corner, North Scituate, Scituate, Plymouth County, Massachusetts, 02060, United States",
