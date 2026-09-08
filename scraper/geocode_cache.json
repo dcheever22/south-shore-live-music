@@ -1249,6 +1249,12 @@
     "lon": -70.9185821,
     "precision": "venue"
   },
+  "plymouth center for active living, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "plymouth center for the arts, plymouth": {
     "display_name": "Plymouth Center for the Arts, 11, North Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9573383,
@@ -1991,6 +1997,12 @@
     "display_name": "West Bridgewater Schools, 155, West Center Street, Bennetts Corner, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0196418,
     "lon": -71.0169092,
+    "precision": "venue"
+  },
+  "washburn park, marion": {
+    "display_name": "Washburn Park, Marion, Plymouth County, Massachusetts, United States",
+    "lat": 41.7241739,
+    "lon": -70.76797,
     "precision": "venue"
   },
   "washington no 7, norwood": {
