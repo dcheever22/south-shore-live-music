@@ -1650,6 +1650,12 @@
     "lon": -71.0931485,
     "precision": "town"
   },
+  "star drive-in, e. taunton": {
+    "display_name": "E. Taunton",
+    "lat": 41.8827727,
+    "lon": -71.028435,
+    "precision": "town"
+  },
   "starland sports, hanover": {
     "display_name": "637, Washington Street, Hanover, Plymouth County, Massachusetts, 02339, United States",
     "lat": 42.1239098,
