@@ -601,6 +601,12 @@
     "lon": -70.6683647,
     "precision": "venue"
   },
+  "emma's pub & pizza, bridgewater": {
+    "display_name": "Bridgewater",
+    "lat": 41.9902206,
+    "lon": -70.9754432,
+    "precision": "town"
+  },
   "emma\u2019s, bridgewater": {
     "display_name": "1420, Pleasant Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
     "lat": 41.9675731,
@@ -1048,6 +1054,12 @@
     "lat": 41.9426657,
     "lon": -70.7618592,
     "precision": "town"
+  },
+  "mayflower brewing, plymouth": {
+    "display_name": "Mayflower Brewing Company, Resnik Road, Plymouth Mobile Estates, Plymouth, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.9493685,
+    "lon": -70.7111833,
+    "precision": "venue"
   },
   "mcswiggans, weymouth": {
     "display_name": "450, Washington Street, Weymouth, Norfolk County, Massachusetts, 02188, United States",

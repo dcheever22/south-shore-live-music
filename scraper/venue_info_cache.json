@@ -534,6 +534,11 @@
     "photo": "photos/6e88b5d99774.jpg",
     "website": "https://eastbaygrille.com"
   },
+  "emma's pub & pizza|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Emma%27s%20Pub%20%26%20Pizza%20Bridgewater%20MA",
+    "photo": null,
+    "website": null
+  },
   "emma\u2019s|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Emma%E2%80%99s%20Bridgewater%20MA",
     "photo": "photos/69a61ef4137e.jpg",
@@ -918,6 +923,11 @@
     "maps_url": "https://www.google.com/maps/search/Mayflower%20Beer%20Garden%20Plymouth%20MA",
     "photo": "photos/a63991c098a7.jpg",
     "website": "https://pinehills.com"
+  },
+  "mayflower brewing|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Mayflower%20Brewing%20Plymouth%20MA",
+    "photo": "photos/83536fb8bf0c.jpg",
+    "website": "https://mayflowerbrewing.com"
   },
   "mcswiggans|weymouth": {
     "maps_url": "https://www.google.com/maps/search/McSwiggans%20Weymouth%20MA",
