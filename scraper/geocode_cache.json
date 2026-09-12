@@ -619,6 +619,12 @@
     "lon": -70.9754432,
     "precision": "town"
   },
+  "emma's pub, bridgewater": {
+    "display_name": "Bridgewater",
+    "lat": 41.9902206,
+    "lon": -70.9754432,
+    "precision": "town"
+  },
   "emma\u2019s, bridgewater": {
     "display_name": "1420, Pleasant Street, Bridgewater, Plymouth County, Massachusetts, 02324, United States",
     "lat": 41.9675731,
@@ -1108,6 +1114,12 @@
     "display_name": "Buck's Bar and Grill, 416, Middle Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
     "lat": 42.2098546,
     "lon": -70.9433121,
+    "precision": "venue"
+  },
+  "miguel's table, w. bridgewater": {
+    "display_name": "105, Copeland Street, Matfield Corner, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
+    "lat": 42.0391417,
+    "lon": -71.0160078,
     "precision": "venue"
   },
   "mirbeau garden bar, plymouth": {
@@ -1885,6 +1897,12 @@
     "lon": -70.8601111,
     "precision": "venue"
   },
+  "the patio at fuel america, weymouth": {
+    "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.2174129,
+    "lon": -70.9655487,
+    "precision": "venue"
+  },
   "the snug, hingham": {
     "display_name": "116, North Street, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
     "lat": 42.2425833,
@@ -2045,6 +2063,12 @@
     "display_name": "Library Plaza, Marshfield, Plymouth County, Massachusetts, 02050, United States",
     "lat": 42.0913821,
     "lon": -70.7028771,
+    "precision": "venue"
+  },
+  "venus 3, hanson": {
+    "display_name": "Venus III, 252, Main Street, Bryantville, Hanson, Plymouth County, Massachusetts, 02350, United States",
+    "lat": 42.043321,
+    "lon": -70.851213,
     "precision": "venue"
   },
   "voyage, humarock": {

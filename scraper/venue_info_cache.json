@@ -549,6 +549,11 @@
     "photo": null,
     "website": null
   },
+  "emma's pub|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Emma%27s%20Pub%20%26%20Pizza%20Bridgewater%20MA",
+    "photo": null,
+    "website": null
+  },
   "emma\u2019s|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Emma%E2%80%99s%20Bridgewater%20MA",
     "photo": "photos/69a61ef4137e.jpg",
@@ -973,6 +978,11 @@
     "maps_url": "https://www.google.com/maps/search/MiddleGround%20Grille%20Weymouth%20MA",
     "photo": "photos/e21890be586b.jpg",
     "website": "https://middlegroundgrill.com"
+  },
+  "miguel's table|w. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Miguel%27s%20Table%20W.%20Bridgewater%20MA",
+    "photo": "photos/6e3d42e437c7.jpg",
+    "website": "https://miguelstable.com"
   },
   "mirbeau garden bar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Mirbeau%20Garden%20Bar%20Plymouth%20MA",
@@ -1649,6 +1659,11 @@
     "photo": "photos/512c26e80f5b.jpg",
     "website": "https://theparrothull.com"
   },
+  "the patio at fuel america|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/The%20Patio%20at%20Fuel%20America%20Weymouth%20MA",
+    "photo": "photos/02e9983be17e.jpg",
+    "website": "https://fuelamericaweymouth.com"
+  },
   "the snug|hingham": {
     "maps_url": "https://www.google.com/maps/search/The%20Snug%20Hingham%20MA",
     "photo": "photos/fc318601c06e.jpg",
@@ -1783,6 +1798,11 @@
     "maps_url": "https://www.google.com/maps/search/Ventress%20Libray%20Marshfield%20MA",
     "photo": "photos/577433b18174.jpg",
     "website": "https://ventresslibrary.org"
+  },
+  "venus 3|hanson": {
+    "maps_url": "https://www.google.com/maps/search/Venus%203%20Hanson%20MA",
+    "photo": "photos/bb11609c31ad.jpg",
+    "website": "https://venus3.com"
   },
   "voyage|humarock": {
     "maps_url": "https://www.google.com/maps/search/Voyage%20Humarock%20MA",
