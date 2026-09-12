@@ -164,6 +164,11 @@
     "photo": null,
     "website": null
   },
+  "barrett\u2019s waterfront|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Barrett%E2%80%99s%20Waterfront%20Fall%20River%20MA",
+    "photo": "photos/a7412a584437.jpg",
+    "website": "https://barrettsalehouse.com"
+  },
   "barrett\u2019s|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20Bridgewater%20MA",
     "photo": null,
@@ -514,6 +519,11 @@
     "photo": "photos/905d6bb79f67.jpg",
     "website": "https://drsislandbrewing.com"
   },
+  "downtown public house|norton": {
+    "maps_url": "https://www.google.com/maps/search/Downtown%20Public%20House%20Norton%20MA",
+    "photo": "photos/9ffe074db895.jpg",
+    "website": null
+  },
   "duxbury art complex museum|": {
     "maps_url": "https://www.google.com/maps/search/Duxbury%20Art%20Complex%20Museum%20%20MA",
     "photo": "photos/a959c2bd42d3.jpg",
@@ -728,6 +738,11 @@
     "maps_url": "https://www.google.com/maps/search/Jetty%20Marshfield%20MA",
     "photo": "photos/479a26df3fc4.png",
     "website": "https://thejetty-marshfield.com"
+  },
+  "jo's nautical|hull": {
+    "maps_url": "https://www.google.com/maps/search/Jo%27s%20Nautical%20Hull%20MA",
+    "photo": "photos/e1c11596b413.jpg",
+    "website": "https://jos-nautical-bar.foodjoyy.com"
   },
   "jockey club|raynham": {
     "maps_url": "https://www.google.com/maps/place/The+Jockey+Club/@41.9041265,-71.0604912,17z/data=!3m1!4b1!4m6!3m5!1s0x89e48d00641240e9:0xb26ce462aa9c94a7!8m2!3d41.9041265!4d-71.0604912!16s%2Fg%2F11xfbwkdvj?entry=ttu&g_ep=EgoyMDI2MDcxNC4wIKXMDSoASAFQAw%3D%3D",
@@ -1088,6 +1103,11 @@
     "maps_url": "https://www.google.com/maps/search/Pier%2052%20Fall%20River%20MA",
     "photo": "photos/408601ff0a7d.jpg",
     "website": "https://pier52ferry.com"
+  },
+  "pilgrim sands hotel|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Pilgrim%20Sands%20Hotel%20Plymouth%20MA",
+    "photo": "photos/317d312be039.jpg",
+    "website": "https://pilgrimsandsma.com"
   },
   "pilgrim sands motel|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Pilgrim%20Sands%20Motel%20Plymouth%20MA",
@@ -1509,6 +1529,11 @@
     "photo": "photos/173a4d192def.jpg",
     "website": "https://steviegsrestaurant.com"
   },
+  "stevie g\u2019s|cohasset": {
+    "maps_url": "https://www.google.com/maps/search/Stevie%20G%E2%80%99s%20Cohasset%20MA",
+    "photo": "photos/a92c3cf2c826.jpg",
+    "website": "https://steviegsrestaurant.com"
+  },
   "stoneforge grill|easton": {
     "maps_url": "https://www.google.com/maps/search/Stoneforge%20Grill%20Easton%20MA",
     "photo": "photos/35c106d8033e.jpg",
@@ -1682,6 +1707,11 @@
   "tipsy seagull|fall river": {
     "maps_url": "https://www.google.com/maps/search/Tipsy%20Seagull%20Fall%20River%20MA",
     "photo": "photos/6332489d06b9.jpg",
+    "website": "https://thetipsyseagull.com"
+  },
+  "tipsy seagull|fall riverk": {
+    "maps_url": "https://www.google.com/maps/search/Tipsy%20Seagull%20Fall%20Riverk%20MA",
+    "photo": "photos/c2d2871398e5.jpg",
     "website": "https://thetipsyseagull.com"
   },
   "tipsy toboggan|fall river": {

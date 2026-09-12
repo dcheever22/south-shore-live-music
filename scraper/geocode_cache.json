@@ -187,6 +187,12 @@
     "lon": -71.0488419,
     "precision": "venue"
   },
+  "barrett\u2019s waterfront, fall river": {
+    "display_name": "Barrett's Waterfront, Brownell Street, Slades Ferry, Fall River, Bristol County, Massachusetts, 02722, United States",
+    "lat": 41.718393,
+    "lon": -71.1556965,
+    "precision": "venue"
+  },
   "barrett\u2019s, bridgewater": {
     "display_name": "Barrett\u2019s Alehouse - West Bridgewater, 674, West Center Street, Cochesett, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0113304,
@@ -582,6 +588,12 @@
     "lon": -70.8240694,
     "precision": "venue"
   },
+  "downtown public house, norton": {
+    "display_name": "Norton",
+    "lat": 41.9670616,
+    "lon": -71.1875071,
+    "precision": "town"
+  },
   "duxbury art complex museum, none": null,
   "e. bridgewater commercial club, e. bridgewater": {
     "display_name": "E Bridgewater Commercial Club, Neilsen Avenue, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
@@ -824,6 +836,12 @@
     "display_name": "278, Ocean Street, Brant Rock, Ocean Bluff, Marshfield, Plymouth County, Massachusetts, 02047, United States",
     "lat": 42.0914262,
     "lon": -70.6444384,
+    "precision": "venue"
+  },
+  "jo's nautical, hull": {
+    "display_name": "Jo's Nautical Bar, 125, Main Street, Pemberton, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.3042954,
+    "lon": -70.916203,
     "precision": "venue"
   },
   "jockey club, raynham": {
@@ -1242,6 +1260,12 @@
     "lat": 41.7015252,
     "lon": -71.1683318,
     "precision": "venue"
+  },
+  "pilgrim sands hotel, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
   },
   "pilgrim sands motel, plymouth": {
     "display_name": "Plymouth",
@@ -1722,6 +1746,12 @@
     "lon": -70.822265,
     "precision": "venue"
   },
+  "stevie g\u2019s, cohasset": {
+    "display_name": "380, Chief Justice Cushing Highway, Cohasset, Norfolk County, Massachusetts, 02025, United States",
+    "lat": 42.2347215,
+    "lon": -70.822265,
+    "precision": "venue"
+  },
   "stoneforge grill, easton": {
     "display_name": "Stoneforge Grill, 10, Roosevelt Circle, Morse Corner, North Easton, Easton, Bristol County, Massachusetts, 02357, United States",
     "lat": 42.051231,
@@ -1925,6 +1955,12 @@
     "display_name": "1, Ferry Street, Fall River, Bristol County, Massachusetts, 02724, United States",
     "lat": 41.7009825,
     "lon": -71.1701937,
+    "precision": "venue"
+  },
+  "tipsy seagull, fall riverk": {
+    "display_name": "1, Ferry Street, Fall River, Bristol County, Massachusetts, 02721, United States",
+    "lat": 41.700636,
+    "lon": -71.166899,
     "precision": "venue"
   },
   "tipsy toboggan, fall river": {
