@@ -1921,6 +1921,12 @@
     "lon": -70.8889052,
     "precision": "venue"
   },
+  "the star drive-in, e. taunton": {
+    "display_name": "E. Taunton",
+    "lat": 41.8827727,
+    "lon": -71.028435,
+    "precision": "town"
+  },
   "the vault, new bedford": {
     "display_name": "791, Purchase Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.6347109,
