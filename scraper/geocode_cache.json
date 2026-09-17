@@ -806,6 +806,12 @@
     "lon": -70.8129464,
     "precision": "venue"
   },
+  "ironwood, ss country club": {
+    "display_name": "SS Country Club",
+    "lat": 42.4906788,
+    "lon": -71.1191767,
+    "precision": "town"
+  },
   "j&g hillside grill": null,
   "j&g hillside grill, none": null,
   "j&g hillside grill, stoughton": {
