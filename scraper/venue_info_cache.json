@@ -524,6 +524,11 @@
     "photo": "photos/905d6bb79f67.jpg",
     "website": "https://drsislandbrewing.com"
   },
+  "donahue\u2019s pub|holbrook": {
+    "maps_url": "https://www.google.com/maps/search/Donahue%E2%80%99s%20Pub%20Holbrook%20MA",
+    "photo": "photos/4f1accb78339.jpg",
+    "website": "https://donahuespub.com"
+  },
   "downtown public house|norton": {
     "maps_url": "https://www.google.com/maps/search/Downtown%20Public%20House%20Norton%20MA",
     "photo": "photos/9ffe074db895.jpg",
@@ -812,6 +817,11 @@
   "leandro\u2019s|easton": {
     "maps_url": "https://www.google.com/maps/search/Leandro%E2%80%99s%20Easton%20MA",
     "photo": "photos/bc1a4705d3ad.jpg",
+    "website": "https://leandrosrestaurant.com"
+  },
+  "leandro\u2019s|s. easton": {
+    "maps_url": "https://www.google.com/maps/search/Leandro%E2%80%99s%20S.%20Easton%20MA",
+    "photo": "photos/d9a8584a7118.jpg",
     "website": "https://leandrosrestaurant.com"
   },
   "leo\u2019s|braintree": {
@@ -1157,6 +1167,11 @@
   "players|rockland": {
     "maps_url": "https://www.google.com/maps/search/Players%20Rockland%20MA",
     "photo": "photos/fd6bbd60e563.jpg",
+    "website": "https://southshoresportsbar.com"
+  },
+  "player\u2019s|rockland": {
+    "maps_url": "https://www.google.com/maps/search/Player%E2%80%99s%20Rockland%20MA",
+    "photo": "photos/7ab1c139c8f7.jpg",
     "website": "https://southshoresportsbar.com"
   },
   "plymouth center for active living|plymouth": {

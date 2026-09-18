@@ -594,6 +594,12 @@
     "lon": -70.8240694,
     "precision": "venue"
   },
+  "donahue\u2019s pub, holbrook": {
+    "display_name": "777;779;781;783;785, South Franklin Street, Brookville, Holbrook, Norfolk County, Massachusetts, 02343, United States",
+    "lat": 42.1293826,
+    "lon": -71.0082684,
+    "precision": "venue"
+  },
   "downtown public house, norton": {
     "display_name": "Norton",
     "lat": 41.9670616,
@@ -926,6 +932,12 @@
     "display_name": "Easton",
     "lat": 42.0245442,
     "lon": -71.1286594,
+    "precision": "town"
+  },
+  "leandro\u2019s, s. easton": {
+    "display_name": "S. Easton",
+    "lat": 42.0473222,
+    "lon": -71.0814358,
     "precision": "town"
   },
   "leo\u2019s, braintree": {
@@ -1322,6 +1334,12 @@
     "precision": "town"
   },
   "players, rockland": {
+    "display_name": "86, Veterans of Foreign Wars Drive, Hatherly, Rockland, Plymouth County, Massachusetts, 02370, United States",
+    "lat": 42.1472079,
+    "lon": -70.9185821,
+    "precision": "venue"
+  },
+  "player\u2019s, rockland": {
     "display_name": "86, Veterans of Foreign Wars Drive, Hatherly, Rockland, Plymouth County, Massachusetts, 02370, United States",
     "lat": 42.1472079,
     "lon": -70.9185821,
