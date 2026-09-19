@@ -528,6 +528,12 @@
     "lon": -70.8046631,
     "precision": "venue"
   },
+  "cottage bar, weymouth": {
+    "display_name": "26, Union Street, Pine Grove, South Weymouth, Weymouth, Norfolk County, Massachusetts, 02190, United States",
+    "lat": 42.1740695,
+    "lon": -70.9497549,
+    "precision": "venue"
+  },
   "court st., plymouth": {
     "display_name": "Plymouth",
     "lat": 41.9426657,
@@ -2210,6 +2216,12 @@
     "precision": "venue"
   },
   "westgate lanes, brockton": {
+    "display_name": "Westgate Lanes, 65, Westgate Drive, Westgate Mall, Brockton, Plymouth County, Massachusetts, 02301, United States",
+    "lat": 42.0903559,
+    "lon": -71.0476787,
+    "precision": "venue"
+  },
+  "westgate pub, brockton": {
     "display_name": "Westgate Lanes, 65, Westgate Drive, Westgate Mall, Brockton, Plymouth County, Massachusetts, 02301, United States",
     "lat": 42.0903559,
     "lon": -71.0476787,

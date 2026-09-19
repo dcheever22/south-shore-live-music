@@ -469,6 +469,11 @@
     "photo": "photos/d4f5fc208dd2.jpg",
     "website": "https://cornerstonescarver.com"
   },
+  "cottage bar|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Cottage%20Bar%20Weymouth%20MA",
+    "photo": null,
+    "website": "https://thecottageweymouth.com"
+  },
   "court st.|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Court%20St.%20Plymouth%20MA",
     "photo": "photos/e0428855ff65.jpg",
@@ -1922,6 +1927,11 @@
   "westgate lanes|brockton": {
     "maps_url": "https://www.google.com/maps/search/Westgate%20Lanes%20Brockton%20MA",
     "photo": "photos/3d5566edd442.jpg",
+    "website": "https://westgatelanes.us"
+  },
+  "westgate pub|brockton": {
+    "maps_url": "https://www.google.com/maps/search/Westgate%20Pub%20Brockton%20MA",
+    "photo": "photos/2eeea2d49528.jpg",
     "website": "https://westgatelanes.us"
   },
   "weston park|weymouth": {
