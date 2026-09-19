@@ -818,6 +818,12 @@
     "lon": -70.934205,
     "precision": "town"
   },
+  "indie ferm, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "inn on shipyard park, mattapoisett": {
     "display_name": "The Inn on Shipyard Park, 13, Water Street, Mattapoisett, Plymouth County, Massachusetts, 02739, United States",
     "lat": 41.6582958,
@@ -896,6 +902,12 @@
     "display_name": "246, Brockton Avenue, Abington, Plymouth County, Massachusetts, 02351, United States",
     "lat": 42.104214,
     "lon": -70.9542218,
+    "precision": "venue"
+  },
+  "kenberma, hull": {
+    "display_name": "Kenberma, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.283433,
+    "lon": -70.8744899,
     "precision": "venue"
   },
   "kilroy square beer garden, quincy": {
@@ -1466,6 +1478,12 @@
     "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
     "lat": 42.1704238,
     "lon": -71.0390483,
+    "precision": "venue"
+  },
+  "randolph elks, randolph": {
+    "display_name": "Randolph Elks Lodge 2130, 21, School Street, Randolph, Norfolk County, Massachusetts, 02368, United States",
+    "lat": 42.1658894,
+    "lon": -71.0407371,
     "precision": "venue"
   },
   "raynham american legion post, raynham": {
