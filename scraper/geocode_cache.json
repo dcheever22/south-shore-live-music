@@ -120,6 +120,12 @@
     "lon": -71.1615247,
     "precision": "venue"
   },
+  "amvets post, fall river": {
+    "display_name": "659, Brayton Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
+    "lat": 41.7318981,
+    "lon": -71.1615247,
+    "precision": "venue"
+  },
   "amvets post, randolph": {
     "display_name": "AMVETS Post 51, 9, Amvets Lane, Randolph, Norfolk County, Massachusetts, 02368, United States",
     "lat": 42.1704238,
@@ -679,6 +685,12 @@
     "lon": -71.0463984,
     "precision": "venue"
   },
+  "forty second brew, kingston": {
+    "display_name": "Summer Street, Miramar, Kingston, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.998813,
+    "lon": -70.7304438,
+    "precision": "venue"
+  },
   "fuel america, weymouth": {
     "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2174129,
@@ -1171,6 +1183,12 @@
     "precision": "venue"
   },
   "miguel's table, w. bridgewater": {
+    "display_name": "105, Copeland Street, Matfield Corner, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
+    "lat": 42.0391417,
+    "lon": -71.0160078,
+    "precision": "venue"
+  },
+  "miguel\u2019s table, w. bridgewater": {
     "display_name": "105, Copeland Street, Matfield Corner, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0391417,
     "lon": -71.0160078,

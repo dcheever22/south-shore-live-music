@@ -104,6 +104,11 @@
     "photo": "photos/37e831df34bb.jpg",
     "website": "https://amvets.org"
   },
+  "amvets post|fall river": {
+    "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
+    "photo": "photos/234fa3fb174a.jpg",
+    "website": "https://amvets.org"
+  },
   "amvets post|randolph": {
     "maps_url": "https://www.google.com/maps/search/Amvets%20Post%20Randolph%20MA",
     "photo": "photos/c76be8ab1aea.jpg",
@@ -599,6 +604,11 @@
     "photo": "photos/781af0131575.jpg",
     "website": "https://firstlighttaunton.com"
   },
+  "forty second brew|kingston": {
+    "maps_url": "https://www.google.com/maps/search/Forty%20Second%20Brew%20Kingston%20MA",
+    "photo": "photos/d0e3d71a5ce1.jpg",
+    "website": "https://fortysecondbrewco.com"
+  },
   "fuel america|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Fuel%20America%20Weymouth%20MA",
     "photo": "photos/054dc35f2ef4.jpg",
@@ -1027,6 +1037,11 @@
   "miguel's table|w. bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Miguel%27s%20Table%20W.%20Bridgewater%20MA",
     "photo": "photos/6e3d42e437c7.jpg",
+    "website": "https://miguelstable.com"
+  },
+  "miguel\u2019s table|w. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Miguel%E2%80%99s%20Table%20W.%20Bridgewater%20MA",
+    "photo": "photos/02127c00b0ab.jpg",
     "website": "https://miguelstable.com"
   },
   "mirbeau garden bar|plymouth": {
