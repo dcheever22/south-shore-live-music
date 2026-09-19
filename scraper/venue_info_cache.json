@@ -214,6 +214,11 @@
     "photo": "photos/a5392355117c.jpg",
     "website": "https://berkleybeer.com"
   },
+  "beth kitchen & bar|hingham": {
+    "maps_url": "https://www.google.com/maps/search/Beth%20Kitchen%20%26%20Bar%20Hingham%20MA",
+    "photo": "photos/eae2734afff4.jpg",
+    "website": "https://thebethhingham.com"
+  },
   "bittersweet farm|westport": {
     "maps_url": "https://www.google.com/maps/search/Bittersweet%20Farm%20Westport%20MA",
     "photo": "photos/3a192ed83524.jpg",
@@ -703,6 +708,11 @@
     "maps_url": "https://www.google.com/maps/search/Home%20Plate%20Bay%20State%20Grill%20Taunton%20MA",
     "photo": "photos/4ebe370d1453.jpg",
     "website": "https://homeplate.us.com"
+  },
+  "houghs neck maritime center|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Houghs%20Neck%20Maritime%20Center%20Quincy%20MA",
+    "photo": "photos/349ad1550b7b.jpg",
+    "website": null
   },
   "in front of jazzwall|new bedford": {
     "maps_url": "https://www.google.com/maps/search/In%20Front%20of%20Jazzwall%20New%20Bedford%20MA",

@@ -247,6 +247,12 @@
     "lon": -71.0820209,
     "precision": "venue"
   },
+  "beth kitchen & bar, hingham": {
+    "display_name": "18, Shipyard Drive, The Launch at Hingham Shipyard, Old Spain, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2518529,
+    "lon": -70.922945,
+    "precision": "venue"
+  },
   "bittersweet farm, westport": {
     "display_name": "Westport",
     "lat": 41.6220399,
@@ -798,6 +804,12 @@
     "display_name": "Home Plate, 1094, Bay Street, Taunton, Bristol County, Massachusetts, 02780, United States",
     "lat": 41.9360384,
     "lon": -71.1111779,
+    "precision": "venue"
+  },
+  "houghs neck maritime center, quincy": {
+    "display_name": "137, Bay View Avenue, Houghs Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.271615,
+    "lon": -70.9502283,
     "precision": "venue"
   },
   "in front of jazzwall, new bedford": {
