@@ -860,6 +860,12 @@
     "lon": -71.1191767,
     "precision": "town"
   },
+  "ironwood, ss country club, hingham": {
+    "display_name": "South Shore Country Club, 274, South Street, West Hingham, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2313527,
+    "lon": -70.9003409,
+    "precision": "venue"
+  },
   "j&g hillside grill": null,
   "j&g hillside grill, none": null,
   "j&g hillside grill, stoughton": {
