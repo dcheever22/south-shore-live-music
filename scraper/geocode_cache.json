@@ -1601,6 +1601,12 @@
     "lon": -70.9586577,
     "precision": "venue"
   },
+  "ryan\u2019s, new bedford": {
+    "display_name": "Ryan Street, New Bedford, Bristol County, Massachusetts, 02714, United States",
+    "lat": 41.626517,
+    "lon": -70.9459879,
+    "precision": "venue"
+  },
   "safford park, quincy": {
     "display_name": "Safford Park, Wollaston, North Quincy, Quincy, Norfolk County, Massachusetts, United States",
     "lat": 42.2633269,
