@@ -9,6 +9,11 @@
     "photo": "photos/b884fb09009c.jpg",
     "website": "https://cnotehull.com"
   },
+  "$5, next page|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/%245%2C%20Next%20Page%20Weymouth%20MA",
+    "photo": "photos/77bf59dfa5d2.jpg",
+    "website": "https://thenextpagecafe.com"
+  },
   "$5, pete\u2019s grille|quincy": {
     "maps_url": "https://www.google.com/maps/search/%245%2C%20Pete%E2%80%99s%20Grille%20Quincy%20MA",
     "photo": "photos/018116908be0.jpg",
@@ -88,6 +93,11 @@
     "maps_url": "https://www.google.com/maps/search/Acushnet%20Public%20Library%20Acushnet%20MA",
     "photo": "photos/90d3926bece1.jpg",
     "website": "https://acupl.org"
+  },
+  "agoro\u2019s pizza bar|somerset": {
+    "maps_url": "https://www.google.com/maps/search/Agoro%E2%80%99s%20Pizza%20Bar%20Somerset%20MA",
+    "photo": null,
+    "website": "https://agorospizza.com"
   },
   "alba on 53|hanover": {
     "maps_url": "https://www.google.com/maps/search/Alba%20on%2053%20Hanover%20MA",
@@ -187,6 +197,11 @@
   "barrett\u2019s|w. bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Barrett%E2%80%99s%20W.%20Bridgewater%20MA",
     "photo": "photos/3b456b80fc68.jpg",
+    "website": "https://barrettsalehouse.com"
+  },
+  "barrett\u2019s|west bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Barrett%E2%80%99s%20West%20Bridgewater%20MA",
+    "photo": "photos/94df38a56869.jpg",
     "website": "https://barrettsalehouse.com"
   },
   "bay pointe waterfront|quincy": {
@@ -1578,6 +1593,11 @@
     "maps_url": "https://www.google.com/maps/search/Sports%20Emporium%20Weymouth%20MA",
     "photo": "photos/bd82731ba1bb.jpg",
     "website": "https://sportsemporium.me"
+  },
+  "ss ymca|hanover": {
+    "maps_url": "https://www.google.com/maps/search/SS%20YMCA%20Hanover%20MA",
+    "photo": "photos/e4bbd5345cde.jpg",
+    "website": "https://ssymca.org"
   },
   "st. james irish pub|fall river": {
     "maps_url": "https://www.google.com/maps/search/St.%20James%20Irish%20Pub%20Fall%20River%20MA",

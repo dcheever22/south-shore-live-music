@@ -11,6 +11,12 @@
     "lon": -70.8526223,
     "precision": "venue"
   },
+  "$5, next page, weymouth": {
+    "display_name": "550, Broad Street, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.2176913,
+    "lon": -70.9372186,
+    "precision": "venue"
+  },
   "$5, pete\u2019s grille, quincy": {
     "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2435805,
@@ -95,6 +101,12 @@
     "display_name": "Acushnet Public Library, 232, Middle Road, Coury Heights, Acushnet, Bristol County, Massachusetts, 02745, United States",
     "lat": 41.7006251,
     "lon": -70.9209727,
+    "precision": "venue"
+  },
+  "agoro\u2019s pizza bar, somerset": {
+    "display_name": "2756, County Street, Somerset, Bristol County, Massachusetts, 02726, United States",
+    "lat": 41.7697126,
+    "lon": -71.1378268,
     "precision": "venue"
   },
   "alba on 53, hanover": {
@@ -207,6 +219,12 @@
     "precision": "venue"
   },
   "barrett\u2019s, w. bridgewater": {
+    "display_name": "Barrett\u2019s Alehouse - West Bridgewater, 674, West Center Street, Cochesett, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
+    "lat": 42.0113304,
+    "lon": -71.0488419,
+    "precision": "venue"
+  },
+  "barrett\u2019s, west bridgewater": {
     "display_name": "Barrett\u2019s Alehouse - West Bridgewater, 674, West Center Street, Cochesett, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
     "lat": 42.0113304,
     "lon": -71.0488419,
@@ -1799,6 +1817,12 @@
     "display_name": "230, Bridge Street, Weymouth, Norfolk County, Massachusetts, 02191, United States",
     "lat": 42.242988,
     "lon": -70.9560084,
+    "precision": "venue"
+  },
+  "ss ymca, hanover": {
+    "display_name": "Emilson YMCA, 75, Mill Street, Hanover, Plymouth County, Massachusetts, 02339, United States",
+    "lat": 42.1401375,
+    "lon": -70.8392975,
     "precision": "venue"
   },
   "st. james irish pub, fall river": {
