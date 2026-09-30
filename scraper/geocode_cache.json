@@ -1237,6 +1237,12 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "mirbeau inn, plymouth": {
+    "display_name": "Plymouth",
+    "lat": 41.9426657,
+    "lon": -70.7618592,
+    "precision": "town"
+  },
   "nantasket beach, hull": {
     "display_name": "Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2777675,
