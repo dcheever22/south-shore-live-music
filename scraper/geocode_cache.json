@@ -849,6 +849,12 @@
     "lon": -70.8671499,
     "precision": "venue"
   },
+  "hingham sons of italy, hingham": {
+    "display_name": "Hingham",
+    "lat": 42.2417669,
+    "lon": -70.8897676,
+    "precision": "town"
+  },
   "home plate bay state grill, taunton": {
     "display_name": "Home Plate, 1094, Bay Street, Taunton, Bristol County, Massachusetts, 02780, United States",
     "lat": 41.9360384,
