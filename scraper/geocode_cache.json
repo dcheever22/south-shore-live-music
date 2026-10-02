@@ -1716,6 +1716,12 @@
     "lon": -71.0428827,
     "precision": "venue"
   },
+  "scituate bandstand, scituate": {
+    "display_name": "Scituate",
+    "lat": 42.1924492,
+    "lon": -70.7261966,
+    "precision": "town"
+  },
   "scituate beach association, scituate": {
     "display_name": "Community Building, 88, Scituate Avenue, Sand Hills, Scituate, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.2075713,
