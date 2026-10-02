@@ -269,6 +269,11 @@
     "photo": "photos/694bc4cf89e6.jpg",
     "website": "https://boathousebistrobeachfront.com"
   },
+  "bohemian babe|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Bohemian%20Babe%20Scituate%20MA",
+    "photo": null,
+    "website": null
+  },
   "bourne scenic park|": {
     "maps_url": "https://www.google.com/maps/search/Bourne%20Scenic%20Park%20%20MA",
     "photo": "photos/b33c40b599a2.jpg",
@@ -769,6 +774,11 @@
     "photo": "photos/6ab9b47fd3e1.jpg",
     "website": "https://mass.gov"
   },
+  "in front of vinyl lunatic records|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/In%20Front%20of%20Vinyl%20Lunatic%20Records%20Plymouth%20MA",
+    "photo": null,
+    "website": null
+  },
   "indie ferm|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Indie%20Ferm%20Plymouth%20MA",
     "photo": "photos/c2b5e3866917.jpg",
@@ -858,6 +868,11 @@
     "maps_url": "https://www.google.com/maps/search/Kilroy%20Square%20Beer%20Garden%20Quincy%20MA",
     "photo": null,
     "website": null
+  },
+  "kilroy square|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Kilroy%20Square%20Farmers%20Market%20Quincy%20MA",
+    "photo": null,
+    "website": "https://kilroysquaremarkets.com"
   },
   "knuckleheads|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Knuckleheads%20New%20Bedford%20MA",
@@ -1902,6 +1917,11 @@
   "towne tavern treehouse|pembroke": {
     "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20Treehouse%20Pembroke%20MA",
     "photo": "photos/95318b0cfac5.jpg",
+    "website": "https://townetavern.com"
+  },
+  "towne tavern|e.  bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20E.%20%20Bridgewater%20MA",
+    "photo": null,
     "website": "https://townetavern.com"
   },
   "towne tavern|e. bridgewater": {

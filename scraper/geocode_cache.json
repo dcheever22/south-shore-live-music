@@ -308,6 +308,12 @@
     "lon": -70.8616737,
     "precision": "venue"
   },
+  "bohemian babe, scituate": {
+    "display_name": "105, Front Street, Second Cliff, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.194912,
+    "lon": -70.725193,
+    "precision": "venue"
+  },
   "bourne scenic park, none": {
     "display_name": "Bourne Scenic Park, Buzzards Bay, Bourne, Barnstable County, Massachusetts, United States",
     "lat": 41.7509441,
@@ -873,6 +879,12 @@
     "lon": -70.934205,
     "precision": "town"
   },
+  "in front of vinyl lunatic records, plymouth": {
+    "display_name": "Main Street Extension, Bradford-Union Street Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.954833,
+    "lon": -70.6627387,
+    "precision": "venue"
+  },
   "indie ferm, plymouth": {
     "display_name": "Plymouth",
     "lat": 41.9426657,
@@ -976,6 +988,12 @@
     "lat": 42.2509914,
     "lon": -71.0037374,
     "precision": "town"
+  },
+  "kilroy square, quincy": {
+    "display_name": "Kilroy Square, Quincy Center, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2485657,
+    "lon": -71.0007486,
+    "precision": "venue"
   },
   "knuckleheads, new bedford": {
     "display_name": "Knuckle Heads, 85, MacArthur Drive, South Terminal, New Bedford, Bristol County, Massachusetts, 02744, United States",
@@ -2184,6 +2202,12 @@
     "display_name": "242, Mattakeesett Street, Oldham Village, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.0611013,
     "lon": -70.8269838,
+    "precision": "venue"
+  },
+  "towne tavern, e.  bridgewater": {
+    "display_name": "175, North Bedford Street, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
+    "lat": 42.0382156,
+    "lon": -70.9571353,
     "precision": "venue"
   },
   "towne tavern, e. bridgewater": {
