@@ -69,6 +69,11 @@
     "photo": null,
     "website": null
   },
+  "9-1|braintree town hall": {
+    "maps_url": "https://www.google.com/maps/search/Braintree%20Town%20Hall%20Braintree%20Town%20Hall%20MA",
+    "photo": null,
+    "website": "https://braintreema.gov"
+  },
   "abington ale house|": {
     "maps_url": "https://www.google.com/maps/search/Abington%20Ale%20House%20%20MA",
     "photo": "photos/34939a5f3114.jpg",
@@ -313,6 +318,11 @@
     "maps_url": "https://www.google.com/maps/search/Brewery%2044%20Carver%20MA",
     "photo": "photos/1bb80b659dec.jpg",
     "website": "https://brewery44.com"
+  },
+  "brewery|easton": {
+    "maps_url": "https://www.google.com/maps/search/Brewery%20Easton%20MA",
+    "photo": "photos/9950b704e564.jpg",
+    "website": "https://shoveltownbrewery.com"
   },
   "brewster bar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Brewster%20Bar%20Plymouth%20MA",
@@ -853,6 +863,11 @@
     "maps_url": "https://www.google.com/maps/search/Jo%E2%80%99s%20Nautical%20Hull%20MA",
     "photo": "photos/ca4be72b87ed.jpg",
     "website": "https://jos-nautical-bar.foodjoyy.com"
+  },
+  "jp ryan's|abington": {
+    "maps_url": "https://www.google.com/maps/search/JP%20Ryan%27s%20Abington%20MA",
+    "photo": "photos/a722a713eea3.jpg",
+    "website": "https://jpryanstavern.com"
   },
   "jp ryan\u2019s|abington": {
     "maps_url": "https://www.google.com/maps/place/J.P.+Ryan's+Tavern/@42.1042497,-70.9542374,17z/data=!3m1!4b1!4m6!3m5!1s0x89e49b8025968379:0x1695acf41e82a7a4!8m2!3d42.1042497!4d-70.9542374!16s%2Fg%2F1tdph6rh?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
@@ -1419,6 +1434,11 @@
     "photo": "photos/4b357fe9307e.jpg",
     "website": "https://redbrookplymouth.com"
   },
+  "rockland town hall|rockland": {
+    "maps_url": "https://www.google.com/maps/search/Rockland%20Town%20Hall%20Rockland%20MA",
+    "photo": "photos/75486e708962.jpg",
+    "website": "https://rockland-ma.gov"
+  },
   "roht marine|marshfield": {
     "maps_url": "https://www.google.com/maps/search/Roht%20Marine%20Marshfield%20MA",
     "photo": "photos/0fcc8b830385.jpg",
@@ -1764,6 +1784,11 @@
     "photo": "photos/c93874c35816.jpg",
     "website": null
   },
+  "the chantey at marina bay|quincy": {
+    "maps_url": "https://www.google.com/maps/search/The%20Chantey%20at%20Marina%20Bay%20Quincy%20MA",
+    "photo": null,
+    "website": "https://thechanteyatmarinabay.com"
+  },
   "the chantey|quincy": {
     "maps_url": "https://www.google.com/maps/search/The%20Chantey%20Quincy%20MA",
     "photo": "photos/47c3a75ae94c.jpg",
@@ -1944,6 +1969,11 @@
     "photo": "photos/7d3ffc78fc85.jpg",
     "website": "https://weymouth.ma.us"
   },
+  "union brewhouse|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Union%20Brewhouse%20Weymouth%20MA",
+    "photo": "photos/ffeb9522d1f3.jpg",
+    "website": "https://unionbrewhouse.com"
+  },
   "untold brewing|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Untold%20Brewing%20Plymouth%20MA",
     "photo": "photos/0099f744eeb5.jpg",
@@ -2023,6 +2053,11 @@
     "maps_url": "https://www.google.com/maps/search/Weston%20Park%20Weymouth%20MA",
     "photo": "photos/5a2d1a0d22e2.jpg",
     "website": "https://weymouthrec.com"
+  },
+  "westport|ma": {
+    "maps_url": "https://www.google.com/maps/search/Westport%20MA%20MA",
+    "photo": "photos/7f514524dd67.jpg",
+    "website": null
   },
   "weymouth pavilion|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Weymouth%20Pavilion%20Weymouth%20MA",

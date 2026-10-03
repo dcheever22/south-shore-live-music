@@ -78,6 +78,12 @@
     "lon": -70.7707383,
     "precision": "venue"
   },
+  "9-1, braintree town hall": {
+    "display_name": "Braintree Town Hall, 1, John F. Kennedy Memorial Drive, South Braintree, Braintree, Norfolk County, Massachusetts, 02184, United States",
+    "lat": 42.2060286,
+    "lon": -71.0053585,
+    "precision": "venue"
+  },
   "abington ale house, abington": {
     "display_name": "1235, Bedford Street, North Abington, Abington, Plymouth County, Massachusetts, 02351, United States",
     "lat": 42.1382802,
@@ -360,6 +366,12 @@
     "display_name": "2, Montello Street, Cole Mill, Carver, Plymouth County, Massachusetts, 02367, United States",
     "lat": 41.9281846,
     "lon": -70.8101811,
+    "precision": "venue"
+  },
+  "brewery, easton": {
+    "display_name": "Shovel Town Brewery, Elm Street, North Easton, Easton, Bristol County, Massachusetts, 02356, United States",
+    "lat": 42.0714776,
+    "lon": -71.1032367,
     "precision": "venue"
   },
   "brewster bar, plymouth": {
@@ -969,6 +981,12 @@
     "display_name": "Jo's Nautical Bar, 125, Main Street, Pemberton, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.3042954,
     "lon": -70.916203,
+    "precision": "venue"
+  },
+  "jp ryan's, abington": {
+    "display_name": "246, Brockton Avenue, Abington, Plymouth County, Massachusetts, 02351, United States",
+    "lat": 42.104214,
+    "lon": -70.9542218,
     "precision": "venue"
   },
   "jp ryan\u2019s, abington": {
@@ -1619,6 +1637,12 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "rockland town hall, rockland": {
+    "display_name": "Rockland Town Offices, 242, Union Street, Rockland, Plymouth County, Massachusetts, 02370, United States",
+    "lat": 42.1287251,
+    "lon": -70.9156985,
+    "precision": "venue"
+  },
   "roht marine, marshfield": {
     "display_name": "Roht Marina, Main Street, Little Bridge, Marshfield, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.1609256,
@@ -2018,6 +2042,12 @@
     "lon": -70.9415701,
     "precision": "venue"
   },
+  "the chantey at marina bay, quincy": {
+    "display_name": "333, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
+    "lat": 42.2995509,
+    "lon": -71.0280111,
+    "precision": "venue"
+  },
   "the chantey, quincy": {
     "display_name": "333, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
     "lat": 42.2995509,
@@ -2234,6 +2264,12 @@
     "lon": -70.9652587,
     "precision": "venue"
   },
+  "union brewhouse, weymouth": {
+    "display_name": "Union Brewhouse, 550, Washington Street, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.2058958,
+    "lon": -70.9540927,
+    "precision": "venue"
+  },
   "untold brewing, plymouth": {
     "display_name": "Loring Boulevard, Cordage, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02364, United States",
     "lat": 41.9782997,
@@ -2329,6 +2365,12 @@
     "lat": 42.2169437,
     "lon": -70.9665896,
     "precision": "venue"
+  },
+  "westport, ma": {
+    "display_name": "MA",
+    "lat": 42.3582529,
+    "lon": -71.0966272,
+    "precision": "town"
   },
   "weymouth pavilion, weymouth": {
     "display_name": "Weymouth",
