@@ -444,6 +444,11 @@
     "photo": "photos/5ec0121ad2ea.jpg",
     "website": "https://chestnutstreetgrille.com"
   },
+  "chestnut street grill|duxbury": {
+    "maps_url": "https://www.google.com/maps/search/Chestnut%20Street%20Grill%20Duxbury%20MA",
+    "photo": "photos/41f9c351688c.jpg",
+    "website": "https://chestnutstreetgrille.com"
+  },
   "cisco brewers|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Cisco%20Kitchen%20%26%20Bar%20New%20Bedford%20MA",
     "photo": "photos/3ef161b24e7a.jpg",
@@ -898,6 +903,11 @@
     "maps_url": "https://www.google.com/maps/search/Kilroy%20Square%20Farmers%20Market%20Quincy%20MA",
     "photo": null,
     "website": "https://kilroysquaremarkets.com"
+  },
+  "kilroy's ots|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Kilroy%27s%20OTS%20Quincy%20MA",
+    "photo": "photos/232d12c247c6.jpg",
+    "website": "https://kilroysots.bar"
   },
   "knuckleheads|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Knuckleheads%20New%20Bedford%20MA",
@@ -1729,6 +1739,11 @@
     "photo": "photos/a92c3cf2c826.jpg",
     "website": "https://steviegsrestaurant.com"
   },
+  "stoneforge grille|easton": {
+    "maps_url": "https://www.google.com/maps/search/Stoneforge%20Grille%20Easton%20MA",
+    "photo": "photos/a05ab1fc026e.jpg",
+    "website": "https://stoneforgegrill.com"
+  },
   "stoneforge grill|easton": {
     "maps_url": "https://www.google.com/maps/search/Stoneforge%20Grill%20Easton%20MA",
     "photo": "photos/35c106d8033e.jpg",
@@ -1778,6 +1793,11 @@
     "maps_url": "https://www.google.com/maps/search/Thayer%20Public%20Library%20Braintree%20MA",
     "photo": "photos/87af6a414a22.jpg",
     "website": "https://thayerpubliclibrary.org"
+  },
+  "the alibi|whitman": {
+    "maps_url": "https://www.google.com/maps/search/The%20Alibi%20Whitman%20MA",
+    "photo": null,
+    "website": null
   },
   "the beth kitchen & bar|hingham": {
     "maps_url": "https://www.google.com/maps/search/The%20Beth%20Kitchen%20%26%20Bar%20Hingham%20MA",

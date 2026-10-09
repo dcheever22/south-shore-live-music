@@ -492,6 +492,12 @@
     "lon": -71.0280111,
     "precision": "venue"
   },
+  "chestnut street grill, duxbury": {
+    "display_name": "8, Chestnut Street, Baileys Corner, South Duxbury, Duxbury, Plymouth County, Massachusetts, 02332, United States",
+    "lat": 42.0234951,
+    "lon": -70.6837306,
+    "precision": "venue"
+  },
   "chestnut street grille, duxbury": {
     "display_name": "8, Chestnut Street, Baileys Corner, South Duxbury, Duxbury, Plymouth County, Massachusetts, 02332, United States",
     "lat": 42.0234951,
@@ -1023,6 +1029,12 @@
     "display_name": "Kilroy Square, Quincy Center, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2485657,
     "lon": -71.0007486,
+    "precision": "venue"
+  },
+  "kilroy's ots, quincy": {
+    "display_name": "16;22;24, Cottage Avenue, Quincy Center, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2488616,
+    "lon": -71.0013976,
     "precision": "venue"
   },
   "knuckleheads, new bedford": {
@@ -1987,6 +1999,12 @@
     "lon": -71.085052,
     "precision": "venue"
   },
+  "stoneforge grille, easton": {
+    "display_name": "Easton",
+    "lat": 42.0245442,
+    "lon": -71.1286594,
+    "precision": "town"
+  },
   "stoneforge publick house, raynham": {
     "display_name": "90, Paramount Drive, Raynham, Bristol County, Massachusetts, 02767, United States",
     "lat": 41.9035363,
@@ -2034,6 +2052,12 @@
     "display_name": "Thayer Public Library, 798, Washington Street, South Braintree, Braintree, Norfolk County, Massachusetts, 02184, United States",
     "lat": 42.2056618,
     "lon": -71.0042666,
+    "precision": "venue"
+  },
+  "the alibi, whitman": {
+    "display_name": "546, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
+    "lat": 42.0797443,
+    "lon": -70.9374948,
     "precision": "venue"
   },
   "the beth kitchen & bar, hingham": {
