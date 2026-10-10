@@ -619,6 +619,11 @@
     "photo": "photos/6e88b5d99774.jpg",
     "website": "https://eastbaygrille.com"
   },
+  "east bridgewater commercial club|bridgewater": {
+    "maps_url": "https://www.google.com/maps/place/Commercial+Club-E+Bridgewater/@42.0386111,-70.9608333,17z/data=!3m1!4b1!4m6!3m5!1s0x89e49a8628d6efa7:0xb5326232a015b07f!8m2!3d42.0386111!4d-70.9608333!16s%2Fg%2F1tcw4n3d?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "photo": "photos/43b265b1b285.jpg",
+    "website": "https://ebcc.club"
+  },
   "emma's pub & pizza|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Emma%27s%20Pub%20%26%20Pizza%20Bridgewater%20MA",
     "photo": null,
@@ -1148,6 +1153,11 @@
     "maps_url": "https://www.google.com/maps/search/Mirbeau%20Inn%20Plymouth%20MA",
     "photo": null,
     "website": "https://plymouth.mirbeau.com"
+  },
+  "multiple performers at 3 locations (see post for details)|": {
+    "maps_url": null,
+    "photo": null,
+    "website": null
   },
   "nantasket beach|hull": {
     "maps_url": "https://www.google.com/maps/search/Nantasket%20Beach%20Hull%20MA",
@@ -1959,6 +1969,11 @@
     "photo": "photos/afce7c6f9ce2.jpg",
     "website": "https://tommydoylespub.com"
   },
+  "tommy doyle's sidelines|brockton": {
+    "maps_url": "https://www.google.com/maps/search/Tommy%20Doyle%27s%20Sidelines%20Brockton%20MA",
+    "photo": "photos/61476deb7f3c.jpg",
+    "website": "https://tommydoylespub.com"
+  },
   "tosca|hingham": {
     "maps_url": "https://www.google.com/maps/search/Tosca%20Hingham%20MA",
     "photo": "photos/3877422b8f25.jpg",
@@ -1998,6 +2013,11 @@
     "maps_url": "https://www.google.com/maps/search/Tufts%20Library%20Weymouth%20MA",
     "photo": "photos/7d3ffc78fc85.jpg",
     "website": "https://weymouth.ma.us"
+  },
+  "type one fitness|norwell": {
+    "maps_url": "https://www.google.com/maps/place/Type+One+Fitness/@42.1584367,-70.8595611,17z/data=!3m1!4b1!4m6!3m5!1s0x89e49f92f839f731:0x7d7f299cc0098669!8m2!3d42.1584367!4d-70.8595611!16s%2Fg%2F11tjscbbtb?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+    "photo": "photos/f7ce22186980.jpg",
+    "website": "https://typeonefitness.org"
   },
   "union brewhouse|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Union%20Brewhouse%20Weymouth%20MA",

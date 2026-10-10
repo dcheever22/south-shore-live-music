@@ -698,6 +698,12 @@
     "lon": -70.6683647,
     "precision": "venue"
   },
+  "east bridgewater commercial club, bridgewater": {
+    "display_name": "Bridgewater",
+    "lat": 41.9902206,
+    "lon": -70.9754432,
+    "precision": "town"
+  },
   "emma's pub & pizza, bridgewater": {
     "display_name": "Bridgewater",
     "lat": 41.9902206,
@@ -1315,6 +1321,7 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "multiple performers at 3 locations (see post for details), none": null,
   "nantasket beach, hull": {
     "display_name": "Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2777675,
@@ -2252,6 +2259,12 @@
     "lon": -71.0096027,
     "precision": "venue"
   },
+  "tommy doyle's sidelines, brockton": {
+    "display_name": "235;237;243;245, East Ashland Street, Brockton, Plymouth County, Massachusetts, 02402, United States",
+    "lat": 42.0953949,
+    "lon": -71.0096027,
+    "precision": "venue"
+  },
   "tosca, hingham": {
     "display_name": "Hingham",
     "lat": 42.2417669,
@@ -2298,6 +2311,12 @@
     "display_name": "Tufts Library, 46, Broad Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2157114,
     "lon": -70.9652587,
+    "precision": "venue"
+  },
+  "type one fitness, norwell": {
+    "display_name": "386, Washington Street, Assinippi, Brantwood Manor, Norwell, Plymouth County, Massachusetts, 02239, United States",
+    "lat": 42.1584019,
+    "lon": -70.8595875,
     "precision": "venue"
   },
   "union brewhouse, weymouth": {
