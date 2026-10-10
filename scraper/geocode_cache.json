@@ -48,6 +48,12 @@
     "lon": -70.7720353,
     "precision": "venue"
   },
+  "3 sips brewing, carver": {
+    "display_name": "145, South Main Street, South Carver, Carver, Plymouth County, Massachusetts, 02330, United States",
+    "lat": 41.8379077,
+    "lon": -70.7505194,
+    "precision": "venue"
+  },
   "30 washburn lane, marion": {
     "display_name": "30, Washburn Lane, Marion, Plymouth County, Massachusetts, 02738, United States",
     "lat": 41.7197952,
@@ -758,6 +764,12 @@
     "lon": -70.7304438,
     "precision": "venue"
   },
+  "fowler house, quincy": {
+    "display_name": "1049, Hancock Street, Quincy Center, Merrymount, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2563901,
+    "lon": -71.0074849,
+    "precision": "venue"
+  },
   "fuel america, weymouth": {
     "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2174129,
@@ -858,6 +870,12 @@
     "display_name": "109;111;113, Front Street, Second Cliff, Scituate, Plymouth County, Massachusetts, 02066, United States",
     "lat": 42.1952077,
     "lon": -70.725272,
+    "precision": "venue"
+  },
+  "hillside johnny's, norton": {
+    "display_name": "336, Old Colony Road, Chartley, Norton, Bristol County, Massachusetts, 02766, United States",
+    "lat": 41.9497897,
+    "lon": -71.2302149,
     "precision": "venue"
   },
   "hilltop athletic club, none": null,
@@ -2305,6 +2323,12 @@
     "display_name": "Union Fish Seafood & Raw Bar, 23, Shipyard Drive, The Launch at Hingham Shipyard, Old Spain, Hingham, Plymouth County, Massachusetts, 02043, United States",
     "lat": 42.2520587,
     "lon": -70.9220739,
+    "precision": "venue"
+  },
+  "trillium brewery, canton": {
+    "display_name": "Trillium Brewing, 100;104, Royall Street, Canton, Norfolk County, Massachusetts, 02021, United States",
+    "lat": 42.2051915,
+    "lon": -71.1223749,
     "precision": "venue"
   },
   "tufts library, weymouth": {

@@ -44,6 +44,11 @@
     "photo": "photos/b1d95f95732c.jpg",
     "website": "https://soundcheck-studios.com"
   },
+  "3 sips brewing|carver": {
+    "maps_url": "https://www.google.com/maps/search/3%20Sips%20Brewing%20Carver%20MA",
+    "photo": "photos/fe33b9a06a3e.jpg",
+    "website": "https://threesipsbrewco.com"
+  },
   "30 washburn lane|marion": {
     "maps_url": "https://www.google.com/maps/search/30%20Washburn%20Lane%20Marion%20MA",
     "photo": "photos/2e06e14c8162.jpg",
@@ -669,6 +674,11 @@
     "photo": "photos/d0e3d71a5ce1.jpg",
     "website": "https://fortysecondbrewco.com"
   },
+  "fowler house|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Fowler%20House%20Quincy%20MA",
+    "photo": null,
+    "website": "https://thefowlerhousecafe.com"
+  },
   "fuel america|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Fuel%20America%20Weymouth%20MA",
     "photo": "photos/054dc35f2ef4.jpg",
@@ -753,6 +763,11 @@
     "maps_url": "https://www.google.com/maps/search/Hibernian%20Tavern%20Scituate%20MA",
     "photo": "photos/4f1df7a9aeaa.jpg",
     "website": "https://hiberniantavern.com"
+  },
+  "hillside johnny's|norton": {
+    "maps_url": "https://www.google.com/maps/search/Hillside%20Johnny%27s%20Norton%20MA",
+    "photo": "photos/77a80870932e.jpg",
+    "website": "https://hillsidejohnnys.com"
   },
   "hilltop athletic club|": {
     "maps_url": "https://www.google.com/maps/search/Hilltop%20Athletic%20Club%20%20MA",
@@ -2008,6 +2023,11 @@
     "maps_url": "https://www.google.com/maps/search/Trident%20Galley%20%26%20Raw%20Bar%20Hingham%20MA",
     "photo": "photos/b3289d8a1351.jpg",
     "website": "https://tridentrawbar.com"
+  },
+  "trillium brewery|canton": {
+    "maps_url": "https://www.google.com/maps/search/Trillium%20Brewery%20Canton%20MA",
+    "photo": "photos/c57008437d66.jpg",
+    "website": "https://trilliumbrewing.com"
   },
   "tufts library|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Tufts%20Library%20Weymouth%20MA",
