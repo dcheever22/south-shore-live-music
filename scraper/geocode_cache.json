@@ -30,6 +30,12 @@
     "lon": -70.7037781,
     "precision": "venue"
   },
+  "200 center st, plympton": {
+    "display_name": "200, Center Street, Plympton, Plymouth County, Massachusetts, 02367, United States",
+    "lat": 41.9669525,
+    "lon": -70.8411266,
+    "precision": "venue"
+  },
   "21+ soundcheck studios, pembroke": {
     "display_name": "150, Corporate Park Drive, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.1012694,
