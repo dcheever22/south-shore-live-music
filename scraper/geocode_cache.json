@@ -807,6 +807,12 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "gillis tavern, plymouth": {
+    "display_name": "8;10;12;14;16;18;22, Main Street Extension, Bradford-Union Street Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9554268,
+    "lon": -70.6632924,
+    "precision": "venue"
+  },
   "glen cove hotel, onset": {
     "display_name": "167, Onset Avenue, Onset, Wareham, Plymouth County, Massachusetts, 02538, United States",
     "lat": 41.7424064,
