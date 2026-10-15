@@ -145,6 +145,12 @@
     "lon": -70.9432528,
     "precision": "venue"
   },
+  "alumni, pembroke": {
+    "display_name": "95, Washington Street, North Pembroke, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.1032315,
+    "lon": -70.8033487,
+    "precision": "venue"
+  },
   "amvets post fall river, fall river": {
     "display_name": "659, Brayton Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
     "lat": 41.7318981,
@@ -474,6 +480,7 @@
     "lon": -71.1683318,
     "precision": "venue"
   },
+  "canton american legion, none": null,
   "captain\u2019s hideaway, cohasset": {
     "display_name": "Cohasset",
     "lat": 42.2410158,

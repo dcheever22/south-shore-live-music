@@ -129,6 +129,11 @@
     "photo": "photos/e34054a07543.jpg",
     "website": "https://alumnipizzaweymouth.com"
   },
+  "alumni|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/Alumni%20Pembroke%20MA",
+    "photo": null,
+    "website": "https://alumnisportscafe.org"
+  },
   "amvets post fall river|fall river": {
     "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
     "photo": "photos/37e831df34bb.jpg",
@@ -423,6 +428,11 @@
     "maps_url": "https://www.google.com/maps/search/Canned%20Heat%20Fall%20River%20MA",
     "photo": "photos/c21b38d800a5.jpg",
     "website": "https://cannedheatcraftbeer.com"
+  },
+  "canton american legion|": {
+    "maps_url": "https://www.google.com/maps/place/American+Legion/@42.1640951,-71.1461099,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4811dc215d157:0xe754611eb776799d!8m2!3d42.1640951!4d-71.1461099!16s%2Fg%2F1tdgwdtv?entry=ttu&g_ep=EgoyMDI2MTAxMi4wIKXMDSoASAFQAw%3D%3D",
+    "photo": "photos/f7426c80fba8.jpg",
+    "website": "https://legion.org"
   },
   "captain\u2019s hideaway|cohasset": {
     "maps_url": "https://www.google.com/maps/search/Captain%E2%80%99s%20Hideaway%20Cohasset%20MA",
