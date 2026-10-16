@@ -692,6 +692,12 @@
     "lon": -71.0082684,
     "precision": "venue"
   },
+  "donahue\u2019s, holbrook": {
+    "display_name": "777;779;781;783;785, South Franklin Street, Brookville, Holbrook, Norfolk County, Massachusetts, 02343, United States",
+    "lat": 42.1293826,
+    "lon": -71.0082684,
+    "precision": "venue"
+  },
   "downtown public house, norton": {
     "display_name": "Norton",
     "lat": 41.9670616,
@@ -871,6 +877,12 @@
     "display_name": "Hanover Crossing, Hanover, Plymouth County, Massachusetts, United States",
     "lat": 42.1454797,
     "lon": -70.8419102,
+    "precision": "venue"
+  },
+  "harmon golf, rockland": {
+    "display_name": "Harmon Golf and Fitness Club, Heritage Drive, Rockland, Plymouth County, Massachusetts, 02371, United States",
+    "lat": 42.1189096,
+    "lon": -70.9023239,
     "precision": "venue"
   },
   "harper lane brewery, middleboro": {

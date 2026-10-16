@@ -614,6 +614,11 @@
     "photo": "photos/4f1accb78339.jpg",
     "website": "https://donahuespub.com"
   },
+  "donahue\u2019s|holbrook": {
+    "maps_url": "https://www.google.com/maps/search/Donahue%E2%80%99s%20Holbrook%20MA",
+    "photo": null,
+    "website": "https://donahuespub.com"
+  },
   "downtown public house|norton": {
     "maps_url": "https://www.google.com/maps/search/Downtown%20Public%20House%20Norton%20MA",
     "photo": "photos/9ffe074db895.jpg",
@@ -768,6 +773,11 @@
     "maps_url": "https://www.google.com/maps/search/Hanover%20Crossing%20Hanover%20MA",
     "photo": "photos/a024f11cb68a.jpg",
     "website": "https://thehanovercrossing.com"
+  },
+  "harmon golf|rockland": {
+    "maps_url": "https://www.google.com/maps/search/Harmon%20Golf%20Rockland%20MA",
+    "photo": null,
+    "website": null
   },
   "harper lane brewery|middleboro": {
     "maps_url": "https://www.google.com/maps/search/Harper%20Lane%20Brewery%20Middleboro%20MA",
