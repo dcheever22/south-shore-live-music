@@ -795,6 +795,12 @@
     "lon": -71.0074849,
     "precision": "venue"
   },
+  "fox & hound, quincy": {
+    "display_name": "Fox and Hound Wood Grill and Tavern, Sea Street, Merrymount, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.259635,
+    "lon": -70.9948066,
+    "precision": "venue"
+  },
   "fuel america, weymouth": {
     "display_name": "143, Washington Street, Weymouth Landing, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.2174129,
@@ -1552,6 +1558,12 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "pioneer flying club, taunton": {
+    "display_name": "330, Whittenton Street, Whittenton, Britanniaville, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.9231544,
+    "lon": -71.1021362,
+    "precision": "venue"
+  },
   "players, rockland": {
     "display_name": "86, Veterans of Foreign Wars Drive, Hatherly, Rockland, Plymouth County, Massachusetts, 02370, United States",
     "lat": 42.1472079,
@@ -1745,6 +1757,12 @@
     "display_name": "94, Front Street, New Bedford, Bristol County, Massachusetts, 02740, United States",
     "lat": 41.6350396,
     "lon": -70.921958,
+    "precision": "venue"
+  },
+  "rose alley, new bedford": {
+    "display_name": "Rose Alley, New Bedford, Bristol County, Massachusetts, 02740, United States",
+    "lat": 41.6349475,
+    "lon": -70.9222904,
     "precision": "venue"
   },
   "ruth gordon amphitheater, hingham shipyard": {
@@ -2080,6 +2098,12 @@
     "precision": "venue"
   },
   "stoughton lions club, none": null,
+  "suncrafted dispensary, middleboro": {
+    "display_name": "477, Wareham Street, South Middleboro, Middleborough, Plymouth County, Massachusetts, 02346, United States",
+    "lat": 41.8410711,
+    "lon": -70.8395123,
+    "precision": "venue"
+  },
   "surfside smokehouse, plymouth": {
     "display_name": "14 Union Street, Plymouth, MA 02360",
     "lat": 41.955785,
@@ -2517,6 +2541,12 @@
     "display_name": "340, Oak Street, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.1052134,
     "lon": -70.7693719,
+    "precision": "venue"
+  },
+  "x golf, hanover": {
+    "display_name": "1207, Washington Street, Hanover, Plymouth County, Massachusetts, 02339, United States",
+    "lat": 42.1382659,
+    "lon": -70.8409521,
     "precision": "venue"
   }
 }

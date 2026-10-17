@@ -704,6 +704,11 @@
     "photo": null,
     "website": "https://thefowlerhousecafe.com"
   },
+  "fox & hound|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Fox%20%26%20Hound%20Quincy%20MA",
+    "photo": null,
+    "website": "https://foxandhoundquincy.com"
+  },
   "fuel america|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Fuel%20America%20Weymouth%20MA",
     "photo": "photos/054dc35f2ef4.jpg",
@@ -1359,6 +1364,11 @@
     "photo": null,
     "website": null
   },
+  "pioneer flying club|taunton": {
+    "maps_url": "https://www.google.com/maps/search/Pioneer%20Flying%20Club%20Taunton%20MA",
+    "photo": null,
+    "website": null
+  },
   "players|rockland": {
     "maps_url": "https://www.google.com/maps/search/Players%20Rockland%20MA",
     "photo": "photos/fd6bbd60e563.jpg",
@@ -1533,6 +1543,11 @@
     "maps_url": "https://www.google.com/maps/search/Rose%20Alley%20Alehouse%20New%20Bedford%20MA",
     "photo": "photos/4c7472671d87.jpg",
     "website": "https://drinkrosealley.com"
+  },
+  "rose alley|new bedford": {
+    "maps_url": "https://www.google.com/maps/search/Rose%20Alley%20New%20Bedford%20MA",
+    "photo": null,
+    "website": null
   },
   "ruth gordon amphitheater|hingham shipyard": {
     "maps_url": "https://www.google.com/maps/search/Ruth%20Gordon%20Amphitheater%20Hingham%20Shipyard%20MA",
@@ -1823,6 +1838,11 @@
     "maps_url": "https://www.google.com/maps/search/Raynham%20Lions%20Club%20%20MA",
     "photo": "photos/d9eb1497758a.jpg",
     "website": null
+  },
+  "suncrafted dispensary|middleboro": {
+    "maps_url": "https://www.google.com/maps/search/Suncrafted%20Dispensary%20Middleboro%20MA",
+    "photo": null,
+    "website": "https://suncraftedma.com"
   },
   "surfside smokehouse|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Surfside%20Smokehouse%20Plymouth%20MA",
@@ -2193,5 +2213,10 @@
     "maps_url": "https://www.google.com/maps/search/Wolves%20Den%20Pembroke%20MA",
     "photo": "photos/87c8eb5a2f42.jpg",
     "website": "https://wolvesdenpembroke.com"
+  },
+  "x golf|hanover": {
+    "maps_url": "https://www.google.com/maps/search/X%20Golf%20Hanover%20MA",
+    "photo": null,
+    "website": "https://xgolfhanover.com"
   }
 }
