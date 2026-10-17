@@ -903,6 +903,12 @@
     "lon": -70.9075788,
     "precision": "venue"
   },
+  "harper lane, middleboro": {
+    "display_name": "Harper Lane, Middleborough, Plymouth County, Massachusetts, 02346, United States",
+    "lat": 41.85523,
+    "lon": -70.8911665,
+    "precision": "venue"
+  },
   "heritage hill golf, lakeville": {
     "display_name": "The Back Nine Club, 17, Heritage Hill Drive, Lakeville, Plymouth County, Massachusetts, 02347, United States",
     "lat": 41.8396009,
@@ -1012,6 +1018,12 @@
     "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
     "lat": 42.1061845,
     "lon": -71.0762816,
+    "precision": "venue"
+  },
+  "j&r's indian head, hanson": {
+    "display_name": "278, Main Street, Bryantville, Hanson, Plymouth County, Massachusetts, 02350, United States",
+    "lat": 42.0428835,
+    "lon": -70.8524432,
     "precision": "venue"
   },
   "j&rs indian head, hanson": {
@@ -1517,6 +1529,12 @@
     "precision": "town"
   },
   "pete's grill, quincy": {
+    "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2435805,
+    "lon": -70.9760563,
+    "precision": "venue"
+  },
+  "pete's grille, quincy": {
     "display_name": "540, South Street, Quincy Neck, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2435805,
     "lon": -70.9760563,

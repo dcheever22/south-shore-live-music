@@ -794,6 +794,11 @@
     "photo": "photos/17126264d272.jpg",
     "website": "https://harperlanebrewery.com"
   },
+  "harper lane|middleboro": {
+    "maps_url": "https://www.google.com/maps/place/Harper+Ln,+Middleborough,+MA+02346/@41.8556696,-70.8907004,17z/data=!3m1!4b1!4m6!3m5!1s0x89e4eb45881269cf:0xdaec79c399aa47ac!8m2!3d41.8556696!4d-70.8907004!16s%2Fg%2F1vvr76pt?entry=ttu&g_ep=EgoyMDI2MTAxMy4wIKXMDSoASAFQAw%3D%3D",
+    "photo": null,
+    "website": null
+  },
   "heritage hill golf|lakeville": {
     "maps_url": "https://www.google.com/maps/search/Heritage%20Hill%20Golf%20Lakeville%20MA",
     "photo": "photos/5f056b8fae0e.jpg",
@@ -893,6 +898,11 @@
     "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Pub%20Stoughton%20MA",
     "photo": "photos/3db1a61eaaad.jpg",
     "website": "https://jghillsidegrill.com"
+  },
+  "j&r's indian head|hanson": {
+    "maps_url": "https://www.google.com/maps/search/J%26R%27s%20Indian%20Head%20Hanson%20MA",
+    "photo": null,
+    "website": null
   },
   "j&rs indian head|hanson": {
     "maps_url": "https://www.google.com/maps/search/J%26Rs%20Indian%20Head%20Hanson%20MA",
@@ -1328,6 +1338,11 @@
     "maps_url": "https://www.google.com/maps/search/Pembroke%20Community%20Center%20Town%20Green%20MA",
     "photo": "photos/0d2e4539bf8a.jpg",
     "website": "https://pembroke-ma.gov"
+  },
+  "pete's grille|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Pete%27s%20Grille%20Quincy%20MA",
+    "photo": null,
+    "website": null
   },
   "pete's grill|quincy": {
     "maps_url": "https://www.google.com/maps/search/Pete%27s%20Grill%20Quincy%20MA",
