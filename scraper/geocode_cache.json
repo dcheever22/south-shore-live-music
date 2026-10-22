@@ -1576,6 +1576,12 @@
     "lon": -70.7618592,
     "precision": "town"
   },
+  "pillory pub, plymou": {
+    "display_name": "72, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9586828,
+    "lon": -70.6629005,
+    "precision": "venue"
+  },
   "pillory pub, plymouth": {
     "display_name": "Pillory Pub, 72, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9587447,
