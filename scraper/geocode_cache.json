@@ -1474,6 +1474,12 @@
     "lon": -70.8835617,
     "precision": "venue"
   },
+  "olde itching post, hanson": {
+    "display_name": "The Olde Hitching Post, 48, Spring Street, Coxs Corner, Hanson, Plymouth County, Massachusetts, 02341, United States",
+    "lat": 42.0757777,
+    "lon": -70.8835617,
+    "precision": "venue"
+  },
   "on beach across from clam box, quincy": {
     "display_name": "The Clam Box, 789, Quincy Shore Drive, North Quincy, Quincy, Norfolk County, Massachusetts, 02170, United States",
     "lat": 42.2762908,
@@ -1835,6 +1841,12 @@
     "display_name": "The Sail Loft, 246, Elm Street, South Dartmouth, Dartmouth, Bristol County, Massachusetts, 02748, United States",
     "lat": 41.5863917,
     "lon": -70.9435243,
+    "precision": "venue"
+  },
+  "salt marsh bistro & bar, scituate": {
+    "display_name": "Twice the Ice, 17, New Driftway, Greenbush, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.1772729,
+    "lon": -70.7482036,
     "precision": "venue"
   },
   "salt marsh winery, scituate": {

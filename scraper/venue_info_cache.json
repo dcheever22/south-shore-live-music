@@ -1294,6 +1294,11 @@
     "photo": "photos/4ec67ed76bc2.jpg",
     "website": "https://oldehp.com"
   },
+  "olde itching post|hanson": {
+    "maps_url": "https://www.google.com/maps/search/Olde%20itching%20Post%20Hanson%20MA",
+    "photo": null,
+    "website": "https://oldehp.com"
+  },
   "on beach across from clam box|quincy": {
     "maps_url": "https://www.google.com/maps/search/The%20Clam%20Box%20Quincy%20MA",
     "photo": "photos/a1fa5bfc3aac.jpg",
@@ -1608,6 +1613,11 @@
     "maps_url": "https://www.google.com/maps/search/Sail%20Loft%20Dartmouth%20MA",
     "photo": "photos/19f5242bf510.jpg",
     "website": "https://thesailloftdartmouth.com"
+  },
+  "salt marsh bistro & bar|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Salt%20Marsh%20Bistro%20%26%20Bar%20Scituate%20MA",
+    "photo": null,
+    "website": "https://thesaltmarshbistroandbar.com"
   },
   "salt marsh winery|scituate": {
     "maps_url": "https://www.google.com/maps/search/Salt%20Marsh%20Winery%20Scituate%20MA",
