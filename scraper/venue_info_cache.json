@@ -419,6 +419,11 @@
     "photo": null,
     "website": "https://cagneyspubquincyma.com"
   },
+  "cagney's|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/Cagney%27s%20Weymouth%20MA",
+    "photo": null,
+    "website": "https://cagneyspubquincyma.com"
+  },
   "california underground|hull": {
     "maps_url": "https://www.google.com/maps/search/California%20Underground%20Hull%20MA",
     "photo": "photos/0cbd384754cd.jpg",
@@ -583,6 +588,11 @@
     "maps_url": "https://www.google.com/maps/search/D%27Ann%27s%20Restaurant%20Abington%20MA",
     "photo": "photos/8d582d7f0932.jpg",
     "website": "https://dannsabington.com"
+  },
+  "daddy's beach club|hull": {
+    "maps_url": "https://www.google.com/maps/search/Daddy%27s%20Beach%20Club%20Hull%20MA",
+    "photo": null,
+    "website": "https://daddysbeachclub.com"
   },
   "daddy's|hull": {
     "maps_url": "https://www.google.com/maps/search/Daddy%27s%20Hull%20MA",
@@ -1984,6 +1994,11 @@
     "photo": "photos/a56438f8e4a8.jpg",
     "website": "https://themallardsomerset.square.site"
   },
+  "the parot|hull": {
+    "maps_url": "https://www.google.com/maps/search/The%20Parot%20Hull%20MA",
+    "photo": null,
+    "website": "https://theparrothull.com"
+  },
   "the parrot|hull": {
     "maps_url": "https://www.google.com/maps/search/The%20Parrot%20Hull%20MA",
     "photo": "photos/512c26e80f5b.jpg",
@@ -2167,6 +2182,11 @@
   "voyage|humarock": {
     "maps_url": "https://www.google.com/maps/search/Voyage%20Humarock%20MA",
     "photo": "photos/2edb85750f4c.jpg",
+    "website": "https://thevoyagehumarock.com"
+  },
+  "voyage|marshfield": {
+    "maps_url": "https://www.google.com/maps/search/Voyage%20Marshfield%20MA",
+    "photo": null,
     "website": "https://thevoyagehumarock.com"
   },
   "w. bridgewater|": {

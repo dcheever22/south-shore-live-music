@@ -473,6 +473,12 @@
     "lon": -70.9941729,
     "precision": "venue"
   },
+  "cagney's, weymouth": {
+    "display_name": "208;210;214, Washington Street, Quincy Center, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2502526,
+    "lon": -70.9941729,
+    "precision": "venue"
+  },
   "california underground, hull": {
     "display_name": "257, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2730193,
@@ -654,6 +660,12 @@
     "display_name": "340, Centre Avenue, Abington, Plymouth County, Massachusetts, 02351, United States",
     "lat": 42.1105064,
     "lon": -70.9318714,
+    "precision": "venue"
+  },
+  "daddy's beach club, hull": {
+    "display_name": "280, Nantasket Avenue, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2741274,
+    "lon": -70.8608715,
     "precision": "venue"
   },
   "daddy's, hull": {
@@ -2272,6 +2284,12 @@
     "lon": -71.144034,
     "precision": "venue"
   },
+  "the parot, hull": {
+    "display_name": "The Parrot, 1, Hull Shore Drive, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
+    "lat": 42.2735367,
+    "lon": -70.8601111,
+    "precision": "venue"
+  },
   "the parrot, hull": {
     "display_name": "The Parrot, 1, Hull Shore Drive, Atlantic, Nantasket Beach, Hull, Plymouth County, Massachusetts, 02045, United States",
     "lat": 42.2735367,
@@ -2490,6 +2508,12 @@
   },
   "voyage, humarock": {
     "display_name": "The Voyage, 14, Marshfield Avenue, Humarock, Scituate, Plymouth County, Massachusetts, 02047, United States",
+    "lat": 42.1382843,
+    "lon": -70.6911511,
+    "precision": "venue"
+  },
+  "voyage, marshfield": {
+    "display_name": "The Voyage, Marshfield Avenue, Humarock, Scituate, Plymouth County, Massachusetts, 02047, United States",
     "lat": 42.1382843,
     "lon": -70.6911511,
     "precision": "venue"
