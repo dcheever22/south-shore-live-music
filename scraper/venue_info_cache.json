@@ -194,6 +194,11 @@
     "photo": null,
     "website": "https://townofmilton.org"
   },
+  "barrett's alehouse|bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20MA",
+    "photo": null,
+    "website": "https://barrettsalehouse.com"
+  },
   "barrett's waterfront|fall river": {
     "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Waterfront%20Fall%20River%20MA",
     "photo": "photos/2cead89d7baf.jpg",

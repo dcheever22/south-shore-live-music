@@ -218,6 +218,12 @@
     "lon": -71.079731,
     "precision": "venue"
   },
+  "barrett's alehouse, bridgewater": {
+    "display_name": "Barrett\u2019s Alehouse - West Bridgewater, 674, West Center Street, Cochesett, West Bridgewater, Plymouth County, Massachusetts, 02379, United States",
+    "lat": 42.0113304,
+    "lon": -71.0488419,
+    "precision": "venue"
+  },
   "barrett's waterfront, fall river": {
     "display_name": "Barrett's Waterfront, 1082, Davol Street, Fall River Station, Fall River, Bristol County, Massachusetts, 02722, United States",
     "lat": 41.718393,
