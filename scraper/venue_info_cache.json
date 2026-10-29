@@ -454,6 +454,11 @@
     "photo": "photos/bef54bce04e9.jpg",
     "website": "https://captainshideaway.com"
   },
+  "cave, red lion inn|cohasset": {
+    "maps_url": "https://www.google.com/maps/search/Cave%2C%20Red%20Lion%20Inn%20Cohasset%20MA",
+    "photo": null,
+    "website": "https://redlioninn1704.com"
+  },
   "cedar center|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Cedar%20Center%20Bridgewater%20MA",
     "photo": "photos/95ef2723885c.jpg",
@@ -1073,6 +1078,11 @@
     "maps_url": "https://www.google.com/maps/search/Lorenzo%E2%80%99s%20Middleboro%20MA",
     "photo": "photos/8274f1deaf42.jpg",
     "website": "https://lorenzos.net"
+  },
+  "lucca south shore|rockland": {
+    "maps_url": "https://www.google.com/maps/search/Lucca%20South%20Shore%20Rockland%20MA",
+    "photo": null,
+    "website": "https://luccasouthshore.com"
   },
   "lucca|hingham": {
     "maps_url": "https://www.google.com/maps/search/Lucca%20Hingham%20MA",
@@ -2227,6 +2237,11 @@
   "washington no. 7|norwood": {
     "maps_url": "https://www.google.com/maps/search/Washington%20No.%207%20Norwood%20MA",
     "photo": "photos/6cd823059e1a.jpg",
+    "website": "https://washingtonno7.com"
+  },
+  "washington no.7|norwood": {
+    "maps_url": "https://www.google.com/maps/search/Washington%20No.7%20Norwood%20MA",
+    "photo": null,
     "website": "https://washingtonno7.com"
   },
   "washington no7|norwood": {
