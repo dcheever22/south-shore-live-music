@@ -572,6 +572,7 @@
     "lon": -70.8026292,
     "precision": "venue"
   },
+  "comfort zone": null,
   "comfort zone, somerset": {
     "display_name": "1525, Riverside Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
     "lat": 41.7349919,
@@ -1051,6 +1052,12 @@
     "precision": "venue"
   },
   "j&r's indian head, hanson": {
+    "display_name": "278, Main Street, Bryantville, Hanson, Plymouth County, Massachusetts, 02350, United States",
+    "lat": 42.0428835,
+    "lon": -70.8524432,
+    "precision": "venue"
+  },
+  "j&r's, hanson": {
     "display_name": "278, Main Street, Bryantville, Hanson, Plymouth County, Massachusetts, 02350, United States",
     "lat": 42.0428835,
     "lon": -70.8524432,
@@ -2655,6 +2662,12 @@
     "display_name": "1207, Washington Street, Hanover, Plymouth County, Massachusetts, 02339, United States",
     "lat": 42.1382659,
     "lon": -70.8409521,
+    "precision": "venue"
+  },
+  "x-golf, hanover": {
+    "display_name": "Aspen Dental, 1207, Washington Street, Hanover, Plymouth County, Massachusetts, 02339, United States",
+    "lat": 42.1380079,
+    "lon": -70.8413948,
     "precision": "venue"
   }
 }

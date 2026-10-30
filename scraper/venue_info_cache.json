@@ -514,6 +514,11 @@
     "photo": null,
     "website": "https://cohassetma.org"
   },
+  "comfort zone|": {
+    "maps_url": "https://www.google.com/maps/search/Comfort%20Zone%20%20MA",
+    "photo": null,
+    "website": "https://comfortzonesomerset.com"
+  },
   "comfort zone|somerset": {
     "maps_url": "https://www.google.com/maps/search/Comfort%20Zone%20Somerset%20MA",
     "photo": "photos/35256322d760.jpg",
@@ -926,6 +931,11 @@
   },
   "j&r's indian head|hanson": {
     "maps_url": "https://www.google.com/maps/search/J%26R%27s%20Indian%20Head%20Hanson%20MA",
+    "photo": null,
+    "website": null
+  },
+  "j&r's|hanson": {
+    "maps_url": "https://www.google.com/maps/search/J%26R%27s%20Hanson%20MA",
     "photo": null,
     "website": null
   },
@@ -2306,6 +2316,11 @@
   },
   "x golf|hanover": {
     "maps_url": "https://www.google.com/maps/search/X%20Golf%20Hanover%20MA",
+    "photo": null,
+    "website": "https://xgolfhanover.com"
+  },
+  "x-golf|hanover": {
+    "maps_url": "https://www.google.com/maps/search/X-Golf%20Hanover%20MA",
     "photo": null,
     "website": "https://xgolfhanover.com"
   }
