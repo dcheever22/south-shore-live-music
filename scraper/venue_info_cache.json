@@ -44,6 +44,11 @@
     "photo": "photos/410a5938a7ac.jpg",
     "website": "https://cnotehull.com"
   },
+  "21+, pillory pub|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/21%2B%2C%20Pillory%20Pub%20Plymouth%20MA",
+    "photo": null,
+    "website": "https://pillorypub.com"
+  },
   "21+, soundcheck studios|pembroke": {
     "maps_url": "https://www.google.com/maps/search/21%2B%2C%20SoundCheck%20Studios%20Pembroke%20MA",
     "photo": "photos/b1d95f95732c.jpg",
@@ -196,6 +201,11 @@
   },
   "barrett's alehouse|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20MA",
+    "photo": null,
+    "website": "https://barrettsalehouse.com"
+  },
+  "barrett's alehouse|w. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20West%20Bridgewater%20W.%20Bridgewater%20MA",
     "photo": null,
     "website": "https://barrettsalehouse.com"
   },
@@ -1019,6 +1029,11 @@
     "photo": "photos/232d12c247c6.jpg",
     "website": "https://kilroysots.bar"
   },
+  "knuckleheads|new bedfor": {
+    "maps_url": "https://www.google.com/maps/search/Knuckleheads%20New%20Bedfor%20MA",
+    "photo": null,
+    "website": "https://knuckleheadsnb.com"
+  },
   "knuckleheads|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Knuckleheads%20New%20Bedford%20MA",
     "photo": "photos/bac8fe04995c.png",
@@ -1288,6 +1303,11 @@
     "maps_url": "https://www.google.com/maps/search/New%20Bedford%20Whaling%20Museum%20New%20Bedford%20MA",
     "photo": "photos/87c44aa75d11.jpg",
     "website": "https://whalingmuseum.org"
+  },
+  "next page, weymouth|7-10": {
+    "maps_url": "https://www.google.com/maps/search/Next%20Page%2C%20Weymouth%207-10%20MA",
+    "photo": null,
+    "website": "https://thenextpagecafe.com"
   },
   "next page|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Next%20Page%20Weymouth%20MA",
