@@ -2056,6 +2056,12 @@
     "lon": -71.103086,
     "precision": "venue"
   },
+  "shoveltown brewery, easton": {
+    "display_name": "50, Oliver Street, North Easton, Easton, Bristol County, Massachusetts, 02356, United States",
+    "lat": 42.0710969,
+    "lon": -71.103086,
+    "precision": "venue"
+  },
   "sip 1620 wine bar, plymouth": {
     "display_name": "1620 Winery Wine Bar, 170, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9624276,
@@ -2673,6 +2679,12 @@
     "display_name": "Weymouth Town Hall, 75, Middle Street, Weymouth Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
     "lat": 42.2219685,
     "lon": -70.9391359,
+    "precision": "venue"
+  },
+  "weymouth-braintree elks, braintree": {
+    "display_name": "Braintree DAV Chapter 29, 788, Liberty Street, Braintree, Norfolk County, Massachusetts, 02184, United States",
+    "lat": 42.1953291,
+    "lon": -70.9833042,
     "precision": "venue"
   },
   "whitman town park, none": null,

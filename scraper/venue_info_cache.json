@@ -1804,6 +1804,11 @@
     "photo": "photos/f5e28182435e.jpg",
     "website": "https://shoveltownbrewery.com"
   },
+  "shoveltown brewery|easton": {
+    "maps_url": "https://www.google.com/maps/search/Shoveltown%20Brewery%20Easton%20MA",
+    "photo": null,
+    "website": "https://shoveltownbrewery.com"
+  },
   "sip 1620 wine bar|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Sip%201620%20Wine%20Bar%20Plymouth%20MA",
     "photo": "photos/0ebca61e839f.jpg",
@@ -2323,6 +2328,11 @@
     "maps_url": "https://www.google.com/maps/search/Weymouth%20Town%20Hall%20Weymouth%20MA",
     "photo": "photos/49100e92e99e.jpg",
     "website": "https://weymouth.ma.us"
+  },
+  "weymouth-braintree elks|braintree": {
+    "maps_url": "https://www.google.com/maps/search/Weymouth-Braintree%20Elks%20Braintree%20MA",
+    "photo": null,
+    "website": null
   },
   "whitman town park|": {
     "maps_url": "https://www.google.com/maps/search/Whitman%20Town%20Park%20%20MA",
