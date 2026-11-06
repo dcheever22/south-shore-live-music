@@ -139,6 +139,11 @@
     "photo": null,
     "website": "https://alumnisportscafe.org"
   },
+  "american legion 24|canton": {
+    "maps_url": "https://www.google.com/maps/search/American%20Legion%2024%20Canton%20MA",
+    "photo": "photos/7f383b2a3f3f.jpg",
+    "website": "https://legion.org"
+  },
   "amvets post fall river|fall river": {
     "maps_url": "https://www.google.com/maps/search/Louis%20Colon%20Amvets%20Fall%20River%20MA",
     "photo": "photos/37e831df34bb.jpg",
@@ -1207,6 +1212,11 @@
   "martini's|whitman": {
     "maps_url": "https://www.google.com/maps/search/Martini%27s%20Whitman%20MA",
     "photo": "photos/90168c52d9e5.jpg",
+    "website": "https://martinispatiowhitman.com"
+  },
+  "martinis bar|whitman": {
+    "maps_url": "https://www.google.com/maps/search/Martinis%20Bar%20Whitman%20MA",
+    "photo": null,
     "website": "https://martinispatiowhitman.com"
   },
   "martinis|plymouth": {

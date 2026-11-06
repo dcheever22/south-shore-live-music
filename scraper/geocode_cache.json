@@ -157,6 +157,12 @@
     "lon": -70.8033487,
     "precision": "venue"
   },
+  "american legion 24, canton": {
+    "display_name": "Washington Street, Canton, Norfolk County, Massachusetts, 02021, United States",
+    "lat": 42.1529461,
+    "lon": -71.1471376,
+    "precision": "venue"
+  },
   "amvets post fall river, fall river": {
     "display_name": "659, Brayton Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
     "lat": 41.7318981,
@@ -1377,6 +1383,12 @@
     "precision": "venue"
   },
   "martini's, whitman": {
+    "display_name": "552, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
+    "lat": 42.0799647,
+    "lon": -70.9374175,
+    "precision": "venue"
+  },
+  "martinis bar, whitman": {
     "display_name": "552, Washington Street, Whitman, Plymouth County, Massachusetts, 02382, United States",
     "lat": 42.0799647,
     "lon": -70.9374175,
