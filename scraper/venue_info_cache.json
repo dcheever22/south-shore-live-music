@@ -164,6 +164,11 @@
     "photo": "photos/6220f1814779.jpg",
     "website": "https://annasharborsidegrille.com"
   },
+  "anna's|plymouth": {
+    "maps_url": "https://www.google.com/maps/search/Anna%27s%20Plymouth%20MA",
+    "photo": null,
+    "website": "https://annasharborsidegrille.com"
+  },
   "anna\u2019s harborside|plymouth": {
     "maps_url": "https://www.google.com/maps/search/Anna%E2%80%99s%20Harborside%20Plymouth%20MA",
     "photo": "photos/e2ca65c310d1.jpg",
@@ -317,6 +322,11 @@
   "braintree moose lodge|braintree": {
     "maps_url": "https://www.google.com/maps/search/Braintree%20Moose%20Lodge%20Braintree%20MA",
     "photo": "photos/651ac7a91314.jpg",
+    "website": null
+  },
+  "braintree moose|braintree": {
+    "maps_url": "https://www.google.com/maps/search/Braintree%20Moose%20Braintree%20MA",
+    "photo": null,
     "website": null
   },
   "braintree town hall|braintree": {
@@ -942,6 +952,11 @@
   "j&g hillside pub|stoughton": {
     "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Pub%20Stoughton%20MA",
     "photo": "photos/3db1a61eaaad.jpg",
+    "website": "https://jghillsidegrill.com"
+  },
+  "j&g hillside|stoughton": {
+    "maps_url": "https://www.google.com/maps/search/J%26G%20Hillside%20Stoughton%20MA",
+    "photo": null,
     "website": "https://jghillsidegrill.com"
   },
   "j&r's indian head|hanson": {
@@ -1824,6 +1839,11 @@
     "photo": "photos/209673e06b12.jpg",
     "website": "https://sip1620.com"
   },
+  "somewhere else tavern|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/Somewhere%20Else%20Tavern%20Pembroke%20MA",
+    "photo": null,
+    "website": "https://setpmb.com"
+  },
   "somewhere else|pembroke": {
     "maps_url": "https://www.google.com/maps/search/Somewhere%20Else%20Pembroke%20MA",
     "photo": "photos/8b27d025d6d0.jpg",
@@ -1942,6 +1962,11 @@
   "stoneforge publick house|raynham": {
     "maps_url": "https://www.google.com/maps/search/Stoneforge%20Publick%20House%20Raynham%20MA",
     "photo": "photos/4bc9a6568253.jpg",
+    "website": "https://stoneforgerestaurants.com"
+  },
+  "stoneforge tavern & publick house|raynham": {
+    "maps_url": "https://www.google.com/maps/search/Stoneforge%20Tavern%20%26%20Publick%20House%20Raynham%20MA",
+    "photo": null,
     "website": "https://stoneforgerestaurants.com"
   },
   "stoneforge tavern|raynham": {

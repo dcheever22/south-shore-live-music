@@ -187,6 +187,12 @@
     "lon": -70.6677276,
     "precision": "venue"
   },
+  "anna's, plymouth": {
+    "display_name": "Anna's Harborside Grille, 145, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
+    "lat": 41.9617628,
+    "lon": -70.6677276,
+    "precision": "venue"
+  },
   "anna\u2019s harborside, plymouth": {
     "display_name": "Anna's Harborside Grille, 145, Water Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9617628,
@@ -363,6 +369,12 @@
     "precision": "venue"
   },
   "braintree moose lodge, braintree": {
+    "display_name": "Howard Street, East Braintree, Braintree, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.2311934,
+    "lon": -70.9813191,
+    "precision": "venue"
+  },
+  "braintree moose, braintree": {
     "display_name": "Howard Street, East Braintree, Braintree, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.2311934,
     "lon": -70.9813191,
@@ -1064,6 +1076,12 @@
     "precision": "venue"
   },
   "j&g hillside pub, stoughton": {
+    "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
+    "lat": 42.1061845,
+    "lon": -71.0762816,
+    "precision": "venue"
+  },
+  "j&g hillside, stoughton": {
     "display_name": "Cedar Hill Golf Course, 1137, Park Street, South Stoughton, Stoughton, Norfolk County, Massachusetts, 02072, United States",
     "lat": 42.1061845,
     "lon": -71.0762816,
@@ -2080,6 +2098,12 @@
     "lon": -70.6692569,
     "precision": "venue"
   },
+  "somewhere else tavern, pembroke": {
+    "display_name": "Somewhere Else Tavern, 65, School Street, Mayflower Grove, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.04134,
+    "lon": -70.8372192,
+    "precision": "venue"
+  },
   "somewhere else, pembroke": {
     "display_name": "Somewhere Else Tavern, 65, School Street, Mayflower Grove, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.04134,
@@ -2219,6 +2243,12 @@
     "precision": "town"
   },
   "stoneforge publick house, raynham": {
+    "display_name": "90, Paramount Drive, Raynham, Bristol County, Massachusetts, 02767, United States",
+    "lat": 41.9035363,
+    "lon": -71.035245,
+    "precision": "venue"
+  },
+  "stoneforge tavern & publick house, raynham": {
     "display_name": "90, Paramount Drive, Raynham, Bristol County, Massachusetts, 02767, United States",
     "lat": 41.9035363,
     "lon": -71.035245,
