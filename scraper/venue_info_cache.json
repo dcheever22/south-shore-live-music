@@ -834,6 +834,11 @@
     "photo": "photos/e4d88b4a8897.jpg",
     "website": "https://greenharborlobsterpound.com"
   },
+  "hall|": {
+    "maps_url": "https://www.google.com/maps/search/Faneuil%20Hall%20Marketplace%20%20MA",
+    "photo": null,
+    "website": "https://faneuilhallmarketplace.com"
+  },
   "hanover crossing|": {
     "maps_url": "https://www.google.com/maps/search/Hanover%20Crossing%20%20MA",
     "photo": "photos/4f3a0320359f.jpg",
@@ -2058,6 +2063,11 @@
     "maps_url": "https://www.google.com/maps/search/The%20Chantey%20Quincy%20MA",
     "photo": "photos/47c3a75ae94c.jpg",
     "website": "https://thechanteyatmarinabay.com"
+  },
+  "the cottage bar|weymouth": {
+    "maps_url": "https://www.google.com/maps/search/The%20Cottage%20Bar%20Weymouth%20MA",
+    "photo": null,
+    "website": "https://thecottageweymouth.com"
   },
   "the cottage|weymouth": {
     "maps_url": "https://www.google.com/maps/search/The%20Cottage%20Weymouth%20MA",
