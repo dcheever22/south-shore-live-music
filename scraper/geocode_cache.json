@@ -127,6 +127,12 @@
     "lon": -70.9209727,
     "precision": "venue"
   },
+  "agoro's pizza bar, somerset": {
+    "display_name": "2756, County Street, Somerset, Bristol County, Massachusetts, 02726, United States",
+    "lat": 41.7697126,
+    "lon": -71.1378268,
+    "precision": "venue"
+  },
   "agoro\u2019s pizza bar, somerset": {
     "display_name": "2756, County Street, Somerset, Bristol County, Massachusetts, 02726, United States",
     "lat": 41.7697126,
@@ -434,6 +440,12 @@
     "lon": -70.6963163,
     "precision": "venue"
   },
+  "brewster bar. plymouth, plymouth": {
+    "display_name": "46, Main Street, Rocky Nook, Kingston, Plymouth County, Massachusetts, 02364, United States",
+    "lat": 41.9837205,
+    "lon": -70.7013677,
+    "precision": "venue"
+  },
   "bridgewater citizens club, bridgewater": {
     "display_name": "Hale Street, Bridgewater, Plymouth County, Massachusetts, 02325, United States",
     "lat": 41.9908352,
@@ -622,6 +634,12 @@
     "precision": "venue"
   },
   "coop's bar & grille, quincy": {
+    "display_name": "520, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.247582,
+    "lon": -70.980285,
+    "precision": "venue"
+  },
+  "coop's, quincy": {
     "display_name": "520, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.247582,
     "lon": -70.980285,
@@ -1454,6 +1472,12 @@
     "lon": -70.7111833,
     "precision": "venue"
   },
+  "mcswiggan's, weymouth": {
+    "display_name": "450, Washington Street, Weymouth, Norfolk County, Massachusetts, 02188, United States",
+    "lat": 42.208486,
+    "lon": -70.95767,
+    "precision": "venue"
+  },
   "mcswiggans, weymouth": {
     "display_name": "450, Washington Street, Weymouth, Norfolk County, Massachusetts, 02188, United States",
     "lat": 42.208486,
@@ -1522,6 +1546,12 @@
     "lat": 41.6376043,
     "lon": -70.9036487,
     "precision": "town"
+  },
+  "new bedford country club, new bedford": {
+    "display_name": "Country Club Of New Bedford, 585, Slocum Road, North Dartmouth, Dartmouth, Bristol County, Massachusetts, 02747, United States",
+    "lat": 41.6431227,
+    "lon": -70.9751628,
+    "precision": "venue"
   },
   "new bedford whaling museum, new bedford": {
     "display_name": "New Bedford Whaling Museum, 18, Johnny Cake Hill, New Bedford, Bristol County, Massachusetts, 02740, United States",
