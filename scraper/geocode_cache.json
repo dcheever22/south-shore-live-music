@@ -1928,6 +1928,7 @@
     "lon": -70.9263394,
     "precision": "venue"
   },
+  "red rose irish pub": null,
   "red rose irish pub, weymouth": {
     "display_name": "Red Rose Cafe, 800, Broad Street, Lincoln Heights, East Weymouth, Weymouth, Norfolk County, Massachusetts, 02189, United States",
     "lat": 42.2161613,
@@ -2409,6 +2410,12 @@
     "display_name": "333, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
     "lat": 42.2995509,
     "lon": -71.0280111,
+    "precision": "venue"
+  },
+  "the comfort zone, somerset": {
+    "display_name": "1525, Riverside Avenue, Somerset, Bristol County, Massachusetts, 02726, United States",
+    "lat": 41.7349919,
+    "lon": -71.1507699,
     "precision": "venue"
   },
   "the cottage bar, weymouth": {
