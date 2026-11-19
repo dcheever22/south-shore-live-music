@@ -2195,6 +2195,12 @@
     "lon": -70.7720353,
     "precision": "venue"
   },
+  "south shore country club, none": {
+    "display_name": "South Shore Country Club, 274, South Street, West Hingham, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2313527,
+    "lon": -70.9003409,
+    "precision": "venue"
+  },
   "speedwell tavern, plymouth": {
     "display_name": "Speedwell Tavern, 47, Middle Street, Plymouth Village Historic District, North Plymouth, Plymouth, Plymouth County, Massachusetts, 02360, United States",
     "lat": 41.9566824,
