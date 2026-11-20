@@ -1279,6 +1279,12 @@
     "lon": -71.0814358,
     "precision": "town"
   },
+  "leo\u2019s restaurant, braintree": {
+    "display_name": "589;601, Granite Street, Five Corners, Braintree, Norfolk County, Massachusetts, 02184, United States",
+    "lat": 42.2106191,
+    "lon": -71.0213986,
+    "precision": "venue"
+  },
   "leo\u2019s, braintree": {
     "display_name": "589;601, Granite Street, Five Corners, Braintree, Norfolk County, Massachusetts, 02184, United States",
     "lat": 42.2106191,
