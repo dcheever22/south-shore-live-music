@@ -157,6 +157,12 @@
     "lon": -70.9432528,
     "precision": "venue"
   },
+  "alumni sports cafe, pembroke": {
+    "display_name": "95, Washington Street, North Pembroke, Pembroke, Plymouth County, Massachusetts, 02359, United States",
+    "lat": 42.1032315,
+    "lon": -70.8033487,
+    "precision": "venue"
+  },
   "alumni, pembroke": {
     "display_name": "95, Washington Street, North Pembroke, Pembroke, Plymouth County, Massachusetts, 02359, United States",
     "lat": 42.1032315,
@@ -227,6 +233,12 @@
     "display_name": "10, Plain Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
     "lat": 41.8856462,
     "lon": -71.0881861,
+    "precision": "venue"
+  },
+  "az studios, hingham": {
+    "display_name": "29, Main Street, Hingham Center, Hingham, Plymouth County, Massachusetts, 02043, United States",
+    "lat": 42.2417317,
+    "lon": -70.8888618,
     "precision": "venue"
   },
   "baron hugo gazebo at milton town hall, milton": {
@@ -651,6 +663,12 @@
     "lon": -70.980285,
     "precision": "venue"
   },
+  "coop\u2019s bar & grille, quincy": {
+    "display_name": "520, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
+    "lat": 42.247582,
+    "lon": -70.980285,
+    "precision": "venue"
+  },
   "coop\u2019s, quincy": {
     "display_name": "520, Washington Street, Quincy Point, Quincy, Norfolk County, Massachusetts, 02169, United States",
     "lat": 42.247582,
@@ -986,6 +1004,12 @@
     "display_name": "Hanover Crossing, Hanover, Plymouth County, Massachusetts, United States",
     "lat": 42.1454797,
     "lon": -70.8419102,
+    "precision": "venue"
+  },
+  "harbor united methodist church, scituate": {
+    "display_name": "55, First Parish Road, Scituate Station, Greenbush, Scituate, Plymouth County, Massachusetts, 02066, United States",
+    "lat": 42.1917098,
+    "lon": -70.730693,
     "precision": "venue"
   },
   "harmon golf, rockland": {
@@ -2629,6 +2653,12 @@
     "precision": "town"
   },
   "towne tap & tavern, e. bridgewater": {
+    "display_name": "175, North Bedford Street, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
+    "lat": 42.0382156,
+    "lon": -70.9571353,
+    "precision": "venue"
+  },
+  "towne tavern & tap, e. bridgewater": {
     "display_name": "175, North Bedford Street, East Bridgewater, Plymouth County, Massachusetts, 02333, United States",
     "lat": 42.0382156,
     "lon": -70.9571353,

@@ -139,6 +139,11 @@
     "photo": "photos/e34054a07543.jpg",
     "website": "https://alumnipizzaweymouth.com"
   },
+  "alumni sports cafe|pembroke": {
+    "maps_url": "https://www.google.com/maps/search/Alumni%20Sports%20Cafe%20Pembroke%20MA",
+    "photo": null,
+    "website": "https://alumnisportscafe.org"
+  },
   "alumni|pembroke": {
     "maps_url": "https://www.google.com/maps/search/Alumni%20Pembroke%20MA",
     "photo": null,
@@ -198,6 +203,11 @@
     "maps_url": "https://www.google.com/maps/search/Atlantic%20Caf%C3%A9%20Taunton%20MA",
     "photo": "photos/68b6a642dc4e.jpg",
     "website": null
+  },
+  "az studios|hingham": {
+    "maps_url": "https://www.google.com/maps/search/AZ%20Studios%20Hingham%20MA",
+    "photo": null,
+    "website": "https://azstudiosalon.com"
   },
   "baron hugo gazebo at milton town hall|": {
     "maps_url": "https://www.google.com/maps/search/Baron%20Hugo%20Gazebo%20at%20Milton%20Town%20Hall%20%20MA",
@@ -584,6 +594,11 @@
     "photo": "photos/5715430a2a16.jpg",
     "website": "https://coopsbarandgrille.com"
   },
+  "coop\u2019s bar & grille|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Coop%E2%80%99s%20Bar%20%26%20Grille%20Quincy%20MA",
+    "photo": null,
+    "website": "https://coopsbarandgrille.com"
+  },
   "coop\u2019s|quincy": {
     "maps_url": "https://www.google.com/maps/search/Coop%E2%80%99s%20Quincy%20MA",
     "photo": "photos/9f7234d8778d.jpg",
@@ -868,6 +883,11 @@
     "maps_url": "https://www.google.com/maps/search/Hanover%20Crossing%20Hanover%20MA",
     "photo": "photos/a024f11cb68a.jpg",
     "website": "https://thehanovercrossing.com"
+  },
+  "harbor united methodist church|scituate": {
+    "maps_url": "https://www.google.com/maps/search/Harbor%20United%20Methodist%20Church%20Scituate%20MA",
+    "photo": null,
+    "website": "https://harborumc.org"
   },
   "harmon golf|rockland": {
     "maps_url": "https://www.google.com/maps/search/Harmon%20Golf%20Rockland%20MA",
@@ -2292,6 +2312,11 @@
   "towne tap & tavern|e. bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Towne%20Tap%20%26%20Tavern%20E.%20Bridgewater%20MA",
     "photo": "photos/a6955a8dae43.jpg",
+    "website": "https://townetavern.com"
+  },
+  "towne tavern & tap|e. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Towne%20Tavern%20%26%20Tap%20E.%20Bridgewater%20MA",
+    "photo": null,
     "website": "https://townetavern.com"
   },
   "towne tavern & treehouse|pembroke": {
