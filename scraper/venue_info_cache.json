@@ -204,6 +204,11 @@
     "photo": "photos/68b6a642dc4e.jpg",
     "website": null
   },
+  "az studios|": {
+    "maps_url": "https://www.google.com/maps/search/AZ%20Studio%20%20MA",
+    "photo": null,
+    "website": "https://azstudiosalon.com"
+  },
   "az studios|hingham": {
     "maps_url": "https://www.google.com/maps/search/AZ%20Studios%20Hingham%20MA",
     "photo": null,
@@ -241,6 +246,11 @@
   },
   "barrett\u2019s alehouse|bridgewater": {
     "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20Bridgewater%20MA",
+    "photo": null,
+    "website": null
+  },
+  "barrett\u2019s alehouse|e. bridgewater": {
+    "maps_url": "https://www.google.com/maps/search/Barrett%27s%20Alehouse%20Bridgewater%20E.%20Bridgewater%20MA",
     "photo": null,
     "website": null
   },
@@ -481,6 +491,11 @@
   },
   "cagney's|weymouth": {
     "maps_url": "https://www.google.com/maps/search/Cagney%27s%20Weymouth%20MA",
+    "photo": null,
+    "website": "https://cagneyspubquincyma.com"
+  },
+  "cagney\u2019s|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Cagney%E2%80%99s%20Quincy%20MA",
     "photo": null,
     "website": "https://cagneyspubquincyma.com"
   },
