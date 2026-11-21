@@ -2449,6 +2449,12 @@
     "lon": -70.9415701,
     "precision": "venue"
   },
+  "the center on main, taunton": {
+    "display_name": "49, Main Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
+    "lat": 41.901625,
+    "lon": -71.091351,
+    "precision": "venue"
+  },
   "the chantey at marina bay, quincy": {
     "display_name": "333, Victory Road, Marina Bay, Quincy, Norfolk County, Massachusetts, 02171, United States",
     "lat": 42.2995509,
