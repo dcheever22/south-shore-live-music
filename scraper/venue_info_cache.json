@@ -294,6 +294,11 @@
     "photo": "photos/88d31d0231e2.jpg",
     "website": null
   },
+  "beijing house|norwell": {
+    "maps_url": "https://www.google.com/maps/search/Beijing%20House%20Norwell%20MA",
+    "photo": null,
+    "website": "https://beijinghouserestaurant1.com"
+  },
   "berkely beer|taunton": {
     "maps_url": "https://www.google.com/maps/search/Berkely%20Beer%20Taunton%20MA",
     "photo": "photos/ea212e5abdfe.jpg",
@@ -1787,6 +1792,11 @@
   "ryan's sports pub|new bedford": {
     "maps_url": "https://www.google.com/maps/search/Ryan%27s%20Sports%20Pub%20New%20Bedford%20MA",
     "photo": "photos/15c91b071dfb.png",
+    "website": "https://ryanspubnb.com"
+  },
+  "ryan\u2019s sports pub|new": {
+    "maps_url": "https://www.google.com/maps/search/Ryan%E2%80%99s%20Sports%20Pub%20New%20MA",
+    "photo": null,
     "website": "https://ryanspubnb.com"
   },
   "ryan\u2019s sports pub|new bedford": {

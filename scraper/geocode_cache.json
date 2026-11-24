@@ -333,6 +333,12 @@
     "lon": -70.6641849,
     "precision": "venue"
   },
+  "beijing house, norwell": {
+    "display_name": "Beijing House Restaurant, 456, Washington Street, Assinippi, Jacobs Lake Shores, Norwell, Plymouth County, Massachusetts, 02061, United States",
+    "lat": 42.1591715,
+    "lon": -70.8543712,
+    "precision": "venue"
+  },
   "berkely beer, taunton": {
     "display_name": "10, Ingell Street, Weir Village, Taunton, Bristol County, Massachusetts, 02780, United States",
     "lat": 41.8952239,
@@ -2033,6 +2039,12 @@
     "precision": "venue"
   },
   "ryan's sports pub, new bedford": {
+    "display_name": "500, Hathaway Road, Rockdale, New Bedford, Bristol County, Massachusetts, 02746, United States",
+    "lat": 41.6542257,
+    "lon": -70.9586577,
+    "precision": "venue"
+  },
+  "ryan\u2019s sports pub, new": {
     "display_name": "500, Hathaway Road, Rockdale, New Bedford, Bristol County, Massachusetts, 02746, United States",
     "lat": 41.6542257,
     "lon": -70.9586577,
