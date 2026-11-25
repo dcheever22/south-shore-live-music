@@ -569,6 +569,11 @@
     "photo": "photos/3ef161b24e7a.jpg",
     "website": "https://ciscokitchenbar.com"
   },
+  "cisco brewery|": {
+    "maps_url": "https://www.google.com/maps/search/Cisco%20Brewers%20New%20Bedford%20%20MA",
+    "photo": null,
+    "website": null
+  },
   "cohasset commons|cohasset": {
     "maps_url": "https://www.google.com/maps/search/Cohasset%20Commons%20Cohasset%20MA",
     "photo": "photos/c15897ff73f5.jpg",
@@ -702,6 +707,11 @@
   "daddy\u2019s beach club|hull": {
     "maps_url": "https://www.google.com/maps/search/Daddy%E2%80%99s%20Beach%20Club%20Hull%20MA",
     "photo": "photos/5c906d3ca448.jpg",
+    "website": "https://daddysbeachclub.com"
+  },
+  "daddy\u2019s|hull": {
+    "maps_url": "https://www.google.com/maps/search/Daddy%E2%80%99s%20Hull%20MA",
+    "photo": null,
     "website": "https://daddysbeachclub.com"
   },
   "deep pond farm|e. taunton": {
@@ -1113,6 +1123,11 @@
     "maps_url": "https://www.google.com/maps/search/Kilroy%27s%20OTS%20Quincy%20MA",
     "photo": "photos/232d12c247c6.jpg",
     "website": "https://kilroysots.bar"
+  },
+  "knuckleheads|": {
+    "maps_url": "https://www.google.com/maps/search/Knuckleheads%20%20MA",
+    "photo": null,
+    "website": "https://knuckleheadsnb.com"
   },
   "knuckleheads|new bedfor": {
     "maps_url": "https://www.google.com/maps/search/Knuckleheads%20New%20Bedfor%20MA",
@@ -1689,10 +1704,20 @@
     "photo": "photos/f624d3a88ed2.jpg",
     "website": "https://elks.org"
   },
+  "quincy elks|quincy": {
+    "maps_url": "https://www.google.com/maps/search/Quincy%20Elks%20Quincy%20MA",
+    "photo": null,
+    "website": "https://elks.org"
+  },
   "rags tavern|quincy": {
     "maps_url": "https://www.google.com/maps/search/Rags%20Tavern%20Quincy%20MA",
     "photo": "photos/20900f11c9c5.jpg",
     "website": null
+  },
+  "randolph am vets|randolph": {
+    "maps_url": "https://www.google.com/maps/search/Randolph%20AM%20Vets%20Randolph%20MA",
+    "photo": "photos/33e128988c90.jpg",
+    "website": "https://randolphamvetspost51.org"
   },
   "randolph amvets post 51|": {
     "maps_url": "https://www.google.com/maps/search/Randolph%20Amvets%20Post%2051%20%20MA",
@@ -2267,6 +2292,11 @@
   "three sips brewing|carver": {
     "maps_url": "https://www.google.com/maps/search/Three%20Sips%20Brewing%20Carver%20MA",
     "photo": "photos/b3cfa8ab4aab.jpg",
+    "website": "https://threesipsbrewco.com"
+  },
+  "three sips|carver": {
+    "maps_url": "https://www.google.com/maps/search/Three%20Sips%20Carver%20MA",
+    "photo": null,
     "website": "https://threesipsbrewco.com"
   },
   "three v sandbar|plymouth": {
